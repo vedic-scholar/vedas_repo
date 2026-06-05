@@ -1,0 +1,58 @@
+---
+title: "Rigveda Mandala 5, Hymn 20"
+category: "Rigveda"
+chapter: "Mandala 5"
+hymn: "Hymn 20"
+---
+
+# Verse 1
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+AGNI, best winner of the spoil, cause us to praise before the Gods As our associate meet for lauds, wealth which thou verily deemest wealth.
+
+---
+
+# Verse 2
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Agni, the great who ward not off the anger of thy power and might Stir up the wrath and hatred due to one who holds an alien creed.
+
+---
+
+# Verse 3
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Thee, Agni, would we choose as Priest, the perfecter of strength and skill; We who bring sacred food invoke with song thee Chief at holy rites.
+
+---
+
+# Verse 4
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Here as is needful for thine aid we toil, O Conqueror, day by day, For wealth, for Law. May we rejoice, Most Wise One! at the feast, with kine, rejoice, with heroes, at the feast.
+
+---

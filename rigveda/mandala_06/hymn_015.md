@@ -1,0 +1,253 @@
+---
+title: "Rigveda Mandala 6, Hymn 15"
+category: "Rigveda"
+chapter: "Mandala 6"
+hymn: "Hymn 15"
+---
+
+# Verse 1
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+WITH this my song I strive to reach this guest of yours, who wakes at early morn, the Lord of all the tribes. Each time he comes from heaven, the Pure One from of old: from ancient days the Child cats everlasting food.
+
+---
+
+# Verse 2
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Whom, well-dis sed, the Blirgus stablished as a rriend, whom men must glorify, high-flaming in the wood. As such, most friendly, thou art every day extolled in lauds by Vitahavya, O thou wondrous God.
+
+---
+
+# Verse 3
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Be thou the foeless helper of the skilful man, subduer of the enemy near or far away. Bestow a wealthy home on men, O Son of Strength. Give Vitahavya riches spreading far and wide, give Bharadvāja wide-spread wealth.
+
+---
+
+# Verse 4
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Him, your refulgent guest, Agni who comes from heaven, the Herald of mankind, well-skilled in sacred rites, Who, like a holy singer, utters heavenly words, oblation-bearer, envoy, God, I seek with hymns.
+
+---
+
+# Verse 5
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Who with his purifying, eye-attracting form hath shone upon the earth as with the light of Dawn; Who speeding on, as in the fight of Etaia, cometh, untouched by age, as one athirst in heat.
+
+---
+
+# Verse 6
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Worship ye Agni, Agni, with your log of wood; praise your beloved, your beloved guest with songs. Invite ye the Immortal hither with your hymns. A God among the Gods, he loveth what is choice, loveth our service, God mid Gods.
+
+---
+
+# Verse 7
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Agni inflamed with fuel in my song I sing, pure, Cleanser, steadlast, set in tront at sacrifice. Wise Jātavedas we implore with prayers for bliss the Priest, the holy Singer, bounteous, void of guile.
+
+---
+
+# Verse 8
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Men, Agni, in each age have made thee, Deathiess One, their envoy, offering-bearer, guard adorable. With reverence Gods and mortals have established thee, the ever-watchful, omnipresent Household Lord.
+
+---
+
+# Verse 9
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Thou, Agni, ordering the works and ways of both, as envoy of the Gods traversest both the worlds. When we lay claim to thy regard and gracious fare, be thou to us a thriceprotecting friendly guard.
+
+---
+
+# Verse 10
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Him fair of face, rapid, and fair to look on, him very wise may we who know not follow. Let him who knows all rules invite for worship, Agru announce our offering to the Immortals.
+
+---
+
+# Verse 11
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Him, Agni, thou deliverest and savest who brings him prayer to thee the Wise, O Hero, The end of sacrifice or its inception; yea, thou endowest him with power and riches.
+
+---
+
+# Verse 12
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Guard us from him who would assail us, Agni; preserve us, O thou Victor, from dishonour. Here let the place of darkening come upon thee: may wealth be ours, desirable in thousands.
+
+---
+
+# Verse 13
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Agni, the Priest, is King, Lord of the homestead, he, Jatayedas, knows all generations. Most skilful worshipper mid Gods and mortals, may he begin the sacrifice, the Holy.
+
+---
+
+# Verse 14
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Whate’er to-day thou, bright-flamed Priest, enjoyest from the man's rite-for thou art sacrificer- Worship, for duly dost thou spread in greatness: bear off thine ofrerings of to-day, Most Youthful.
+
+---
+
+# Verse 15
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Look thou upon the viands duly laid for thee. Fain would he set thee here to worship Heaven and,Earth. Help us, O liberal Agni, in the strife for spoil, so that we may o’ercome all things that trouble us, o’ercome, o’ercome them with thy help.
+
+---
+
+# Verse 16
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Together with all Gods, O fair-faced Agni, be seated first upon the woollined altar, Nest-like, bedewed with oil. Bear this our worship to Savitar who sacrifices rightly.
+
+---
+
+# Verse 17
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Here the arranging priests, as did Atharvan, rub this Agni forth, Whom, not bewildered, as he moved in winding ways, they brought from gloom.
+
+---
+
+# Verse 18
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+For the Gods’ banquet be thou born, for full perfection and for weal. Bring the Immortal Gods who strengthen holy Law: so let our sacrifice reach the Gods.
+
+---
+
+# Verse 19
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+O Agni, Lord and Master of men's homesteads, with kindled fuel we have made thee mighty. Let not our household gear be found defective. Sharpen us with thy penetrating splendour.
+
+---

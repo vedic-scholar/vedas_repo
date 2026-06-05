@@ -1,0 +1,149 @@
+---
+title: "Rigveda Mandala 10, Hymn 71"
+category: "Rigveda"
+chapter: "Mandala 10"
+hymn: "Hymn 71"
+---
+
+# Verse 1
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+WHEN-men, Bṛhaspati, giving names to objects, sent out Vāk's first and earliest utterances, All that was excellent and spotless, treasured within them, was disclosed through their affection.
+
+---
+
+# Verse 2
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Where, like men cleansing corn-flour in a cribble, the wise in spirit have created language, Friends see and recognize the marks of friendship: their speech retains the blessed sign imprinted.
+
+---
+
+# Verse 3
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+With sacrifice the trace of Vāk they foIlowed, and found her harbouring within the Ṛṣis. They brought her, dealt her forth in many places: seven singers make her tones resound in concert.
+
+---
+
+# Verse 4
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+One man hath ne’er seen Vāk, and yet he seeth: one man hath hearing but hath never heard her. But to another hath she shown her beauty as a fond well-dressed woman to her husband.
+
+---
+
+# Verse 5
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+One man they call a laggard, dull in friendship: they never urge him on to deeds of valour. He wanders on in profitless illusion: the Voice he heard yields neither fruit,nor blossom.
+
+---
+
+# Verse 6
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+No part in Vāk hath he who hath abandoned his own dear friend who knows the truth of friendship. Even if he hears her still in vain he listens: naught knows he of the path of righteous action.
+
+---
+
+# Verse 7
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Unequal in the quickness of their spirit are friends endowed alike with eyes and hearing. Some look like tanks that reach the mouth or shoulder, others like pools of water fit to bathe in.
+
+---
+
+# Verse 8
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+When friendly Brahmans sacrifice together with mental impulse which the heart hath fashioned, They leave one far behind through their attainments, and some who count as Brahmans wander elsewhere.
+
+---
+
+# Verse 9
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Those men who step not back and move not forward, nor Brahmans nor preparers of libations, Having attained to Vāk in sinful fashion spin out their thread in ignorance like spinsters.
+
+---
+
+# Verse 10
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+All friends are joyful in the friend who cometh in triumph, having conquered in assembly. He is their blame-averter, food-provider prepared is he and fit for deed of vigour.
+
+---
+
+# Verse 11
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+One plies his constant task reciting verses. one sings the holy psalm in Sakvari measures. One more, the Brahman, tells the lore of being, and one lays down the rules of sacrificing.
+
+---

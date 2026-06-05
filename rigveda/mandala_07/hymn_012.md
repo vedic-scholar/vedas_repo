@@ -1,0 +1,45 @@
+---
+title: "Rigveda Mandala 7, Hymn 12"
+category: "Rigveda"
+chapter: "Mandala 7"
+hymn: "Hymn 12"
+---
+
+# Verse 1
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+WE with great reverence have approached The Youngest who hath shone forth well-kindled in his dwelling, With wondrous light between wide earth and heaven, well-worshipped, looking forth in all directions.
+
+---
+
+# Verse 2
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Through his great might o’ercoming all misfortunes, praised in the house is Agni Jātavedas. May he protect us from disgrace and trouble, both us who laud him and our noble patrons.
+
+---
+
+# Verse 3
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+O Agni, thou art Varuṇa and Mitra: Vasisthas with their holy hymns exalt thee. With thee be most abundant gain of treasure. Ye Gods, preserve us evermore with blessings.
+
+---

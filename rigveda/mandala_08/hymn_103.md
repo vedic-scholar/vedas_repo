@@ -1,0 +1,97 @@
+---
+title: "Rigveda Mandala 8, Hymn 103"
+category: "Rigveda"
+chapter: "Mandala 8"
+hymn: "Hymn 103"
+---
+
+# Verse 1
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+IN offerings poured to you, O Indra-Varuṇa, these shares of yours stream forth to glorify your state. Ye haste to the libations at each sacrifice when ye assist the worshipper who sheds the juice.
+
+---
+
+# Verse 2
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+The waters and the plants, O Indra-Varuṇa, had efficacious vigour, and attained to might: Ye who have gone beyond the path of middle air,—no godless man is worthy to be called your foe.
+
+---
+
+# Verse 3
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+True is your Krsa's word, Indra and Varuṇa: The seven holy voices pour a wave of meath. For their sake, Lords of splendour! aid the pious man who, unbewildered, keeps you ever in his thoughts.
+
+---
+
+# Verse 4
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Dropping oil, sweet with Soma, pouring forth their stream, are the Seven Sisters in the seat of sacrifice. These, dropping oil, are yours, O Indra-Varuṇa: with these enrich with gifts and help the worshipper.
+
+---
+
+# Verse 5
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+To our great happiness have we ascribed to these Two Bright Ones truthfulness, great strength, and majesty. O Lords of splendour, aid us through the Three-times-Seven, as we pour holy oil, O Indra-Varuṇa.
+
+---
+
+# Verse 6
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+What ye in time of old Indra and Varuṇa, gave Ṛṣis revelation, thought, and power of song, And places which the wise made, weaving sacrifice,—these through my spirit's fervid glow have I beheld.,
+
+---
+
+# Verse 7
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+O Indra-Varuṇa, grant to the worshippers cheerfulness void of pride, and wealth to nourish them.
+
+---

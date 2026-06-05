@@ -1,0 +1,162 @@
+---
+title: "Rigveda Mandala 10, Hymn 58"
+category: "Rigveda"
+chapter: "Mandala 10"
+hymn: "Hymn 58"
+---
+
+# Verse 1
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+THY spirit, that went far away to Yama to Vivasvān's Son, We cause to come to thee again that thou mayst live and sojourn here.
+
+---
+
+# Verse 2
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Thy spirit, that went far away, that passed away to earth and heaven, We cause to come to thee again that thou mayst live and sojourn here.
+
+---
+
+# Verse 3
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Thy spirit, that went far away, away to the four-cornered earth, We cause to come to thee again that thou mayst live and sojourn here.
+
+---
+
+# Verse 4
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Thy spirit, that went far away to the four quarters of the world, We cause to come to thee again that thou mayst live and sojourn here.
+
+---
+
+# Verse 5
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Thy spirit, that went far away, away unto the billowy sea, We cause to come to thee again that thou mayst live and sojourn here.
+
+---
+
+# Verse 6
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Thy spirit, that went far away to beams of light that flash and flow, We cause to come to thee again that thou mayst live and sojourn here.
+
+---
+
+# Verse 7
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Thy spirit, that went far away, went to the waters and the plants, We cause to come to thee again that thou mayst live and sojourn here.
+
+---
+
+# Verse 8
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Thy spirit, that went far away, that visited the Sun and Dawn. We cause to come to thee again that thou mayst live and sojourn here.
+
+---
+
+# Verse 9
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Thy spirit, that went far away, away to lofty mountain heights, We cause to come to thee again that thou mayst live and sojourn here.
+
+---
+
+# Verse 10
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Thy spirit, that went far away into this All, that lives and moves, We cause to come to thee again that thou mayst live and sojourn here.
+
+---
+
+# Verse 11
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Thy spirit, that went far away to distant realms beyond our ken, We cause to come to thee again that thou mayst live and sojourn here.
+
+---
+
+# Verse 12
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Thy spirit, that went far away to all that is and is to be, We cause to come to thee again that thou mayst live and sojourn heie.
+
+---

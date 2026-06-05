@@ -1,0 +1,97 @@
+---
+title: "Rigveda Mandala 10, Hymn 2"
+category: "Rigveda"
+chapter: "Mandala 10"
+hymn: "Hymn 2"
+---
+
+# Verse 1
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+GLADDEN the yearning Gods, O thou Most Youthful: bring them, O Lord of Seasons, knowing seasons, With all the Priests Celestial, O Agni. Best worshipper art thou of all Invokers.
+
+---
+
+# Verse 2
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Thine is the Herald's, thine the Cleanser's office, thinker art thou, wealth-giver, true to Order. Let us with Svāhā offer up oblations, and Agni, worthy God, pay the Gods worship.
+
+---
+
+# Verse 3
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+To the Gods’ pathway have we travelled, ready to execute what work we may accomplish. Let Agni, for he knows, complete the worship. He is the Priest: let him fix rites and seasons.
+
+---
+
+# Verse 4
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+When we most ignorant neglect the statutes of you, O Deities with whom is knowledge, Wise Agni shall correct our faults and failings, skilled to assign each God his fitting season.
+
+---
+
+# Verse 5
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+When, weak in mind, of feeble understanding, mortals bethink them not of sacrificing, Then shall the prudent and discerning Agni worship the Gods, best worshipper, in season.
+
+---
+
+# Verse 6
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Because the Father hath produced thee, Leader of all our solemn rites, their brilliant Banner: So win by worship pleasant homes abounding in heroes, and rich food to nourish all men.
+
+---
+
+# Verse 7
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Thou whom the Heaven and Earth, thou whom the Waters, and Tvaṣṭar, maker of fair things, created, Well knowing, all along the Fathers' pathway, shine with resplendent light, enkindled, Agni.
+
+---

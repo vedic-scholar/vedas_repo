@@ -1,0 +1,201 @@
+---
+title: "Rigveda Mandala 2, Hymn 33"
+category: "Rigveda"
+chapter: "Mandala 2"
+hymn: "Hymn 33"
+---
+
+# Verse 1
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+FATHER of Maruts, let thy bliss approach us: exclude us not from looking on the sunlight. Gracious to our fleet courser be the Hero may we transplant us, Rudra, in our children.
+
+---
+
+# Verse 2
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+With the most saving medicines which thou givest, Rudra, may I attain a hundred winters. Far from us banish enmity and hatred, and to all quarters maladies and trouble.
+
+---
+
+# Verse 3
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Chief of all born art thou in glory, Rudra, armed with the thunder, mightiest of the mighty. Transport us over trouble to well-being repel thou from us all assaults of mischief.
+
+---
+
+# Verse 4
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Let us not anger thee with worship, Rudra, ill praise, Strong God! or mingled invocation. Do thou with strengthening balms incite our heroes: I hear thee famed as best of all physicians.
+
+---
+
+# Verse 5
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+May I with praise-songs win that Rudra's favour who is adored with gifts and invocations. Ne’er may the tawny God, fair-checked, and gracious, swifthearing, yield us to this evil purpose.
+
+---
+
+# Verse 6
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+The Strong, begirt by Maruts, hath refreshed me, with most invigorating food, imploring. As he who finds a shade in fervent sunlight may I, uninjured, win the bliss of Rudra.
+
+---
+
+# Verse 7
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Where is that gracious hand of thine, O Rudra, the hand that giveth health and bringeth comfort, Remover of the woe that Gods have sent us? O Strong One, look thou on me with compassion.
+
+---
+
+# Verse 8
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+To him the strong, great, tawny, fair-complexioned, I utter forth a mighty hymn of praises. We serve the brilliant God with adorations, we glorify, the splendid name of Rudra.
+
+---
+
+# Verse 9
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+With firm limbs, multiform, the strong, the tawny adorns himself with bright gold decorations: The strength of Godhead ne’er departs from Rudra, him who is Sovran of this world, the mighty.
+
+---
+
+# Verse 10
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Worthy, thou carriest thy bow and arrows, worthy, thy manyhued and honoured necklace. Worthy, thou cuttest here each fiend to pieces: a mightier than thou there is not, Rudra.
+
+---
+
+# Verse 11
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Praise him the chariot-borne, the young, the famous, fierce, slaying like a dread beast of the forest. O Rudra, praised, be gracious to the singer. let thy hosts spare us and smite down another.
+
+---
+
+# Verse 12
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+I bend to thee as thou approachest, Rudra, even as a boy before the sire who greets him. I praise thee Bounteous Giver, Lord of heroes: give medicines to us as thou art lauded.
+
+---
+
+# Verse 13
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Of your pure medicines, O potent Maruts, those that are wholesomest and health-bestowing, Those which our father Manu hath selected, I crave from. Rudra for our gain and welfare.
+
+---
+
+# Verse 14
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+May Rudra's missile turn aside and spare us, the great wrath of the impetuous One avoid us. Turn, Bounteous God, thy strong bow from our princes, and be thou gracious to our seed and offspring.
+
+---
+
+# Verse 15
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+O tawny Bull, thus showing forth thy nature, as neither to be wroth, O God, nor slay us. Here, Rudra, listen to our invocation. Loud may we speak, with heroes, in assembly.
+
+---

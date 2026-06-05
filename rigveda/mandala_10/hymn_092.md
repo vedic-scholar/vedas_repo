@@ -1,0 +1,201 @@
+---
+title: "Rigveda Mandala 10, Hymn 92"
+category: "Rigveda"
+chapter: "Mandala 10"
+hymn: "Hymn 92"
+---
+
+# Verse 1
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+I PRAISE your Charioteer of sacrifice, the Lord of men, Priest of the tribes, refulgent, Guest of night. Blazing amid dry plants, snatching amid the green, the Strong, the Holy Herald hath attained to heaven.
+
+---
+
+# Verse 2
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Him, Agni, Gods and men have made their chief support, who drinks the fatness and completes the sacrifice. With kisses they caress the Grandson of the Red, like the swift ray of light, the Household Priest of Dawn.
+
+---
+
+# Verse 3
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Yea, we discriminate his and the niggard's ways: his branches evermore are sent forth to consume. When his terrific flames have reached the Immortal's world, then men remember and extol the Heavenly Folk.
+
+---
+
+# Verse 4
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+For then the net of Law, Dyaus, and the wide expanse, Earth, Worship, and Devotion meet for highest praise, Varuṇa, Indra, Mitra were of one accord, and Savitar and Bhaga, Lords of holy might.
+
+---
+
+# Verse 5
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Onward, with ever-roaming Rudra, speed the floods: over Aramati the Mighty have they run. With them Parijman, moving round his vast domain, loud bellowing, bedews all things that are within.
+
+---
+
+# Verse 6
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Straightway the Rudras, Maruts visiting all men, Falcons of Dyaus, home-dwellers with the Asura,— Varuṇa, Mitra, Aryaman look on with these, and the swift-moving Indra with swift-moving Gods.
+
+---
+
+# Verse 7
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+With Indra have they found enjoyment, they who toil, in the light's beauty, in the very Strong One's strength; The singers who in men's assemblies forged for him, according to his due, his friend the thunderbolt.
+
+---
+
+# Verse 8
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Even the Sun's Bay Coursers hath lie held in check: each one fears Indra as the mightiest of all. Unhindered, from the air's vault thunders day by day the loud triumphant breathing of the fearful Bull.
+
+---
+
+# Verse 9
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+With humble adoration show this day your song of praise to mighty Rudra, Ruler of the brave: With whom, the Eager Ones, going their ordered course, he comes from heaven Self-bright, auspicious, strong to guard.
+
+---
+
+# Verse 10
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+For these have spread abroad the fame of human kind, the Bull Bṛhaspati and Soma's brotherhood. Atharvan first by sacrifices made men sure: through skill the Bhṛgus were esteemed of all as Gods.
+
+---
+
+# Verse 11
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+For these, the Earth and Heaven with their abundant seed, four-bodied Narāśaṁsa, Yama, Aditi, God Tvaṣṭar Wealth-bestower, the Ṛbhukṣaṇas, Rodasī, Maruts, Viṣṇu, claim and merit praise.
+
+---
+
+# Verse 12
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+And may he too give car, the Sage, from far away, the Dragon of the Deep, to this our yearning call. Ye Sun and Moon who dwell in heaven and move in turn, and with your thought, O Earth and Sky, observe this well.
+
+---
+
+# Verse 13
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Dear to all Gods, may Pūṣan guard the ways we go, the Waters’ child and Vāyu help us to success. Sing lauds for your great bliss to Wind, the breath of all: ye Aśvins prompt to hear, hear this upon your way.
+
+---
+
+# Verse 14
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+With hymns of praise we sing him who is throned as Lord over these fearless tribes, the Self-resplendent One. We praise Night's youthful Lord benevolent to men, the foeless One, the free, with all celestial Dames.
+
+---
+
+# Verse 15
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+By reason of his birth here Aṅgiras first sang: the pressing-stones upraised beheld the sacrifice- The stones through which the Sage became exceeding vast, and the sharp axe obtains in fight the beauteous place.
+
+---

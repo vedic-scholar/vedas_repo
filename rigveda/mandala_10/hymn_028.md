@@ -1,0 +1,162 @@
+---
+title: "Rigveda Mandala 10, Hymn 28"
+category: "Rigveda"
+chapter: "Mandala 10"
+hymn: "Hymn 28"
+---
+
+# Verse 1
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Now all my other friends are here assembled: my Sire-in-law alone hath not come hither. So might he eat the grain and drink the Soma, and, satisfied, return unto; his dwelling.
+
+---
+
+# Verse 2
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Loud belloweth the Bull whose horns are sharpened: upon the height above earth's breadth he standeth. That man I guard and save in all his troubles who fills my flanks when he hath shed the Soma.
+
+---
+
+# Verse 3
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Men with the stone press out for thee, O Indra, strong, gladdening Soma, and thereof thou drinkest. Bulls they dress for thee, and of these thou eatest when, Maghavan, with food thou art invited.
+
+---
+
+# Verse 4
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Resolve for me, O singer, this my riddle: The rivers send their swelling water backward: The fox steals up to the approaching lion: the jackal drives the wild-boar from the brushwood.
+
+---
+
+# Verse 5
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+How shall I solve this riddle, I, the simple, declare the thought of thee the Wise and Mighty? Tell us, well knowing, as befits the season: Whitherward is thy prosperous car advancing?
+
+---
+
+# Verse 6
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Thus do they magnify me, me the mighty higher than even high heaven is my car-pole. I all at once demolish many thousands: my Sire begot me with no foe to match me.
+
+---
+
+# Verse 7
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Yea, and the Gods have known me also, Indra, as mighty, fierce and strong in every exploit. Exulting with the bolt I slaughtered Vṛtra, and for the offerer oped with might the cow-stall.
+
+---
+
+# Verse 8
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+The Deities approached, they carried axes; splitting the wood they came with their attendants. They laid good timber in the fire-receivers, and burnt the grass up where they found it growing.
+
+---
+
+# Verse 9
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+The hare hath swallowed up the opposing razor: I sundered with a clod the distant mountain. The great will I make subject to the little: the calf shall wax in strength and cat the bullock.
+
+---
+
+# Verse 10
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+There hath the strong-winged eagle left his talon, as a snared lion leaves the trap that caught him. Even the wild steer in his thirst is captured: the leather strap still holds his foot entangled.
+
+---
+
+# Verse 11
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+So may the leather strap their foot entangle who fatten on the viands of the Brahman. They all devour the bulls set free to wander, while they themselves destroy their bodies' vigour.
+
+---
+
+# Verse 12
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+They were well occupied with holy duties who sped in person with their lauds to Soma. Speaking like man, mete to us wealth and booty: in heaven thou hast the name and fame of Hero.
+
+---

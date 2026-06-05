@@ -1,0 +1,71 @@
+---
+title: "Rigveda Mandala 8, Hymn 75"
+category: "Rigveda"
+chapter: "Mandala 8"
+hymn: "Hymn 75"
+---
+
+# Verse 1
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+YE Twain are wondrous strong, well-skilled in arts that heal, both bringers of delight, ye both won Dakṣa's praise. Viśvaka calls on you as such to save his life. Break ye not off our friendship, come and set me free.
+
+---
+
+# Verse 2
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+How shall he praise you now who is distraught in mind? Ye Twain give wisdom for the gainof what is good. Viśvaka calls on you as such to save his life. Break ye not off our friendship, come and set me free.
+
+---
+
+# Verse 3
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Already have ye Twain, possessors of great wealth, prospered Viṣṇāpū thus for gain of what is good. Viśvaka calls on you as such to save his life. Break ye not off our friendship, come and set me free.
+
+---
+
+# Verse 4
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+And that Impetuous Hero, winner of the spoil, though he is far away, we call to succour us, Whose gracious favour, like a father's, is most sweet. Break ye not off our friendship, come and set me free.
+
+---
+
+# Verse 5
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+About the holy Law toils Savitar the God the horn of holy Law hath he spread far and wide. The holy Law hath quelled even mighty men of war. Break ye not off our ftiendship, come and act me free.
+
+---

@@ -1,0 +1,84 @@
+---
+title: "Rigveda Mandala 1, Hymn 82"
+category: "Rigveda"
+chapter: "Mandala 1"
+hymn: "Hymn 82"
+---
+
+# Verse 1
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+GRACIOUSLY listen to our songs, Maghavan, be not negligent. As thou hast made us full of joy and lettest us solicit thee, now, Indra, yoke thy two Bay Steeds.
+
+---
+
+# Verse 2
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Well have they eaten and rejoiced; the friends have risen and passed away. The sages luminous in themselves have. praised thee with their latest hymn. Now, Indra, yoke thy two Bay Steeds.
+
+---
+
+# Verse 3
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Maghavan, we will reverence thee who art so fair to look upon. Thus praised, according to our wish come now with richly laden car. Now, Indra, yoke thy two Bay Steeds.
+
+---
+
+# Verse 4
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+He will in very truth ascend the powerful car that finds the kine, Who thinks upon the well-filled bowl, the Tawny Coursers' harnesser. Now, Indra, yoke thy two Bay Steeds.
+
+---
+
+# Verse 5
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Let, Lord of Hundred Powers, thy Steeds be harnessed on the right and left. Therewith in rapture of the juice, draw near to thy beloved Spouse. Now, Indra, yoke thy two Bay Steeds.
+
+---
+
+# Verse 6
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+With holy prayer I yoke thy long-maned pair of Bays: come hitherward; thou holdest them in both thy hands. The stirring draughts of juice outpoured have made thee glad: thou, Thunderer, hast rejoiced with Pūṣan and thy Spouse.
+
+---

@@ -1,0 +1,123 @@
+---
+title: "Rigveda Mandala 6, Hymn 25"
+category: "Rigveda"
+chapter: "Mandala 6"
+hymn: "Hymn 25"
+---
+
+# Verse 1
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+WITH thine assistance, O thou Mighty Indra, be it the least, the midmost, or the highest,— Great with those aids and by these powers support us, Strong God! in battle that subdues our foemen.
+
+---
+
+# Verse 2
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+With these discomfit hosts that fight against us, and check the opponent's wrath, thyself uninjured. With these chase all our foes to every quarter: subdue the tribes of Dāsas to the Ārya.
+
+---
+
+# Verse 3
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Those who array themselves as foes to smite us, O Indra, be they kin or be they strangers,— Strike thou their manly strength that it be feeble, and drive in headlong flight our foemen backward.
+
+---
+
+# Verse 4
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+With strength of limb the hero slays the hero, when bright in arms they range them for the combat. When two opposing hosts contend in battle for seed and offspring, waters, kine, or corn-lands.
+
+---
+
+# Verse 5
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Yet no strong man hath conquered thee, no hero, no brave, no warrior trusting in his valour. Not one of these is match for thee, O Indra. Thou far surpassest all these living creatures.
+
+---
+
+# Verse 6
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+He is the Lord of both these armies' valour when the commanders call them to the conflict: When with their ranks expanded they are fighting with a great foe or for a home with heroes.
+
+---
+
+# Verse 7
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+And when the people stir themselves for battle, be thou their saviour, Indra, and protector, And theirs, thy manliest of our friends, the pious, the chiefs who have installed us priests, O Indra.
+
+---
+
+# Verse 8
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+To thee for high dominion hath been for evermore, for slaughtering the Vṛtras, All lordly power and might, O Holy Indra, given by Gods for victory in battle.
+
+---
+
+# Verse 9
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+So urge our hosts together in the combats: yield up the godless bands that fight against us. Singing, at morn may we find thee with favour, yea, Indra, and e’en now, we Bharadvājas.
+
+---

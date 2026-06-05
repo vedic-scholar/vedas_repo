@@ -1,0 +1,149 @@
+---
+title: "Rigveda Mandala 4, Hymn 33"
+category: "Rigveda"
+chapter: "Mandala 4"
+hymn: "Hymn 33"
+---
+
+# Verse 1
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+I SEND my voice as herald to the Ṛbhus; I crave the white cow for the overspreading. Wind-sped, the Skillful Ones in rapid motion have in an instant compassed round the heaven.
+
+---
+
+# Verse 2
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+What time the Rbus had with care and marvels done proper service to assist their Parents, They won the friendship of the Gods; the Sages carried away the fruit of their devotion.
+
+---
+
+# Verse 3
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+May they who made their Parents, who were lying like posts that moulder, young again for ever,— May Vāja, Vibhvan, Ṛbhu, joined with Indra , protect our sacrifice, the Soma-lovers.
+
+---
+
+# Verse 4
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+As for a year the Ṛbhus kept the Milch-cow, throughout a year fashioned and formed her body, And through a year's space still sustained her brightness, through these their labours they were made immortal.
+
+---
+
+# Verse 5
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+Two beakers let us make,—thus said the eldest. Let us make three,—this was the younger's sentence. Four beakers let us make,—thus spoke the youngest. Tvaṣṭar approved this rede of yours, O Ṛbhus.
+
+---
+
+# Verse 6
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+The men spake truth and even so they acted: this Godlike way of theirs the Ṛbhus followed. And Tvaṣṭar, when he looked on the four beakers resplendent as the day, was moved with envy.
+
+---
+
+# Verse 7
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+When for twelve days the Ṛbhus joyed reposing as guests of him who never may be hidden, They made fair fertile fields, they brought the rivers. Plants spread o’er deserts, waters filled the hollows.
+
+---
+
+# Verse 8
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+May they who formed the swift car, bearing Heroes, and the Cow omniform and all-impelling, Even may they form wealth for us,—the Ṛbhus, dexterous-handed, deft in work and gracious.
+
+---
+
+# Verse 9
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+So in their work the Gods had satisfaction, pondering it with thought and mental insight. The Gods’ expert artificer was Vāja, Indra's Ṛbhukṣan, Varuṇa's was Vibhvan.
+
+---
+
+# Verse 10
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+They who made glad with sacrifice and praises, wrought the two Bays, his docile Steeds, for Indra,— Ṛbhus, as those who wish a friend to prosper, bestow upon us gear and growth of riches.
+
+---
+
+# Verse 11
+
+## Sanskrit
+[Add Devanagari Sanskrit]
+
+## IAST
+[Add IAST Transliteration]
+
+## Translation
+This day have they set gladdening drink before you. Not without toil are Gods inclined to friendship. Therefore do ye who are so great, O Ṛbhus, vouchsafe us treasures at this third libation.
+
+---
