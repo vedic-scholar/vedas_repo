@@ -1,7 +1,7 @@
 ---
-title: "Isha Upanishad"
+title: "Mundaka Upanishad"
 category: "Upanishads"
-chapter: "Isha"
+chapter: "Mundaka"
 ---
 
 # Verse 1

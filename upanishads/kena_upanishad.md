@@ -1,7 +1,7 @@
 ---
-title: "Isha Upanishad"
+title: "Kena Upanishad"
 category: "Upanishads"
-chapter: "Isha"
+chapter: "Kena"
 ---
 
 # Verse 1
