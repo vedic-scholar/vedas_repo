@@ -6,7 +6,7 @@ chapter: "Book 17"
 
 ## Hymn 1: A prayer to Indra, Identified with Vishnu and the Sun, for the love of Gods, men, and beasts, general protection and prosperity, and all earthly and heavenly blessings
 
-# Verse undefined.1
+# Verse 1.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -19,7 +19,7 @@ Vanquishing, overpowering, a conqueror, exceeding strong, Victorious, winner of 
 
 ---
 
-# Verse undefined.2
+# Verse 1.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -32,7 +32,7 @@ Vanquishing etc. Indra by name, adorable I call: May I be dear to Gods.
 
 ---
 
-# Verse undefined.3
+# Verse 1.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -45,7 +45,7 @@ Vanquishing, etc. Indra by name, adorable, I call: may creatures love me well.
 
 ---
 
-# Verse undefined.4
+# Verse 1.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -58,7 +58,7 @@ Vanquishing, etc. Indra by name, adorable, I call: may cattle hold me dear.
 
 ---
 
-# Verse undefined.5
+# Verse 1.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -71,7 +71,7 @@ Vanquishing, etc. Indra by name, adorable, I call: may equals love me well.
 
 ---
 
-# Verse undefined.6
+# Verse 1.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -84,7 +84,7 @@ Rise up, O Sūrya, rise thou up; with strength and splendour rise on me. Let him
 
 ---
 
-# Verse undefined.7
+# Verse 1.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -97,7 +97,7 @@ Rise up, O Sūrya, rise thou up; with strength and splendour rise on me. Make me
 
 ---
 
-# Verse undefined.8
+# Verse 1.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -110,7 +110,7 @@ Let not the fowlers who are standing ready injure thee in the flood, within the 
 
 ---
 
-# Verse undefined.9
+# Verse 1.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -123,7 +123,7 @@ Do thou, O Indra, for our great good fortune, with thine in- violable rays prote
 
 ---
 
-# Verse undefined.10
+# Verse 1.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -136,7 +136,7 @@ Be thou most gracious unto us, Indra, with favourable aid, Rising to heaven's th
 
 ---
 
-# Verse undefined.11
+# Verse 1.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -149,7 +149,7 @@ Thou art the vanquisher of all, O Indra, omniscient Indra, and invoked of many. 
 
 ---
 
-# Verse undefined.12
+# Verse 1.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -162,7 +162,7 @@ In heaven and on the earth thou art uninjured, none reach thy greatness in the a
 
 ---
 
-# Verse undefined.13
+# Verse 1.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -175,7 +175,7 @@ Grant us protection, Indra, with that body of thine that is on earth, in fire, i
 
 ---
 
-# Verse undefined.14
+# Verse 1.14
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -188,7 +188,7 @@ Indra, exalting thee with prayer, imploring, Rishis have sat them down in holy S
 
 ---
 
-# Verse undefined.15
+# Verse 1.15
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -201,7 +201,7 @@ Round Trita, round the spring with thousand currents thou goest, round the light
 
 ---
 
-# Verse undefined.16
+# Verse 1.16
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -214,7 +214,7 @@ Thou guardest well the four celestial regions, pervading heaven, and earth with 
 
 ---
 
-# Verse undefined.17
+# Verse 1.17
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -227,7 +227,7 @@ With five thou sendest heat: with one removing the curse thou comest in bright s
 
 ---
 
-# Verse undefined.18
+# Verse 1.18
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -240,7 +240,7 @@ Indra art thou, Mahendra thou, thou art the world, the Lord of Life. To thee is 
 
 ---
 
-# Verse undefined.19
+# Verse 1.19
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -253,7 +253,7 @@ What is based on what is not: the present lies on that which is.. Present on fut
 
 ---
 
-# Verse undefined.20
+# Verse 1.20
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -266,7 +266,7 @@ Bright art thou, and refulgent: as thou shinest with splendour so I fain would s
 
 ---
 
-# Verse undefined.21
+# Verse 1.21
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -279,7 +279,7 @@ Lustre art thou, illuming: as thou glowest with lustre so I too would shine with
 
 ---
 
-# Verse undefined.22
+# Verse 1.22
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -292,7 +292,7 @@ Glory to him when rising, when ascending! Glory to him when he hath reached the 
 
 ---
 
-# Verse undefined.23
+# Verse 1.23
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -305,7 +305,7 @@ Worship to him when he is turning westward, to him when set- ting, and when set 
 
 ---
 
-# Verse undefined.24
+# Verse 1.24
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -318,7 +318,7 @@ With all his fiery fervour this Āditya hath gone up on high, Giving my foes int
 
 ---
 
-# Verse undefined.25
+# Verse 1.25
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -331,7 +331,7 @@ Thou for our weal, Āditya, hast mounted thy ship with hundred oars. Thou hast t
 
 ---
 
-# Verse undefined.26
+# Verse 1.26
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -344,7 +344,7 @@ Thou for our weal, O Sūrya, hast mounted thy ship with hundred oars. Thou hast 
 
 ---
 
-# Verse undefined.27
+# Verse 1.27
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -357,7 +357,7 @@ Encompassed by Prajāpati's devotion as shield, with Kasyapa's bright light and 
 
 ---
 
-# Verse undefined.28
+# Verse 1.28
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -370,7 +370,7 @@ Compassed am I with prayer, my shield and armour; compassed with Kasyapa's brigh
 
 ---
 
-# Verse undefined.29
+# Verse 1.29
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -383,7 +383,7 @@ Guarded am I by Order and the Seasons, protected by the past and by the future. 
 
 ---
 
-# Verse undefined.30
+# Verse 1.30
 
 ## Sanskrit
 [Add Devanagari Sanskrit]

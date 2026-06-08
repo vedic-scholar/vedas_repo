@@ -6,7 +6,7 @@ chapter: "Book 16"
 
 ## Hymn 1: On the preparation and use of holy water, with, a prayer for purification and freedom from sin
 
-# Verse undefined.1
+# Verse 1.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -19,7 +19,7 @@ The Bull of the Waters hath been let go; the heavenly fires have been let go.
 
 ---
 
-# Verse undefined.2
+# Verse 1.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -32,7 +32,7 @@ Breaking, breaking down, crushing, crushing to pieces,
 
 ---
 
-# Verse undefined.3
+# Verse 1.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -45,7 +45,7 @@ Mroka, mind-destroying, rooting up, consuming, ruiner of the soul, ruiner of the
 
 ---
 
-# Verse undefined.4
+# Verse 1.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -58,7 +58,7 @@ Here I let him go: thou washest me clean of him.
 
 ---
 
-# Verse undefined.5
+# Verse 1.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -71,7 +71,7 @@ With this we let him loose who hates us and whom we hate.
 
 ---
 
-# Verse undefined.6
+# Verse 1.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -84,7 +84,7 @@ Thou art in front of the waters. I let loose your sea.
 
 ---
 
-# Verse undefined.7
+# Verse 1.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -97,7 +97,7 @@ I let loose the Agni who is within the waters, Mroka the up- rooter, the destroy
 
 ---
 
-# Verse undefined.8
+# Verse 1.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -110,7 +110,7 @@ Your Agni who entered into the waters, even he here is that very dread of yours.
 
 ---
 
-# Verse undefined.9
+# Verse 1.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -123,7 +123,7 @@ May he anoint you with Indra's own mighty power!
 
 ---
 
-# Verse undefined.10
+# Verse 1.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -136,7 +136,7 @@ May stainless waters cleanse us from defilement.
 
 ---
 
-# Verse undefined.11
+# Verse 1.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -149,7 +149,7 @@ May they carry sin away from us, may they carry away from us the evil dream.
 
 ---
 
-# Verse undefined.12
+# Verse 1.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -162,7 +162,7 @@ Look on me with a friendly eye, O, Waters, and touch my skin with your auspiciou
 
 ---
 
-# Verse undefined.13
+# Verse 1.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -177,7 +177,7 @@ We call the gracious Fires that dwell in waters. Goddesses, grant me princely po
 
 ## Hymn 2: A charm to secure various blessings
 
-# Verse undefined.1
+# Verse 2.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -190,7 +190,7 @@ Away from distasteful food, strength and sweet speech,
 
 ---
 
-# Verse undefined.2
+# Verse 2.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -203,7 +203,7 @@ Are pleasant. May I obtain a pleasant voice.
 
 ---
 
-# Verse undefined.3
+# Verse 2.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -216,7 +216,7 @@ I have invoked the Protector; I have invoked his protection.
 
 ---
 
-# Verse undefined.4
+# Verse 2.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -229,7 +229,7 @@ Quick of hearing are mine ears; mine ears hear what is good- Fain would I hear a
 
 ---
 
-# Verse undefined.5
+# Verse 2.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -242,7 +242,7 @@ Let not good hearing and overhearing fail the Eagle's eye, the undecaying light.
 
 ---
 
-# Verse undefined.6
+# Verse 2.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -257,7 +257,7 @@ Thou art the couch of the Rishis. Let worship be paid to the divine couch.
 
 ## Hymn 3: A charm to secure power and long life
 
-# Verse undefined.1
+# Verse 3.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -270,7 +270,7 @@ I am the head of riches. Fain would I be the head of mine equals.
 
 ---
 
-# Verse undefined.2
+# Verse 3.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -283,7 +283,7 @@ Let not Ruja and Vena desert me. Let not the Head and the Preserver forsake me.
 
 ---
 
-# Verse undefined.3
+# Verse 3.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -296,7 +296,7 @@ Let not the Boiler and the Cup fail tme: let not the Supporter and the Sustainer
 
 ---
 
-# Verse undefined.4
+# Verse 3.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -309,7 +309,7 @@ Let not Unyoking and the Moist-fellied car desert me: let not the Sender of Mois
 
 ---
 
-# Verse undefined.5
+# Verse 3.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -322,7 +322,7 @@ Brihaspati is my soul, he who is called the Friend of man, dear to my heart.
 
 ---
 
-# Verse undefined.6
+# Verse 3.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -337,7 +337,7 @@ My heart is free from sorrow; spacious is my dwelling-place. I am the sea in cap
 
 ## Hymn 4: A charm to secure long life and success
 
-# Verse undefined.1
+# Verse 4.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -350,7 +350,7 @@ I am the:centre of riches. Fain would I be the centre of mine equals.
 
 ---
 
-# Verse undefined.2
+# Verse 4.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -363,7 +363,7 @@ Pleasant art thou to sit by one, a mother: immortal among mortals.
 
 ---
 
-# Verse undefined.3
+# Verse 4.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -376,7 +376,7 @@ Let not inward breath desert me; let not outward breath depart and leave me.
 
 ---
 
-# Verse undefined.4
+# Verse 4.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -389,7 +389,7 @@ Let Sūrya protect me from Day, Agni from Earth, Vāyu from Firmament, Yama from
 
 ---
 
-# Verse undefined.5
+# Verse 4.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -402,7 +402,7 @@ Let not outward and inward breath fail me. Be not thou destruc- tive among the m
 
 ---
 
-# Verse undefined.6
+# Verse 4.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -415,7 +415,7 @@ Propitious to-day be dawns and evenings. May I drink water with all my people sa
 
 ---
 
-# Verse undefined.7
+# Verse 4.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -430,7 +430,7 @@ Mighty are ye, domestic creatures. May Mitra-Varuna stand beside me. May Agni gi
 
 ## Hymn 5: A charm against evil dreams
 
-# Verse undefined.1
+# Verse 5.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -443,7 +443,7 @@ We know thine origin, O Sleep. Thou art the son of Grahi, the minister of Yama. 
 
 ---
 
-# Verse undefined.2
+# Verse 5.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -456,7 +456,7 @@ We know thine origin, O Sleep. Thou art the son of Destruction, the minister of 
 
 ---
 
-# Verse undefined.3
+# Verse 5.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -469,7 +469,7 @@ We know thine origin, O Sleep. Thou art the son of Misery, etc.
 
 ---
 
-# Verse undefined.4
+# Verse 5.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -482,7 +482,7 @@ We know thine origin, O Sleep. Thou art the son of Disappear- ance, etc.
 
 ---
 
-# Verse undefined.5
+# Verse 5.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -495,7 +495,7 @@ We know thine origin, O Sleep. Thou art the son of Defeat etc.
 
 ---
 
-# Verse undefined.6
+# Verse 5.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -510,7 +510,7 @@ We know thine origin, O Sleep. Thou art the son of the sisters of the Gods, the 
 
 ## Hymn 6: A charm to avert evil dreams, and to transfer them to an enemy
 
-# Verse undefined.1
+# Verse 6.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -523,7 +523,7 @@ Now have we conquered and obtained: we have been freed from sin to-day.
 
 ---
 
-# Verse undefined.2
+# Verse 6.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -536,7 +536,7 @@ Let Morning with her light dispel that evil dream that frightened us.
 
 ---
 
-# Verse undefined.3
+# Verse 6.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -549,7 +549,7 @@ Bear that away to him who hates, away to him who curses us.
 
 ---
 
-# Verse undefined.4
+# Verse 6.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -562,7 +562,7 @@ To him whom we abhor, to him who hates us do we send it hence.
 
 ---
 
-# Verse undefined.5
+# Verse 6.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -575,7 +575,7 @@ May the Goddess Dawn in accord with Speech, and the Goddess Speech in accord wit
 
 ---
 
-# Verse undefined.6
+# Verse 6.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -588,7 +588,7 @@ The Lord of Dawn in accord with the Lord of Speech and the Lord of Speech in acc
 
 ---
 
-# Verse undefined.7
+# Verse 6.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -601,7 +601,7 @@ Carry away to Such-an-one niggard fiends, hostile demons, and Sadanvas,
 
 ---
 
-# Verse undefined.8
+# Verse 6.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -614,7 +614,7 @@ Kumbhikas, Dushikas, and Piyakas,
 
 ---
 
-# Verse undefined.9
+# Verse 6.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -627,7 +627,7 @@ Evil day-dream, evil dream in sleep,
 
 ---
 
-# Verse undefined.10
+# Verse 6.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -640,7 +640,7 @@ Wishes for boons that will not come, thoughts of poverty, the snares of the Druh
 
 ---
 
-# Verse undefined.11
+# Verse 6.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -655,7 +655,7 @@ This, O Agni, let the Gods bear off to Such-an-one that he may be a fragile good
 
 ## Hymn 7: An imprecation on an enemy
 
-# Verse undefined.1
+# Verse 7.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -668,7 +668,7 @@ Herewith I pierce this man. With poverty I pierce him. With disappearance I pier
 
 ---
 
-# Verse undefined.2
+# Verse 7.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -681,7 +681,7 @@ I summon him with the awful cruel orders of the Gods.
 
 ---
 
-# Verse undefined.3
+# Verse 7.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -694,7 +694,7 @@ I place him between Vaisvānara's jaws.
 
 ---
 
-# Verse undefined.4
+# Verse 7.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -707,7 +707,7 @@ Thus or otherwise let her swallow him up.
 
 ---
 
-# Verse undefined.5
+# Verse 7.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -720,7 +720,7 @@ Him who hates us may his soul hate, and may he whom we hate hate himself.
 
 ---
 
-# Verse undefined.6
+# Verse 7.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -733,7 +733,7 @@ We scorch out of heaven and earth and firmament the man who hates us.
 
 ---
 
-# Verse undefined.7
+# Verse 7.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -746,7 +746,7 @@ Suyāman son of Chakshus.
 
 ---
 
-# Verse undefined.8
+# Verse 7.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -759,7 +759,7 @@ Here I wipe away the evil dream on the descendant of Such-an- one, son of Such-a
 
 ---
 
-# Verse undefined.9
+# Verse 7.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -772,7 +772,7 @@ Whatsoever I have met with, whether at dusk or during early night,
 
 ---
 
-# Verse undefined.10
+# Verse 7.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -785,7 +785,7 @@ Whether waking or sleeping, whether by day or by night.
 
 ---
 
-# Verse undefined.11
+# Verse 7.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -798,7 +798,7 @@ Whether I meet with it day by day, from that do I bribe him away.
 
 ---
 
-# Verse undefined.12
+# Verse 7.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -811,7 +811,7 @@ Slay him; rejoice in this; crush his ribs.
 
 ---
 
-# Verse undefined.13
+# Verse 7.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -826,7 +826,7 @@ Let him not live. Let the breath of life forsake him.
 
 ## Hymn 8: An imprecation on an enemy
 
-# Verse undefined.1
+# Verse 8.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -839,7 +839,7 @@ Whatever we have gained, whatever hath accrued to us, our Right, our energy, our
 
 ---
 
-# Verse undefined.2
+# Verse 8.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -852,7 +852,7 @@ Whatever we have gained, etc. (as in verse 1). Let him not be freed from the noo
 
 ---
 
-# Verse undefined.3
+# Verse 8.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -865,7 +865,7 @@ Whatever we have gained, etc. Let him not be freed from the noose of misery, etc
 
 ---
 
-# Verse undefined.4
+# Verse 8.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -878,7 +878,7 @@ Whatever we have gained, etc. Let him not be freed from the noose of disappearan
 
 ---
 
-# Verse undefined.5
+# Verse 8.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -891,7 +891,7 @@ Whatever we have gained, etc. Let him not be freed from the noose of defeat, etc
 
 ---
 
-# Verse undefined.6
+# Verse 8.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -904,7 +904,7 @@ Whatever we have gained, etc. Let him not be freed from the noose of the sisters
 
 ---
 
-# Verse undefined.7
+# Verse 8.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -917,7 +917,7 @@ Whatever we have gained, etc. Let him not be freed from the noose of Brihaspati,
 
 ---
 
-# Verse undefined.8
+# Verse 8.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -930,7 +930,7 @@ Whatever we have gained, etc. Let him not be freed from the noose of Prajāpati,
 
 ---
 
-# Verse undefined.9
+# Verse 8.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -943,7 +943,7 @@ Whatever we have gained, etc. Let him not be freed from the noose of the Rishis,
 
 ---
 
-# Verse undefined.10
+# Verse 8.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -956,7 +956,7 @@ Whatever we have gained, etc. Let him not be freed from the noose of the Rishis'
 
 ---
 
-# Verse undefined.11
+# Verse 8.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -969,7 +969,7 @@ Whatever, etc. Let him not be freed from the noose of the Angirases, etc.
 
 ---
 
-# Verse undefined.12
+# Verse 8.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -982,7 +982,7 @@ Whatever, etc. Let him not be freed from the noose of the Angirases, etc.
 
 ---
 
-# Verse undefined.13
+# Verse 8.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -995,7 +995,7 @@ Whatever, etc. Let him not be freed from the noose of the Atharvans, etc.
 
 ---
 
-# Verse undefined.14
+# Verse 8.14
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1008,7 +1008,7 @@ Whatever, etc. Let him not be freed from the noose of the Atharvans, etc.
 
 ---
 
-# Verse undefined.15
+# Verse 8.15
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1021,7 +1021,7 @@ Whatever, etc. Let him not be freed from the noose of the Trees, etc.
 
 ---
 
-# Verse undefined.16
+# Verse 8.16
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1034,7 +1034,7 @@ Whatever, etc. Let him not be freed from the noose of Shrubs, etc.
 
 ---
 
-# Verse undefined.17
+# Verse 8.17
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1047,7 +1047,7 @@ Whatever, etc. Let him not be freed from the noose of the Seasons, etc.
 
 ---
 
-# Verse undefined.18
+# Verse 8.18
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1060,7 +1060,7 @@ Whatever, etc. Let him not be freed from the noose of the Season-groups, etc.
 
 ---
 
-# Verse undefined.19
+# Verse 8.19
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1073,7 +1073,7 @@ Whatever, etc. Let him not be freed from the noose of the Months, etc.
 
 ---
 
-# Verse undefined.20
+# Verse 8.20
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1086,7 +1086,7 @@ Whatever, etc. Let him not be freed from the noose of the Half- months, etc.
 
 ---
 
-# Verse undefined.21
+# Verse 8.21
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1099,7 +1099,7 @@ Whatever, etc. Let him not be freed from the noose of Day and Night, etc.
 
 ---
 
-# Verse undefined.22
+# Verse 8.22
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1112,7 +1112,7 @@ Whatever, etc. Let him not be freed from the noose of continued Day, etc.
 
 ---
 
-# Verse undefined.23
+# Verse 8.23
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1125,7 +1125,7 @@ Whatever, etc. Let him not be freed from the noose of Heaven and Earth, etc.
 
 ---
 
-# Verse undefined.24
+# Verse 8.24
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1138,7 +1138,7 @@ Whatever, etc. Let him not be freed from the noose of Indra- Agni, etc.
 
 ---
 
-# Verse undefined.25
+# Verse 8.25
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1151,7 +1151,7 @@ Whatever, etc. Let him not be freed from the noose of Mitra- Varuna, etc.
 
 ---
 
-# Verse undefined.26
+# Verse 8.26
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1164,7 +1164,7 @@ Whatever, etc. Let him not be freed from the noose of King Varuna, etc.
 
 ---
 
-# Verse undefined.27
+# Verse 8.27
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1179,7 +1179,7 @@ Whatever we have gained, whatever hath accrued to us, our Right, our energy, our
 
 ## Hymn 9: A charm to secure wealth and felicity
 
-# Verse undefined.1
+# Verse 9.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1192,7 +1192,7 @@ Ours is superior place and ours is conquest: may I in all fights tread down spit
 
 ---
 
-# Verse undefined.2
+# Verse 9.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1205,7 +1205,7 @@ This word hath Agni, this hath Soma spoken. May Pūshan set me in the world of v
 
 ---
 
-# Verse undefined.3
+# Verse 9.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1218,7 +1218,7 @@ We have come to the light of heaven; to the light of heaven have we come: we hav
 
 ---
 
-# Verse undefined.4
+# Verse 9.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]

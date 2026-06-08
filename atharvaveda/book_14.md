@@ -6,7 +6,7 @@ chapter: "Book 14"
 
 ## Hymn 1: On the Bridal of Sūryā, marriage ceremonies in general
 
-# Verse undefined.1
+# Verse 1.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -19,7 +19,7 @@ Truth is the base that bears the earth; by Sūrya are the heavens upheld. By Law
 
 ---
 
-# Verse undefined.2
+# Verse 1.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -32,7 +32,7 @@ By Soma are the Ādityas strong, by Soma mighty is the earth: Thus Soma in the l
 
 ---
 
-# Verse undefined.3
+# Verse 1.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -45,7 +45,7 @@ One thinks, when men have brayed the plant, that he hath drunk the Soma's juice.
 
 ---
 
-# Verse undefined.4
+# Verse 1.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -58,7 +58,7 @@ When they begin to drink thee, then, O God, thou swellest out again. Vāyu in So
 
 ---
 
-# Verse undefined.5
+# Verse 1.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -71,7 +71,7 @@ Soma, preserved by covering rules, guarded by hymns in Brihatī, Thou standest l
 
 ---
 
-# Verse undefined.6
+# Verse 1.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -84,7 +84,7 @@ Thought was her coverlet, the power of sight was unguent for her eyes: Her treas
 
 ---
 
-# Verse undefined.7
+# Verse 1.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -97,7 +97,7 @@ Raibhi was her dear bridal friend, and Nārāsatisi led her home. Lovely to see 
 
 ---
 
-# Verse undefined.8
+# Verse 1.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -110,7 +110,7 @@ Songs were the cross-bars of the pole, Kurira metre docked her head. Both Asvins
 
 ---
 
-# Verse undefined.9
+# Verse 1.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -123,7 +123,7 @@ Soma was he who wooed the maid: the groomsmen were both. Asvins, when The Sun-Go
 
 ---
 
-# Verse undefined.10
+# Verse 1.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -136,7 +136,7 @@ Her spirit was the bridal car, the canopy thereof was heaven: Two radiant oxen f
 
 ---
 
-# Verse undefined.11
+# Verse 1.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -149,7 +149,7 @@ Steadily went the steers upheld by holy verse and song of praise, The chariot-wh
 
 ---
 
-# Verse undefined.12
+# Verse 1.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -162,7 +162,7 @@ Pure, as thou wentest, were thy wheels, breath was the axle pier- cing them. Sū
 
 ---
 
-# Verse undefined.13
+# Verse 1.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -175,7 +175,7 @@ The bridal pomp of Sūryā, which Savitar started, moved along. In Maghā days a
 
 ---
 
-# Verse undefined.14
+# Verse 1.14
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -188,7 +188,7 @@ When on your three-wheeled chariot, O ye Asvins, ye came as suitors unto Sūrya'
 
 ---
 
-# Verse undefined.15
+# Verse 1.15
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -201,7 +201,7 @@ Twin Lords of Lustre, at the time when ye to Sūryā's wooing came, Then all the
 
 ---
 
-# Verse undefined.16
+# Verse 1.16
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -214,7 +214,7 @@ Two wheels of thine the Brāhmans know, Sūrya! according to their times. That w
 
 ---
 
-# Verse undefined.17
+# Verse 1.17
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -227,7 +227,7 @@ Worship we pay to Aryaman, finder of husbands, kindly friend. As from its stalk 
 
 ---
 
-# Verse undefined.18
+# Verse 1.18
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -240,7 +240,7 @@ Hence and not thence I send her free. I make her softly fettered there. That, bo
 
 ---
 
-# Verse undefined.19
+# Verse 1.19
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -253,7 +253,7 @@ Now from the noose of Varuna I free thee, where with the bless- ed Savitar hath 
 
 ---
 
-# Verse undefined.20
+# Verse 1.20
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -266,7 +266,7 @@ Let Bhaga take thy hand and hence conduct thee: let the two Asvins on their car 
 
 ---
 
-# Verse undefined.21
+# Verse 1.21
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -279,7 +279,7 @@ Happy be thou and prosper with thy children here: be vigilant to rule the househ
 
 ---
 
-# Verse undefined.22
+# Verse 1.22
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -292,7 +292,7 @@ Be not divided; dwell ye here; reach the full time of human life. With sons and 
 
 ---
 
-# Verse undefined.23
+# Verse 1.23
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -305,7 +305,7 @@ Moving by magic power from east to westward, these children twain go sporting ro
 
 ---
 
-# Verse undefined.24
+# Verse 1.24
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -318,7 +318,7 @@ Thou, born afresh, art new and new for ever; ensign of days, before the Dawns th
 
 ---
 
-# Verse undefined.25
+# Verse 1.25
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -331,7 +331,7 @@ Give thou the wollen robe away: deal treasure to the Brāhman- priests. This Wit
 
 ---
 
-# Verse undefined.26
+# Verse 1.26
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -344,7 +344,7 @@ It turneth dusky-red: the witch who clingeth close is driven off. Well thrive th
 
 ---
 
-# Verse undefined.27
+# Verse 1.27
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -357,7 +357,7 @@ Unlovely is his body when it glistens with that wicked fiend, What time the husb
 
 ---
 
-# Verse undefined.28
+# Verse 1.28
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -370,7 +370,7 @@ The butchering, the cutting-up, the severing of limb and joint— Behold the for
 
 ---
 
-# Verse undefined.29
+# Verse 1.29
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -383,7 +383,7 @@ Pungent is this, bitter is this, filled as it were with arrow barbs, empoisoned 
 
 ---
 
-# Verse undefined.30
+# Verse 1.30
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -396,7 +396,7 @@ The Brāhman takes away the robe as a fair thing that brings good luck. He knows
 
 ---
 
-# Verse undefined.31
+# Verse 1.31
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -409,7 +409,7 @@ Prepare, ye twain, happy and prosperous fortune, speaking the truth in faithful 
 
 ---
 
-# Verse undefined.32
+# Verse 1.32
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -422,7 +422,7 @@ Remain ye even here and go no farther: strengthen this man, ye Cows, with plente
 
 ---
 
-# Verse undefined.33
+# Verse 1.33
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -435,7 +435,7 @@ Come, O ye Cows, with offspring dwell around him: he doth not stint the Gods' al
 
 ---
 
-# Verse undefined.34
+# Verse 1.34
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -448,7 +448,7 @@ Straight in direction be the paths, and thornless, whereby our fellows travel to
 
 ---
 
-# Verse undefined.35
+# Verse 1.35
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -461,7 +461,7 @@ Whatever lustre is in dice, whatever lustre is in wine, Whatever lustre is in co
 
 ---
 
-# Verse undefined.36
+# Verse 1.36
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -474,7 +474,7 @@ With all the sheen that balmeth wine, or thigh of female para- mour, With all th
 
 ---
 
-# Verse undefined.37
+# Verse 1.37
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -487,7 +487,7 @@ He who in water shines unfed with fuel, whom sages worship in their sacrifices. 
 
 ---
 
-# Verse undefined.38
+# Verse 1.38
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -500,7 +500,7 @@ I cast away a handful here, hurtful, injurious to health. I lift another handful
 
 ---
 
-# Verse undefined.39
+# Verse 1.39
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -513,7 +513,7 @@ Hither let Brāhmans bring her bathing water; let them draw such as guards the l
 
 ---
 
-# Verse undefined.40
+# Verse 1.40
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -526,7 +526,7 @@ Blest be the gold to thee, and blest the water, blest the yoke's opening, and bl
 
 ---
 
-# Verse undefined.41
+# Verse 1.41
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -539,7 +539,7 @@ Cleansing Apālā, Indra! thrice, thou gavest sunbright skin to her Drawn, Satak
 
 ---
 
-# Verse undefined.42
+# Verse 1.42
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -552,7 +552,7 @@ Saying thy prayer for cheerfulness, children, prosperity, and wealth, Devoted to
 
 ---
 
-# Verse undefined.43
+# Verse 1.43
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -565,7 +565,7 @@ As vigorous Sindhu won himself imperial lordship of the streams, So be imperial 
 
 ---
 
-# Verse undefined.44
+# Verse 1.44
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -578,7 +578,7 @@ Over thy husband's fathers and his brothers be imperial queen. Over thy husband'
 
 ---
 
-# Verse undefined.45
+# Verse 1.45
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -591,7 +591,7 @@ They who have spun, and woven, and extended Goddesses who have drawn the ends to
 
 ---
 
-# Verse undefined.46
+# Verse 1.46
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -604,7 +604,7 @@ They mourn the living, they arrange the sacred rite: the men have set their thou
 
 ---
 
-# Verse undefined.47
+# Verse 1.47
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -617,7 +617,7 @@ I place upon the lap of Earth the Goddess, a firm auspicious stone to bring thee
 
 ---
 
-# Verse undefined.48
+# Verse 1.48
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -630,7 +630,7 @@ As Agni in the olden time took the right hand of this our Earth. Even so I take 
 
 ---
 
-# Verse undefined.49
+# Verse 1.49
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -643,7 +643,7 @@ God Savitar shall take thy hand, and Soma the King shall make thee rich in goodl
 
 ---
 
-# Verse undefined.50
+# Verse 1.50
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -656,7 +656,7 @@ I take thy hand in mine for happy fortune that thou mayst reach old age with me 
 
 ---
 
-# Verse undefined.51
+# Verse 1.51
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -669,7 +669,7 @@ Bhaga and Savitar the God have clasped that hand of thine in theirs, By rule and
 
 ---
 
-# Verse undefined.52
+# Verse 1.52
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -682,7 +682,7 @@ Be it my care to cherish her: Brihaspati hath made thee mine. A hundred autumns 
 
 ---
 
-# Verse undefined.53
+# Verse 1.53
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -695,7 +695,7 @@ Tvashtar, by order of the holy sages, hath laid on her Brihas- pati's robe for g
 
 ---
 
-# Verse undefined.54
+# Verse 1.54
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -708,7 +708,7 @@ May Indra-Agni, Heaven-Earth, Mātarisvan, may Mitra-Varuna, Bhaga, both the Asv
 
 ---
 
-# Verse undefined.55
+# Verse 1.55
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -721,7 +721,7 @@ It was Brihaspati who first arranged the hair on Sūryā's head, And therefore, 
 
 ---
 
-# Verse undefined.56
+# Verse 1.56
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -734,7 +734,7 @@ This lovely form the maiden wears in spirit I long to look on as my wife approac
 
 ---
 
-# Verse undefined.57
+# Verse 1.57
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -747,7 +747,7 @@ I free her: he who sees, within my bosom, my heart's nest knows how her fair for
 
 ---
 
-# Verse undefined.58
+# Verse 1.58
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -760,7 +760,7 @@ Now from the bond of Varuna I loose thee, wherein the blessed Savitar hath bound
 
 ---
 
-# Verse undefined.59
+# Verse 1.59
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -773,7 +773,7 @@ Lift up your weapons. Drive away the demons. Transport this woman to the world o
 
 ---
 
-# Verse undefined.60
+# Verse 1.60
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -786,7 +786,7 @@ Bhaga hath formed the four legs of the litter, wrought the four pieces that comp
 
 ---
 
-# Verse undefined.61
+# Verse 1.61
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -799,7 +799,7 @@ Mount this, all-hued. gold tinted, strong wheeled, fashioned of Kinsuka, this ch
 
 ---
 
-# Verse undefined.62
+# Verse 1.62
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -812,7 +812,7 @@ To us, O Varuna, bring her, kind to brothers; bring her, Brihas- pati, gentle to
 
 ---
 
-# Verse undefined.63
+# Verse 1.63
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -825,7 +825,7 @@ Hurt not the girl, ye Pillars twain upon the path which Gods have made. The port
 
 ---
 
-# Verse undefined.64
+# Verse 1.64
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -840,7 +840,7 @@ Let prayer he offered up before and after, prayer in the middle, lastly, all aro
 
 ## Hymn 2: On the Bridal of Sūryā, marriage ceremonies in general, continued
 
-# Verse undefined.1
+# Verse 2.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -853,7 +853,7 @@ For thee with bridal train they first escorted Sūryā to her home, Give to the 
 
 ---
 
-# Verse undefined.2
+# Verse 2.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -866,7 +866,7 @@ Agni hath given the bride again with splendour and a lengthened. life. Long-live
 
 ---
 
-# Verse undefined.3
+# Verse 2.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -879,7 +879,7 @@ She was the wife of Soma first: next the Gandharva was thy lord. Agni was the th
 
 ---
 
-# Verse undefined.4
+# Verse 2.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -892,7 +892,7 @@ Soma to the Gandharva, and to Agni the Gandharva gave. Now, Agni hath bestowed o
 
 ---
 
-# Verse undefined.5
+# Verse 2.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -905,7 +905,7 @@ Your favouring grace hath come, ye who are rich in spoil! Asvins, your longings 
 
 ---
 
-# Verse undefined.6
+# Verse 2.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -918,7 +918,7 @@ Thou, Dame, rejoicing, take with kindly spirit wealth worthy to be famed, with a
 
 ---
 
-# Verse undefined.7
+# Verse 2.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -931,7 +931,7 @@ May all the Rivers, all the Plants, may all the Forests, all the Fields, O Bride
 
 ---
 
-# Verse undefined.8
+# Verse 2.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -944,7 +944,7 @@ Our feet are on this pleasant path, easy to travel, bringing bliss, Whereon no h
 
 ---
 
-# Verse undefined.9
+# Verse 2.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -957,7 +957,7 @@ Here these my words, ye men, the benediction through which the wedded pair have 
 
 ---
 
-# Verse undefined.10
+# Verse 2.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -970,7 +970,7 @@ Consumptions, which, through various folk, attack the bride's resplendent train,
 
 ---
 
-# Verse undefined.11
+# Verse 2.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -983,7 +983,7 @@ Let not the highway thieves who lie in ambush find the wedded pair. Let wicked m
 
 ---
 
-# Verse undefined.12
+# Verse 2.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -996,7 +996,7 @@ I look upon the house and bride's procession with prayer and with the gentle eye
 
 ---
 
-# Verse undefined.13
+# Verse 2.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1009,7 +1009,7 @@ She hath come home this dame come home to bless us: this her appointed world hat
 
 ---
 
-# Verse undefined.14
+# Verse 2.14
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1022,7 +1022,7 @@ This dame hath come, an animated corn-field: there sow, thou man, the seed of fu
 
 ---
 
-# Verse undefined.15
+# Verse 2.15
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1035,7 +1035,7 @@ Take thou thy stand, a Queen art thou, like Vishnu here, Sarasvati! O Sinivali, 
 
 ---
 
-# Verse undefined.16
+# Verse 2.16
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1048,7 +1048,7 @@ So let your wave bear up the pins, and ye, O Waters, spare the thongs; And never
 
 ---
 
-# Verse undefined.17
+# Verse 2.17
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1061,7 +1061,7 @@ Not evil-eyed no slayer of thy husband, be strong, mild, kind, and gentle to thy
 
 ---
 
-# Verse undefined.18
+# Verse 2.18
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1074,7 +1074,7 @@ No slayer of thy husband or his father, gentle and bright, bring blessing on the
 
 ---
 
-# Verse undefined.19
+# Verse 2.19
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1087,7 +1087,7 @@ Up and begone! What wish hath brought thee hither from thine own house? Thy migh
 
 ---
 
-# Verse undefined.20
+# Verse 2.20
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1100,7 +1100,7 @@ As first of all this woman hath adored the sacred household fire. So do thou, Da
 
 ---
 
-# Verse undefined.21
+# Verse 2.21
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1113,7 +1113,7 @@ Take thou this wrapper as a screen, to be a covering for the bride O Sinivali, l
 
 ---
 
-# Verse undefined.22
+# Verse 2.22
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1126,7 +1126,7 @@ Let her who shall be blest with sons, the maid who finds a. husband, step Upon t
 
 ---
 
-# Verse undefined.23
+# Verse 2.23
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1139,7 +1139,7 @@ Over the ruddy-coloured skin strew thou the grass, the Balbuja. Let her, the mot
 
 ---
 
-# Verse undefined.24
+# Verse 2.24
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1152,7 +1152,7 @@ Step on the skin and wait upon this Agni: he is the God who drives away all demo
 
 ---
 
-# Verse undefined.25
+# Verse 2.25
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1165,7 +1165,7 @@ Let many babes of varied form and nature spring in succession from this fruitful
 
 ---
 
-# Verse undefined.26
+# Verse 2.26
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1178,7 +1178,7 @@ Bliss-bringer, furthering thy household's welfare, dear gladdening thy husband a
 
 ---
 
-# Verse undefined.27
+# Verse 2.27
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1191,7 +1191,7 @@ Be pleasant to the husband's sire, sweet to thy household and thy lord, To all t
 
 ---
 
-# Verse undefined.28
+# Verse 2.28
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1204,7 +1204,7 @@ Signs of good fortune mark the bride. Come all of you and look at her. Wish her 
 
 ---
 
-# Verse undefined.29
+# Verse 2.29
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1217,7 +1217,7 @@ Ye youthful maidens, ill-disposed, and all ye ancient woman here, Give all your 
 
 ---
 
-# Verse undefined.30
+# Verse 2.30
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1230,7 +1230,7 @@ Sūryā the child of Savitar mounted for high felicity Her litter with its cloth
 
 ---
 
-# Verse undefined.31
+# Verse 2.31
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1243,7 +1243,7 @@ Rise, mount the bridal bed with cheerful spirit. Here bring forth children to th
 
 ---
 
-# Verse undefined.32
+# Verse 2.32
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1256,7 +1256,7 @@ The Gods at first lay down beside their consorts; body with body met in close em
 
 ---
 
-# Verse undefined.33
+# Verse 2.33
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1269,7 +1269,7 @@ Rise and go hence, Visvāvasu: with reverence we worship thee. Steal to her sist
 
 ---
 
-# Verse undefined.34
+# Verse 2.34
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1282,7 +1282,7 @@ Apsarases rejoice and feast together between the sun and place of sacrificing. T
 
 ---
 
-# Verse undefined.35
+# Verse 2.35
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1295,7 +1295,7 @@ Homage we pay to the Gandharva's favour, obeisance to his eye and fiery anger. V
 
 ---
 
-# Verse undefined.36
+# Verse 2.36
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1308,7 +1308,7 @@ May we be happy with abundant riches. We from this place have banished the Gandh
 
 ---
 
-# Verse undefined.37
+# Verse 2.37
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1321,7 +1321,7 @@ In your due season, Parents! come together. Mother and sire be ye of future chil
 
 ---
 
-# Verse undefined.38
+# Verse 2.38
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1334,7 +1334,7 @@ Send her most rich in every charm, O Pūshan, her who shall be the sharer of my 
 
 ---
 
-# Verse undefined.39
+# Verse 2.39
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1347,7 +1347,7 @@ Up, happy bridegroom! with a joyous spirit caress thy wife and throw thine arm a
 
 ---
 
-# Verse undefined.40
+# Verse 2.40
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1360,7 +1360,7 @@ So may the Lord of Life vouchsafe you children, Aryaman bind you, day and night,
 
 ---
 
-# Verse undefined.41
+# Verse 2.41
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1373,7 +1373,7 @@ Sent by the Gods associate with Manu, the vesture of the bride, the nuptial garm
 
 ---
 
-# Verse undefined.42
+# Verse 2.42
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1386,7 +1386,7 @@ The priestly meed wherewith ye twain present me, the vesture of the bride, the n
 
 ---
 
-# Verse undefined.43
+# Verse 2.43
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1399,7 +1399,7 @@ On your soft couch awaking both together, revelling heartily with joy and laught
 
 ---
 
-# Verse undefined.44
+# Verse 2.44
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1412,7 +1412,7 @@ Clad in new garments, fragrant, well-apparelled, to meet reful- gent Dawn have I
 
 ---
 
-# Verse undefined.45
+# Verse 2.45
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1425,7 +1425,7 @@ Splendid are Heaven and Earth, still near to bless us, mighty in their power; Th
 
 ---
 
-# Verse undefined.46
+# Verse 2.46
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1438,7 +1438,7 @@ To Sūryā and the Deities, to Mitra and to Varuna, Who know aright the thing th
 
 ---
 
-# Verse undefined.47
+# Verse 2.47
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1451,7 +1451,7 @@ He without ligature, before making incision in the neck. Closed up the wound aga
 
 ---
 
-# Verse undefined.48
+# Verse 2.48
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1464,7 +1464,7 @@ Let him flash gloom away from us, the blue, the yellow and the red. I fasten to 
 
 ---
 
-# Verse undefined.49
+# Verse 2.49
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1477,7 +1477,7 @@ All witcheries that hang about this garment, all royal Varuna's entangling noose
 
 ---
 
-# Verse undefined.50
+# Verse 2.50
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1490,7 +1490,7 @@ My body that I hold most dear trembles in terror at this robe. Tree, make an apr
 
 ---
 
-# Verse undefined.51
+# Verse 2.51
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1503,7 +1503,7 @@ May all the hems and borders all the threads that form the web and woof. The gar
 
 ---
 
-# Verse undefined.52
+# Verse 2.52
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1516,7 +1516,7 @@ These maids who from their father's house have come with long- ing to their lord
 
 ---
 
-# Verse undefined.53
+# Verse 2.53
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1529,7 +1529,7 @@ Her whom Brihaspati hath loosed the Visve Devas keep secure. With all the splend
 
 ---
 
-# Verse undefined.54
+# Verse 2.54
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1542,7 +1542,7 @@ Her whom Brihaspati hath loosed the Visve Devas keep secure. With all the vigour
 
 ---
 
-# Verse undefined.55
+# Verse 2.55
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1555,7 +1555,7 @@ Her whom Brihaspati, etc. With all good fortune, etc.
 
 ---
 
-# Verse undefined.56
+# Verse 2.56
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1568,7 +1568,7 @@ Her whom Brihaspati, etc. With all the glory, etc.
 
 ---
 
-# Verse undefined.57
+# Verse 2.57
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1581,7 +1581,7 @@ Her whom Brihaspati, etc. With all the milky store possessed by cows do we enric
 
 ---
 
-# Verse undefined.58
+# Verse 2.58
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1594,7 +1594,7 @@ Her whom Brihaspati hath freed the Visve Devas keep secure. With all the store o
 
 ---
 
-# Verse undefined.59
+# Verse 2.59
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1607,7 +1607,7 @@ If, wearing long loose hair, these men have danced together in thy house, commit
 
 ---
 
-# Verse undefined.60
+# Verse 2.60
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1620,7 +1620,7 @@ If in thy house thy daughter here have wept, with wild dishevel- led locks, comm
 
 ---
 
-# Verse undefined.61
+# Verse 2.61
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1633,7 +1633,7 @@ If the bride's sisters, if young maids have danced together in thy house, commit
 
 ---
 
-# Verse undefined.62
+# Verse 2.62
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1646,7 +1646,7 @@ If any evil have been wrought by mischief-makers that affects thy cattle progeny
 
 ---
 
-# Verse undefined.63
+# Verse 2.63
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1659,7 +1659,7 @@ This woman utters wish and prayer, as down she casts the husks of corn: Long liv
 
 ---
 
-# Verse undefined.64
+# Verse 2.64
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1672,7 +1672,7 @@ Join thou this couple, Indra! like the Chakravaka and his. mate: May they attain
 
 ---
 
-# Verse undefined.65
+# Verse 2.65
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1685,7 +1685,7 @@ Whatever magic hath been wrought on cushion, chair, or canopy. Each spell to mar
 
 ---
 
-# Verse undefined.66
+# Verse 2.66
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1698,7 +1698,7 @@ Whatever fault or error was in marriage or in bridal pomp. This woe we wipe away
 
 ---
 
-# Verse undefined.67
+# Verse 2.67
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1711,7 +1711,7 @@ We, having laid the stain and fault upon the interceder's cloak, Are pure and me
 
 ---
 
-# Verse undefined.68
+# Verse 2.68
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1724,7 +1724,7 @@ Now let this artificial comb, wrought with a hundred teeth, remove Aught of impu
 
 ---
 
-# Verse undefined.69
+# Verse 2.69
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1737,7 +1737,7 @@ We take away consumption from each limb and member of the bride. Let not this re
 
 ---
 
-# Verse undefined.70
+# Verse 2.70
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1750,7 +1750,7 @@ With all the milk that is in Earth I gird thee, with all the milk that Plants co
 
 ---
 
-# Verse undefined.71
+# Verse 2.71
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1763,7 +1763,7 @@ I am this man, that dame art thou I am the psalm and thou the verse. I am the he
 
 ---
 
-# Verse undefined.72
+# Verse 2.72
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1776,7 +1776,7 @@ Unmarried men desire to wed; bountiful givers wish for sons. Together may we dwe
 
 ---
 
-# Verse undefined.73
+# Verse 2.73
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1789,7 +1789,7 @@ May they, the Fathers who, to view the bride, have joined this nuptial train, Gr
 
 ---
 
-# Verse undefined.74
+# Verse 2.74
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1802,7 +1802,7 @@ Her who first guided by a rein came hither, giving the bride, here offspring and
 
 ---
 
-# Verse undefined.75
+# Verse 2.75
 
 ## Sanskrit
 [Add Devanagari Sanskrit]

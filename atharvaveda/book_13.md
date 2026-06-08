@@ -6,7 +6,7 @@ chapter: "Book 13"
 
 ## Hymn 1: The glorification of Rohita, a form of Fire and of the Sun
 
-# Verse undefined.1
+# Verse 1.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -19,7 +19,7 @@ Rise, Mighty One, who liest in the waters, and enter this thy fair and glorious 
 
 ---
 
-# Verse undefined.2
+# Verse 1.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -32,7 +32,7 @@ The strength that was in waters hath ascended. Mount o'er the tribes which thou 
 
 ---
 
-# Verse undefined.3
+# Verse 1.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -45,7 +45,7 @@ Ye Maruts, strong and mighty, sons of Prisni, with Indra for ally crush down our
 
 ---
 
-# Verse undefined.4
+# Verse 1.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -58,7 +58,7 @@ Up to the lap of births, to lofty places, hath Rohita, the germ of Dames, ascend
 
 ---
 
-# Verse undefined.5
+# Verse 1.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -71,7 +71,7 @@ For thee hath Rohita obtained dominion, scattered thine ene- mies, become thy sa
 
 ---
 
-# Verse undefined.6
+# Verse 1.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -84,7 +84,7 @@ Rohita gave the Earth and Heavens their being. There Para- meshthin held the cor
 
 ---
 
-# Verse undefined.7
+# Verse 1.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -97,7 +97,7 @@ Rohita firmly stablished Earth and Heaven: by him was ether fixt by him the welk
 
 ---
 
-# Verse undefined.8
+# Verse 1.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -110,7 +110,7 @@ Arranging shoots, springs, Rohita considered this Universe in all its forms and 
 
 ---
 
-# Verse undefined.9
+# Verse 1.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -123,7 +123,7 @@ Thy risings up, thy mountings and ascensions wherewith thou fillest heaven and a
 
 ---
 
-# Verse undefined.10
+# Verse 1.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -136,7 +136,7 @@ The tribes thy heat produced have followed hither the Calf and Gāyatri, the str
 
 ---
 
-# Verse undefined.11
+# Verse 1.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -149,7 +149,7 @@ Erected, Rohita hath reached the welkin, wise, young, creating every form and fi
 
 ---
 
-# Verse undefined.12
+# Verse 1.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -162,7 +162,7 @@ Thousand-horned Bull, may Jātavedas, worshipped with butter, balmed with Soma, 
 
 ---
 
-# Verse undefined.13
+# Verse 1.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -175,7 +175,7 @@ Rohita is the sire and mouth of worship: to him with voice, ear, heart I pay obl
 
 ---
 
-# Verse undefined.14
+# Verse 1.14
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -188,7 +188,7 @@ Rohita ordered sacrifice for Visvakarman: thence have I obta- ined this strength
 
 ---
 
-# Verse undefined.15
+# Verse 1.15
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -201,7 +201,7 @@ On thee have mounted Brihatī and Pankti. and Kakup with great splendour, Jātav
 
 ---
 
-# Verse undefined.16
+# Verse 1.16
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -214,7 +214,7 @@ He goes into the womb of earth, he robes himself in heaven and air. He on the Br
 
 ---
 
-# Verse undefined.17
+# Verse 1.17
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -227,7 +227,7 @@ To us, Vāchaspati, may Earth be pleasant, pleasant our dwelling, pleasant be ou
 
 ---
 
-# Verse undefined.18
+# Verse 1.18
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -240,7 +240,7 @@ And those, Vāchaspati, our own five seasons, sacred to Visva- karman their crea
 
 ---
 
-# Verse undefined.19
+# Verse 1.19
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -253,7 +253,7 @@ Breed, O Vāchaspati, joy and understanding, kine i n our stall and children in 
 
 ---
 
-# Verse undefined.20
+# Verse 1.20
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -266,7 +266,7 @@ With splendour let God Savitar, and Agni, with splendour Mitra, Varuna invest th
 
 ---
 
-# Verse undefined.21
+# Verse 1.21
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -279,7 +279,7 @@ Rohita, car-borne by a speckled leader, thou, pouring water,. goest on in triump
 
 ---
 
-# Verse undefined.22
+# Verse 1.22
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -292,7 +292,7 @@ Golden, refulgent, lofty is the Lady, Rohinī, Rohita's devoted Consort. Through
 
 ---
 
-# Verse undefined.23
+# Verse 1.23
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -305,7 +305,7 @@ Rohita's seat is Rohinī before us: that is the path the speckled Mare pursueth.
 
 ---
 
-# Verse undefined.24
+# Verse 1.24
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -318,7 +318,7 @@ Sūrya's bay steeds refulgent and immortal draw the light-rolling. chariot on fo
 
 ---
 
-# Verse undefined.25
+# Verse 1.25
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -331,7 +331,7 @@ Rohita, Bull whose horns are sharply pointed, superior of Agni and of Sūrya, He
 
 ---
 
-# Verse undefined.26
+# Verse 1.26
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -344,7 +344,7 @@ Rohita rose to heaven from mighty ocean, Rohita rose and clomb all steeps and ri
 
 ---
 
-# Verse undefined.27
+# Verse 1.27
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -357,7 +357,7 @@ Prepare the Milky One who teems with fatness: she is the Gods' never-reluctant m
 
 ---
 
-# Verse undefined.28
+# Verse 1.28
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -370,7 +370,7 @@ Both kindling and inflamed, adored with butter and enhanced thereby. May conquer
 
 ---
 
-# Verse undefined.29
+# Verse 1.29
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -383,7 +383,7 @@ Let him smite down in death and burn the foeman who attacketh me. Our adversarie
 
 ---
 
-# Verse undefined.30
+# Verse 1.30
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -396,7 +396,7 @@ Beat them down, Indra, with thy bolt, beat them down, mighty with thine arm. I t
 
 ---
 
-# Verse undefined.31
+# Verse 1.31
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -409,7 +409,7 @@ Cast down our foes beneath our feet, O Agni. Brihaspati, oppress our rebel kinsm
 
 ---
 
-# Verse undefined.32
+# Verse 1.32
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -422,7 +422,7 @@ Ascending up on high, O God. O Sūrya, drive my foes away. Yea, beat them backwa
 
 ---
 
-# Verse undefined.33
+# Verse 1.33
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -435,7 +435,7 @@ Calf of Virāj, the Bull of prayers and worship, whitebacked, he hath gone up to
 
 ---
 
-# Verse undefined.34
+# Verse 1.34
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -448,7 +448,7 @@ Rise up to earth, rise up to heaven above it; rise up to opulence, rise up to ki
 
 ---
 
-# Verse undefined.35
+# Verse 1.35
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -461,7 +461,7 @@ With all the Gods who circle round the Sun, upholding royal sway, With all of th
 
 ---
 
-# Verse undefined.36
+# Verse 1.36
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -474,7 +474,7 @@ Cleansed by prayer, sacrifices bear thee upward: bay coursers, ever travelling, 
 
 ---
 
-# Verse undefined.37
+# Verse 1.37
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -487,7 +487,7 @@ Rohita, conqueror of cows and riches and gathered spoil, is heaven's and earth's
 
 ---
 
-# Verse undefined.38
+# Verse 1.38
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -500,7 +500,7 @@ A glorious sight to beasts and men, thou goest glorious to the regions and mid-r
 
 ---
 
-# Verse undefined.39
+# Verse 1.39
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -513,7 +513,7 @@ Thou, yonder, knowest all things here, when here thou knowest what is there. Fro
 
 ---
 
-# Verse undefined.40
+# Verse 1.40
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -526,7 +526,7 @@ A God, thou injurest the Gods: thou movest in the ocean's depth. Men kindle comm
 
 ---
 
-# Verse undefined.41
+# Verse 1.41
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -539,7 +539,7 @@ Beneath the upper realm, above this lower, bearing her Calf at foot, the Cow hat
 
 ---
 
-# Verse undefined.42
+# Verse 1.42
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -552,7 +552,7 @@ She hath become one-footed or two-footed, four-footed, or eight-footed or nine-f
 
 ---
 
-# Verse undefined.43
+# Verse 1.43
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -565,7 +565,7 @@ Rising to heaven, immortal, hear my calling. Cleansed by prayer, sacrifices bear
 
 ---
 
-# Verse undefined.44
+# Verse 1.44
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -578,7 +578,7 @@ This, O Immortal One, I know of thee, thy progress to the sky thy dwelling-place
 
 ---
 
-# Verse undefined.45
+# Verse 1.45
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -591,7 +591,7 @@ Beyond the sky, beyond the Earth looks Sūrya, and beyond the floods. The single
 
 ---
 
-# Verse undefined.46
+# Verse 1.46
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -604,7 +604,7 @@ The earth was made his altar, and the wide expanses were the fence. There Rohita
 
 ---
 
-# Verse undefined.47
+# Verse 1.47
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -617,7 +617,7 @@ He stablished heat and cold, he made the mountains sacrificial posts. Then both 
 
 ---
 
-# Verse undefined.48
+# Verse 1.48
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -630,7 +630,7 @@ Rohita's Agni-his who found heaven's light-is kindled with the prayer. From him 
 
 ---
 
-# Verse undefined.49
+# Verse 1.49
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -643,7 +643,7 @@ Both Agins-Rohita's who found the light of heaven—made strong by prayer, Waxin
 
 ---
 
-# Verse undefined.50
+# Verse 1.50
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -656,7 +656,7 @@ One is deposited in Truth, one kindled in the waters: both Agnis of Rohita who f
 
 ---
 
-# Verse undefined.51
+# Verse 1.51
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -669,7 +669,7 @@ That decked by Wind, and that prepared by Indra Brāhman- aspati, Agnis of Rohit
 
 ---
 
-# Verse undefined.52
+# Verse 1.52
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -682,7 +682,7 @@ Rohita made the earth to be his altar, heaven his Dakshinā. Then heat he took f
 
 ---
 
-# Verse undefined.53
+# Verse 1.53
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -695,7 +695,7 @@ The earth became an altar, heat was Agni, and the butter rain. There Agni made, 
 
 ---
 
-# Verse undefined.54
+# Verse 1.54
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -708,7 +708,7 @@ Then, having made the hills stand up, Rohita spake to Earth, and said: In thee l
 
 ---
 
-# Verse undefined.55
+# Verse 1.55
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -721,7 +721,7 @@ This sacrifice, the first of all, the past, the present, had its birth. From tha
 
 ---
 
-# Verse undefined.56
+# Verse 1.56
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -734,7 +734,7 @@ If thou should kick a cow, or by indecent act offend the Sun, Thy root I sever; 
 
 ---
 
-# Verse undefined.57
+# Verse 1.57
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -747,7 +747,7 @@ Thou who, between the fire and me, passest across the line of shade. Thy root I 
 
 ---
 
-# Verse undefined.58
+# Verse 1.58
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -760,7 +760,7 @@ Whoe'er he be who, Sūrya, God! comes between thee and me to-day, On him we wipe
 
 ---
 
-# Verse undefined.59
+# Verse 1.59
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -773,7 +773,7 @@ Let us not, Indra, leave the path, the Soma-presser's sacrifice. Let not maligni
 
 ---
 
-# Verse undefined.60
+# Verse 1.60
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -788,7 +788,7 @@ May we obtain, completely wrought, the thread spun out tc reach the Gods, That p
 
 ## Hymn 2: The glorification of the Sun as Āditya, Sūrya and Rohita
 
-# Verse undefined.1
+# Verse 2.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -801,7 +801,7 @@ Radiant, refulgent in the sky are reared the banners of his light, Āditya's, wh
 
 ---
 
-# Verse undefined.2
+# Verse 2.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -814,7 +814,7 @@ Let us laud him, the whole world's Herdsman, Sūrya, who with his rays illumines
 
 ---
 
-# Verse undefined.3
+# Verse 2.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -827,7 +827,7 @@ From west to east thou speedest freely, making by magic day and night of diverse
 
 ---
 
-# Verse undefined.4
+# Verse 2.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -840,7 +840,7 @@ Victorious, inspired, and brightly shining, whom seven strong tawny-coloured cou
 
 ---
 
-# Verse undefined.5
+# Verse 2.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -853,7 +853,7 @@ Let them not snare thee speeding on thy journey: pass safely, swiftly places har
 
 ---
 
-# Verse undefined.6
+# Verse 2.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -866,7 +866,7 @@ Hail to thy rapid car whereon, O Sūrya, thou circlest in a moment both the limi
 
 ---
 
-# Verse undefined.7
+# Verse 2.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -879,7 +879,7 @@ Mount thy strong car, O Sūrya, lightly rolling, drawn by good steeds, propitiou
 
 ---
 
-# Verse undefined.8
+# Verse 2.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -892,7 +892,7 @@ Sūrya hath harnessed to his car to draw him seven stately bay steeds gay with w
 
 ---
 
-# Verse undefined.9
+# Verse 2.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -905,7 +905,7 @@ With lofty banner hath the God gone upward, and introduced the light, expelling 
 
 ---
 
-# Verse undefined.10
+# Verse 2.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -918,7 +918,7 @@ Rising, thou spreadest out thy rays, thou nourishest all shapes and forms. Thou 
 
 ---
 
-# Verse undefined.11
+# Verse 2.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -931,7 +931,7 @@ Moving by magic power to east and westward, these two young creatures, sporting,
 
 ---
 
-# Verse undefined.12
+# Verse 2.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -944,7 +944,7 @@ Atri established thee in heaven. O Surya, to create the month. So on thou goest,
 
 ---
 
-# Verse undefined.13
+# Verse 2.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -957,7 +957,7 @@ As the Calf both his parents so thou joinest both the distant bounds, Surely the
 
 ---
 
-# Verse undefined.14
+# Verse 2.14
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -970,7 +970,7 @@ Sūrya is eager to obtain all wealth that lies along the sea, Great is the cours
 
 ---
 
-# Verse undefined.15
+# Verse 2.15
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -983,7 +983,7 @@ He finishes his race with speed and never turns his thought aside, Thereby he ke
 
 ---
 
-# Verse undefined.16
+# Verse 2.16
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -996,7 +996,7 @@ His heralds bear him up aloft, the God who knoweth all that live, Sūrya, that a
 
 ---
 
-# Verse undefined.17
+# Verse 2.17
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1009,7 +1009,7 @@ The Constellations pass away, like thieves, departing in the night. Before the a
 
 ---
 
-# Verse undefined.18
+# Verse 2.18
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1022,7 +1022,7 @@ His herald rays are seen afar refulgent o'er the world of men, Like flames of fi
 
 ---
 
-# Verse undefined.19
+# Verse 2.19
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1035,7 +1035,7 @@ Swift and all-beautiful art thou, O Sūrya, maker of the light, Illuming all the
 
 ---
 
-# Verse undefined.20
+# Verse 2.20
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1048,7 +1048,7 @@ Thou goest to the hosts of Gods, thou comest hither to mankind, Hither, all ligh
 
 ---
 
-# Verse undefined.21
+# Verse 2.21
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1061,7 +1061,7 @@ With that same eye of thine wherewith thou seest, brilliant Varuna. The active o
 
 ---
 
-# Verse undefined.22
+# Verse 2.22
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1074,7 +1074,7 @@ Traversing sky and wide mid-air, thou metest with thy beams our days, Sun, seein
 
 ---
 
-# Verse undefined.23
+# Verse 2.23
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1087,7 +1087,7 @@ Seven bay steeds harnessed to thy car bear thee, O thou far- seeing One, God, S�
 
 ---
 
-# Verse undefined.24
+# Verse 2.24
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1100,7 +1100,7 @@ Sūrya, hath yoked the pure bright seven, the daughters of the car, with these, 
 
 ---
 
-# Verse undefined.25
+# Verse 2.25
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1113,7 +1113,7 @@ Devout, aflame with fervent heat, Rohita hath gone up to heaven. He is re-born, 
 
 ---
 
-# Verse undefined.26
+# Verse 2.26
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1126,7 +1126,7 @@ Dear unto all men, facing all directions, with hands and palms on every side ext
 
 ---
 
-# Verse undefined.27
+# Verse 2.27
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1139,7 +1139,7 @@ The single-footed hath outstepped the biped, the biped overtakes the triple-foot
 
 ---
 
-# Verse undefined.28
+# Verse 2.28
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1152,7 +1152,7 @@ When he, unwearied, fain to go, hath mounted his bays, he makes two colours, bri
 
 ---
 
-# Verse undefined.29
+# Verse 2.29
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1165,7 +1165,7 @@ Verily, Sūrya, thou art great: truly, Āditya, thou art great. Great is thy gra
 
 ---
 
-# Verse undefined.30
+# Verse 2.30
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1178,7 +1178,7 @@ In heaven, O Bird, and in mid-air thou shinest: thou shinest on the earth and in
 
 ---
 
-# Verse undefined.31
+# Verse 2.31
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1191,7 +1191,7 @@ Soaring in mid-course hither from the distance, fleet and ins- pired, the Bird t
 
 ---
 
-# Verse undefined.32
+# Verse 2.32
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1204,7 +1204,7 @@ Brilliant, observant, mighty Lord, an Eagle illuming both the spheres and air be
 
 ---
 
-# Verse undefined.33
+# Verse 2.33
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1217,7 +1217,7 @@ Flaming and radiant, strengthening his body, bestowing floods that promptly come
 
 ---
 
-# Verse undefined.34
+# Verse 2.34
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1230,7 +1230,7 @@ Bright presence of the Gods, the luminous herald Sūrya hath mounted the celesti
 
 ---
 
-# Verse undefined.35
+# Verse 2.35
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1243,7 +1243,7 @@ He hath gone up on high, the Gods' bright presence, the eye of Mitra, Varuna and
 
 ---
 
-# Verse undefined.36
+# Verse 2.36
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1256,7 +1256,7 @@ High in the midst of heaven may we behold thee whom men call Savitar, the bright
 
 ---
 
-# Verse undefined.37
+# Verse 2.37
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1269,7 +1269,7 @@ Him, Son of Aditi, an Eagle hasting along heaven's height, I supplicate in terro
 
 ---
 
-# Verse undefined.38
+# Verse 2.38
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1282,7 +1282,7 @@ This gold-hued Hansa's wings, soaring to heaven, spread o'er a thousand days' co
 
 ---
 
-# Verse undefined.39
+# Verse 2.39
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1295,7 +1295,7 @@ Rohita, in primeval days Prajāpati, was, after, Time, Mouth of all sacrifices, 
 
 ---
 
-# Verse undefined.40
+# Verse 2.40
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1308,7 +1308,7 @@ He, Rohita, became the world: Rohita gave the heaven its heat. Rohita with his b
 
 ---
 
-# Verse undefined.41
+# Verse 2.41
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1321,7 +1321,7 @@ To all the regions Rohita came, the imperial Lord of heaven. He watches over oce
 
 ---
 
-# Verse undefined.42
+# Verse 2.42
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1334,7 +1334,7 @@ Mounting the lofty ones, he, bright, unwearied, splendidly shining, makes two se
 
 ---
 
-# Verse undefined.43
+# Verse 2.43
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1347,7 +1347,7 @@ One form comes on, the other is reverted: to day and night the Strong One shapes
 
 ---
 
-# Verse undefined.44
+# Verse 2.44
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1360,7 +1360,7 @@ The suppliant's way, filling the earth, the Mighty circleth the world with eye t
 
 ---
 
-# Verse undefined.45
+# Verse 2.45
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1373,7 +1373,7 @@ Blazing with light his majesty hath compassed ocean and earth and heaven and air
 
 ---
 
-# Verse undefined.46
+# Verse 2.46
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1388,7 +1388,7 @@ Agni is weakened by the people's fuel to meet the Dawn who cometh like a milch-c
 
 ## Hymn 3: A glorification of Rohita. with a malediction on the man who wrongs a Brāhman
 
-# Verse undefined.1
+# Verse 3.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1401,7 +1401,7 @@ He who engendered these, the earth and heaven, who made the worlds the mantle th
 
 ---
 
-# Verse undefined.2
+# Verse 3.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1414,7 +1414,7 @@ He from whom winds blow pure in ordered season, from whom the seas flow forth in
 
 ---
 
-# Verse undefined.3
+# Verse 3.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1427,7 +1427,7 @@ He who takes life away, he who bestows it; from whom comes breath to every livin
 
 ---
 
-# Verse undefined.4
+# Verse 3.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1440,7 +1440,7 @@ Who with the breath he draws sates earth and heaven, with expiration fills the o
 
 ---
 
-# Verse undefined.5
+# Verse 3.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1453,7 +1453,7 @@ In whom Virāj, Prajāpati, Parameshthin, Agni Vaisvānara abide with Pankti, He
 
 ---
 
-# Verse undefined.6
+# Verse 3.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1466,7 +1466,7 @@ On whom rest six expenses and five regions, four waters, and three syllables of 
 
 ---
 
-# Verse undefined.7
+# Verse 3.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1479,7 +1479,7 @@ He who, consuming food, became its master, the Lord of Prayer, the Regent of Dev
 
 ---
 
-# Verse undefined.8
+# Verse 3.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1492,7 +1492,7 @@ He who metes out the thirteenth month, constructed with days and nights, contain
 
 ---
 
-# Verse undefined.9
+# Verse 3.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1505,7 +1505,7 @@ Dark the descent; the strong-winged birds are golden: they fly aloft to heaven, 
 
 ---
 
-# Verse undefined.10
+# Verse 3.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1518,7 +1518,7 @@ What silver. Kasyapa, thou hast refulgent, what brightly-shining lotus-flower co
 
 ---
 
-# Verse undefined.11
+# Verse 3.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1531,7 +1531,7 @@ In front the Brihat-Sāman is his mantle, and from behind Rathantara enfolds him
 
 ---
 
-# Verse undefined.12
+# Verse 3.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1544,7 +1544,7 @@ One of his wings was Brihat, and the other Rathantarr., vigorous with one same p
 
 ---
 
-# Verse undefined.13
+# Verse 3.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1557,7 +1557,7 @@ At evening he is Varuna and Agni, ascending in the morning he is Mitra. As Savit
 
 ---
 
-# Verse undefined.14
+# Verse 3.14
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1570,7 +1570,7 @@ This gold-hued Harisa's wings, soaring to heaven spread o'er a thousand days' co
 
 ---
 
-# Verse undefined.15
+# Verse 3.15
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1583,7 +1583,7 @@ This is the God who dwells-within the waters, the thousand- rooted, many-powered
 
 ---
 
-# Verse undefined.16
+# Verse 3.16
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1596,7 +1596,7 @@ With flying feet his tawny coursers carry the bright God through, the sky, aglow
 
 ---
 
-# Verse undefined.17
+# Verse 3.17
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1609,7 +1609,7 @@ He beside whom his bay steeds bear the Ādityas, by whom as sacrifice go many kn
 
 ---
 
-# Verse undefined.18
+# Verse 3.18
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1622,7 +1622,7 @@ This seven make the one-wheeled chariot ready: bearing seven names the single co
 
 ---
 
-# Verse undefined.19
+# Verse 3.19
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1635,7 +1635,7 @@ Eight times attached the potent Courser draws it, Sire of the Gods, father of hy
 
 ---
 
-# Verse undefined.20
+# Verse 3.20
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1648,7 +1648,7 @@ The thread that goes through all celestial quarters within the Gāyatri, womb of
 
 ---
 
-# Verse undefined.21
+# Verse 3.21
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1661,7 +1661,7 @@ There are the settings, three the upward risings, three are the- spaces, yea, an
 
 ---
 
-# Verse undefined.22
+# Verse 3.22
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1674,7 +1674,7 @@ He who, as soon as born, laid broad earth open, and set the ocean in the air's m
 
 ---
 
-# Verse undefined.23
+# Verse 3.23
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1687,7 +1687,7 @@ Thou, Agni, kind with lights and mental powers, hast up in heaven shone as the S
 
 ---
 
-# Verse undefined.24
+# Verse 3.24
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1700,7 +1700,7 @@ Giver of breath, giver of strength and vigour, he whose com- mandment all the Go
 
 ---
 
-# Verse undefined.25
+# Verse 3.25
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1713,7 +1713,7 @@ The single-footed hath outstepped the biped, the biped overtakes the triple-foot
 
 ---
 
-# Verse undefined.26
+# Verse 3.26
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1728,7 +1728,7 @@ Born is the darksome Mother's Son, the whitely shining Calf of Night. He, Rohita
 
 ## Hymn 4: A glorification of the Sun as the only Deity
 
-# Verse undefined.1
+# Verse 4.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1741,7 +1741,7 @@ Down looking, on the ridge of sky Savitar goes to highest heaven.
 
 ---
 
-# Verse undefined.2
+# Verse 4.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1754,7 +1754,7 @@ To misty cloud filled with his rays Mahendra goes encompassed round.
 
 ---
 
-# Verse undefined.3
+# Verse 4.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1767,7 +1767,7 @@ Creator and Ordainer, he is Vāyu, he is lifted cloud.
 
 ---
 
-# Verse undefined.4
+# Verse 4.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1780,7 +1780,7 @@ Rudra, and Mahādeva, he is Aryaman and Varuna.
 
 ---
 
-# Verse undefined.5
+# Verse 4.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1793,7 +1793,7 @@ Agni is he, and Siirya, he is verily Mahāyama.
 
 ---
 
-# Verse undefined.6
+# Verse 4.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1806,7 +1806,7 @@ Calves, joined, stand close beside him, ten in number, with one single head.
 
 ---
 
-# Verse undefined.7
+# Verse 4.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1819,7 +1819,7 @@ From west to east they bend their way: when he mounts up he shines afar.
 
 ---
 
-# Verse undefined.8
+# Verse 4.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1832,7 +1832,7 @@ His are these banded Maruts: they move gathered close like porters' thongs.
 
 ---
 
-# Verse undefined.9
+# Verse 4.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1845,7 +1845,7 @@ To misty cloud filled with his rays Mahendra goes encompassed round,
 
 ---
 
-# Verse undefined.10
+# Verse 4.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1858,7 +1858,7 @@ His are the nine supports, the casks set in nine several places here.
 
 ---
 
-# Verse undefined.11
+# Verse 4.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1871,7 +1871,7 @@ He keeppeth watch o'er creatures, all that breatheth and that breatheth not.
 
 ---
 
-# Verse undefined.12
+# Verse 4.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1884,7 +1884,7 @@ This conquering might hath entered him, He is the sole the simple One, the One a
 
 ---
 
-# Verse undefined.13
+# Verse 4.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1897,7 +1897,7 @@ In him these Deities become simple and One
 
 ---
 
-# Verse undefined.14
+# Verse 4.14
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1910,7 +1910,7 @@ Renown and glory, and force and cloud, the Brāhman's splendour, and food, and n
 
 ---
 
-# Verse undefined.15
+# Verse 4.15
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1923,7 +1923,7 @@ To him who knoweth this God as simple and one.
 
 ---
 
-# Verse undefined.16
+# Verse 4.16
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1936,7 +1936,7 @@ Neither second, nor third, nor yet fourth is he called;
 
 ---
 
-# Verse undefined.17
+# Verse 4.17
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1949,7 +1949,7 @@ He is called neither fifth, nor sixth, nor yet seventh
 
 ---
 
-# Verse undefined.18
+# Verse 4.18
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1962,7 +1962,7 @@ He is called neither eighth, nor ninth, nor yet tenth.
 
 ---
 
-# Verse undefined.19
+# Verse 4.19
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1975,7 +1975,7 @@ He watcheth over creatures, all that breatheth and that breatheth not.
 
 ---
 
-# Verse undefined.20
+# Verse 4.20
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1988,7 +1988,7 @@ This conquering might hath entered him. He is the sole, the simple One, the One 
 
 ---
 
-# Verse undefined.21
+# Verse 4.21
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2001,7 +2001,7 @@ In him these Deities become simple and One
 
 ---
 
-# Verse undefined.22
+# Verse 4.22
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2014,7 +2014,7 @@ Devotion and Religious Fervour, and renown and glory, and force and cloud, the B
 
 ---
 
-# Verse undefined.23
+# Verse 4.23
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2027,7 +2027,7 @@ And past and future, and Faith and lustre, and heaven and sweet oblation,
 
 ---
 
-# Verse undefined.24
+# Verse 4.24
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2040,7 +2040,7 @@ To him who knoweth this God as simple and One.
 
 ---
 
-# Verse undefined.25
+# Verse 4.25
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2053,7 +2053,7 @@ He, verily, is death, he is immortality, he is the monster, he is the fiend.
 
 ---
 
-# Verse undefined.26
+# Verse 4.26
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2066,7 +2066,7 @@ He is Rudra, winner of wealth in the giving of wealth; in uttering homage he is 
 
 ---
 
-# Verse undefined.27
+# Verse 4.27
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2079,7 +2079,7 @@ All sorcerers on earth obey with reverence his high behest.
 
 ---
 
-# Verse undefined.28
+# Verse 4.28
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2092,7 +2092,7 @@ All constellations yonder, with the Moon, are subject to his will.
 
 ---
 
-# Verse undefined.29
+# Verse 4.29
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2105,7 +2105,7 @@ He was brought forth from Day: and Day derives his origin. from him.
 
 ---
 
-# Verse undefined.30
+# Verse 4.30
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2118,7 +2118,7 @@ He was brought forth from Night: and Night derives her origins from him.
 
 ---
 
-# Verse undefined.31
+# Verse 4.31
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2131,7 +2131,7 @@ He was produced from Air: and Air derives its origin from him.
 
 ---
 
-# Verse undefined.32
+# Verse 4.32
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2144,7 +2144,7 @@ He was produced from Wind: and Wind derives his origin from. him.
 
 ---
 
-# Verse undefined.33
+# Verse 4.33
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2157,7 +2157,7 @@ From Heaven was he produced: and Heaven derives his origin from him.
 
 ---
 
-# Verse undefined.34
+# Verse 4.34
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2170,7 +2170,7 @@ He sprang from regions of the sky: from him the heavenly regions sprang.
 
 ---
 
-# Verse undefined.35
+# Verse 4.35
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2183,7 +2183,7 @@ He is the offspring of the Earth: Earth hath her origin from him.
 
 ---
 
-# Verse undefined.36
+# Verse 4.36
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2196,7 +2196,7 @@ He was produced from fire: and fire derives its origin from him.
 
 ---
 
-# Verse undefined.37
+# Verse 4.37
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2209,7 +2209,7 @@ He is the waters' offspring: and from him the waters were produced.
 
 ---
 
-# Verse undefined.38
+# Verse 4.38
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2222,7 +2222,7 @@ From holy verses was he born: from him the holy verses sprang.
 
 ---
 
-# Verse undefined.39
+# Verse 4.39
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2235,7 +2235,7 @@ He is the son of sacrifice: and sacrifice was born from him.
 
 ---
 
-# Verse undefined.40
+# Verse 4.40
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2248,7 +2248,7 @@ Sacrifice, sacrifice's Lord, he was made head of sacrifice.
 
 ---
 
-# Verse undefined.41
+# Verse 4.41
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2261,7 +2261,7 @@ He thundereth, he lighteneth, he casteth down the thunder-stone
 
 ---
 
-# Verse undefined.42
+# Verse 4.42
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2274,7 +2274,7 @@ For misery or happiness, for mortal man or Asura.
 
 ---
 
-# Verse undefined.43
+# Verse 4.43
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2287,7 +2287,7 @@ Whether thou formest growing plants, or sendest rain for happiness, or hast incr
 
 ---
 
-# Verse undefined.44
+# Verse 4.44
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2300,7 +2300,7 @@ Such is thy greatness, liberal Lord! A hundred bodily forms are thine.
 
 ---
 
-# Verse undefined.45
+# Verse 4.45
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2313,7 +2313,7 @@ Millions are in thy million, or thou art a billion in thyself.
 
 ---
 
-# Verse undefined.46
+# Verse 4.46
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2326,7 +2326,7 @@ Stronger than immortality is Indra: stronger thou than deaths;
 
 ---
 
-# Verse undefined.47
+# Verse 4.47
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2339,7 +2339,7 @@ Yea, stronger than Malignity art thou, O Indra, Lord of Might. Calling thee Mast
 
 ---
 
-# Verse undefined.48
+# Verse 4.48
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2352,7 +2352,7 @@ Worship to thee whom all behold! Regard me, thou whom all regard,
 
 ---
 
-# Verse undefined.49
+# Verse 4.49
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2365,7 +2365,7 @@ With food, and fame, and vigour, with the splendour of a Brāhman's rank
 
 ---
 
-# Verse undefined.50
+# Verse 4.50
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2378,7 +2378,7 @@ We pay thee reverence calling thee strength, power, and might, and conquering fo
 
 ---
 
-# Verse undefined.51
+# Verse 4.51
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2391,7 +2391,7 @@ We pay thee reverence calling thee red power, the silvery expanse.
 
 ---
 
-# Verse undefined.52
+# Verse 4.52
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2404,7 +2404,7 @@ We pay thee reverence calling thee vast, wide, the good, the universe.
 
 ---
 
-# Verse undefined.53
+# Verse 4.53
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2417,7 +2417,7 @@ We pay thee reverence, calling thee extension, compass, width, and world.
 
 ---
 
-# Verse undefined.54
+# Verse 4.54
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2430,7 +2430,7 @@ We pay thee reverence, calling thee rich, opulent in this and that, with wealth 
 
 ---
 
-# Verse undefined.55
+# Verse 4.55
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2443,7 +2443,7 @@ Worship to thee whom all behold! Regard me, thou whom all regard.
 
 ---
 
-# Verse undefined.56
+# Verse 4.56
 
 ## Sanskrit
 [Add Devanagari Sanskrit]

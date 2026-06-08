@@ -6,7 +6,7 @@ chapter: "Book 20"
 
 ## Hymn 1: Untitled
 
-# Verse undefined.1
+# Verse 1.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -19,7 +19,7 @@ Thee, Indra, we invoke, the Bull, what time the Soma hath been pressed. Drink of
 
 ---
 
-# Verse undefined.2
+# Verse 1.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -32,7 +32,7 @@ The best of guardian hath the man within whose dwelling-place ye drink, O Maruts
 
 ---
 
-# Verse undefined.3
+# Verse 1.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -47,7 +47,7 @@ Let us serve Agni with our hyms, Sage who consumeth ox and cow, Who beareth Soma
 
 ## Hymn 2: Untitled
 
-# Verse undefined.1
+# Verse 2.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -60,7 +60,7 @@ Let the Maruts drink Trishtups from the Potar's cup, according to the season Som
 
 ---
 
-# Verse undefined.2
+# Verse 2.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -73,7 +73,7 @@ Let Agni from the Kindler's cup drink Trishtups, according to the season Soma fr
 
 ---
 
-# Verse undefined.3
+# Verse 2.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -86,7 +86,7 @@ Let Indra the Brāhman from the Brāhman's cup drink Trishtups, according to the
 
 ---
 
-# Verse undefined.4
+# Verse 2.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -101,7 +101,7 @@ Let the God, Granter of Wealth, from the Potar's cup drink Trishtups, according 
 
 ## Hymn 3: Untitled
 
-# Verse undefined.1
+# Verse 3.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -114,7 +114,7 @@ Come, we have pressed the juice for thee: O Indra, drink this Soma here. Seat th
 
 ---
 
-# Verse undefined.2
+# Verse 3.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -127,7 +127,7 @@ Let both thy bay steeds, yoked by prayer long-maned, O Indra, bring thee nigh.
 
 ---
 
-# Verse undefined.3
+# Verse 3.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -142,7 +142,7 @@ We Soma-bearing Brāhmans call thee Soma-drinker with thy friend, We, Indra, who
 
 ## Hymn 4: Untitled
 
-# Verse undefined.1
+# Verse 4.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -155,7 +155,7 @@ Come unto us who poured the juice, come hither to our eulogies. Drink of the jui
 
 ---
 
-# Verse undefined.2
+# Verse 4.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -168,7 +168,7 @@ I pour it down within thee, so through all thy members let it run. Take with thy
 
 ---
 
-# Verse undefined.3
+# Verse 4.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -183,7 +183,7 @@ Sweet to thy body let it be, delicious be the savoury juice. Sweet be the Soma t
 
 ## Hymn 5: Untitled
 
-# Verse undefined.1
+# Verse 5.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -196,7 +196,7 @@ Like women, let this Soma juice invested with its raiment, glide.. Most active I
 
 ---
 
-# Verse undefined.2
+# Verse 5.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -209,7 +209,7 @@ Mighty in bulk, strong-necked, stout-armed in the wild rapture. of the juice Dot
 
 ---
 
-# Verse undefined.3
+# Verse 5.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -222,7 +222,7 @@ Indra, advance, go forward thou who by thy might art Lord of all. Slay, Vritra-s
 
 ---
 
-# Verse undefined.4
+# Verse 5.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -235,7 +235,7 @@ Long be thy grasping-hook wherewith thou givest treasure unto- him Who pours the
 
 ---
 
-# Verse undefined.5
+# Verse 5.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -248,7 +248,7 @@ Here, Indra, is thy Soma draught, made pure upon the sacred. grass. Run hither, 
 
 ---
 
-# Verse undefined.6
+# Verse 5.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -261,7 +261,7 @@ Famed for thy radiance, worshipped well! this juice is shed for thy delight: Tho
 
 ---
 
-# Verse undefined.7
+# Verse 5.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -276,7 +276,7 @@ To Kundapāyya, grandson's son, grandson of Sringavrish, to thee, To him have I 
 
 ## Hymn 6: Untitled
 
-# Verse undefined.1
+# Verse 6.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -289,7 +289,7 @@ Thee, Indra, we invoke, the Bull, what time the Soma is ex- pressed. So drink th
 
 ---
 
-# Verse undefined.2
+# Verse 6.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -302,7 +302,7 @@ Indra, whom many laud, accept the strength-confering Soma juice. Quaff, pour dow
 
 ---
 
-# Verse undefined.3
+# Verse 6.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -315,7 +315,7 @@ Indra, with all the Gods promote our wealth-bestowing sacrifice, Thou highly-lau
 
 ---
 
-# Verse undefined.4
+# Verse 6.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -328,7 +328,7 @@ Lord of the brave, to thee proceed these drops of Soma juice expressed, The brig
 
 ---
 
-# Verse undefined.5
+# Verse 6.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -341,7 +341,7 @@ Within thy belly, Indra take Soma the juice most excellent: The heavenly drops b
 
 ---
 
-# Verse undefined.6
+# Verse 6.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -354,7 +354,7 @@ Drink our libation, Lord of hymns: with streams of meath thou art bedewed: Our g
 
 ---
 
-# Verse undefined.7
+# Verse 6.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -367,7 +367,7 @@ To Indra go the treasures of the worshipper which never fail: He drinks the Soma
 
 ---
 
-# Verse undefined.8
+# Verse 6.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -382,7 +382,7 @@ From far away, from near at hand, O Vritra-slayer, come to us: Accept the songs 
 
 ## Hymn 7: Untitled
 
-# Verse undefined.1
+# Verse 7.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -395,7 +395,7 @@ Sūrya, thou mountest up to meet the Hero famous for his wealth, Who hurls the b
 
 ---
 
-# Verse undefined.2
+# Verse 7.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -408,7 +408,7 @@ Him who with might of both his arms brake nine-and ninety castles down, Slew Vri
 
 ---
 
-# Verse undefined.3
+# Verse 7.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -421,7 +421,7 @@ This Indra is our gracious Friend. He sends us in a full broad stream Riches in 
 
 ---
 
-# Verse undefined.4
+# Verse 7.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -436,7 +436,7 @@ Indra, whom many laud, accept the strength-conferring Soma juice. Quaff, pour do
 
 ## Hymn 8: Untitled
 
-# Verse undefined.1
+# Verse 8.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -449,7 +449,7 @@ Drink as of old, and let the draught delight thee: hear thou my prayer and let o
 
 ---
 
-# Verse undefined.2
+# Verse 8.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -462,7 +462,7 @@ Come to us; they have called thee Soma-lover. Here is the pressed juice: drink t
 
 ---
 
-# Verse undefined.3
+# Verse 8.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -477,7 +477,7 @@ Full is his chalice. Blessing! Like a pourer I have filled up the vessel for his
 
 ## Hymn 9: Untitled
 
-# Verse undefined.1
+# Verse 9.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -490,7 +490,7 @@ As cows low to their calves in stalls, so with our songs we glorify This Indra, 
 
 ---
 
-# Verse undefined.2
+# Verse 9.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -503,7 +503,7 @@ Celestial, bounteous Giver, girt about with might, rich, moun- tain-like, in pre
 
 ---
 
-# Verse undefined.3
+# Verse 9.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -516,7 +516,7 @@ I crave of thee that hero strength, that thou mayst first regard this prayer, Wh
 
 ---
 
-# Verse undefined.4
+# Verse 9.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -531,7 +531,7 @@ Wherewith thou sentest mighty waters to the sea, that, Indra, is. thy hero stren
 
 ## Hymn 10: Untitled
 
-# Verse undefined.1
+# Verse 10.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -544,7 +544,7 @@ These songs of ours exceeding sweet, these hymns of praise as- cend to thee, Lik
 
 ---
 
-# Verse undefined.2
+# Verse 10.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -559,7 +559,7 @@ The Bhrigus are like suns, like Kanvas, and have gained all that their thoughts 
 
 ## Hymn 11: Untitled
 
-# Verse undefined.1
+# Verse 11.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -572,7 +572,7 @@ Fort-render, Lord of Wealth, dispelling foemen, Indra with lightnings hath o'erc
 
 ---
 
-# Verse undefined.2
+# Verse 11.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -585,7 +585,7 @@ I stimulate this zeal, the Strong, the Hero, decking my song of praise for thee 
 
 ---
 
-# Verse undefined.3
+# Verse 11.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -598,7 +598,7 @@ Leading his band Indra encompassed Vritra; weak grew the wily leader enchanters.
 
 ---
 
-# Verse undefined.4
+# Verse 11.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -611,7 +611,7 @@ Indra, light-winner, days' creator, conquered, as guardian, hostile bands with t
 
 ---
 
-# Verse undefined.5
+# Verse 11.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -624,7 +624,7 @@ Forward to fiercely falling blows pressed Indra, hero-like doing many hero explo
 
 ---
 
-# Verse undefined.6
+# Verse 11.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -637,7 +637,7 @@ They laud the mighty acts of him the mighty, the many glorious deeds performed b
 
 ---
 
-# Verse undefined.7
+# Verse 11.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -650,7 +650,7 @@ Lord of the brave, Indra who rules the people gave freedom to the Gods by might 
 
 ---
 
-# Verse undefined.8
+# Verse 11.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -663,7 +663,7 @@ Excellent, conqueror, the victory-giver, the winner of the light and godlike wat
 
 ---
 
-# Verse undefined.9
+# Verse 11.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -676,7 +676,7 @@ He gained possession of the Sun and horses; Indra obtained the cow who feedeth m
 
 ---
 
-# Verse undefined.10
+# Verse 11.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -689,7 +689,7 @@ He took the plants and days for his possession; he gained the forest trees and a
 
 ---
 
-# Verse undefined.11
+# Verse 11.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -704,7 +704,7 @@ Call we on Maghavan, auspicious Indra, best Hero in the fight where spoil is gat
 
 ## Hymn 12: Untitled
 
-# Verse undefined.1
+# Verse 12.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -717,7 +717,7 @@ Prayers have been offered up through love of glory: Vasishtha, honour Indra in t
 
 ---
 
-# Verse undefined.2
+# Verse 12.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -730,7 +730,7 @@ A cry was raised which reached the Gods, O Indra, a cry to them to send us stren
 
 ---
 
-# Verse undefined.3
+# Verse 12.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -743,7 +743,7 @@ The Bays, the booty-seeking car I harness: my prayers have reached him who accep
 
 ---
 
-# Verse undefined.4
+# Verse 12.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -756,7 +756,7 @@ Like barren cows, moreover, swelled the waters: the singers sought thy holy rite
 
 ---
 
-# Verse undefined.5
+# Verse 12.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -769,7 +769,7 @@ So may these gladdening draughts rejoice thee, Indra, the Mighty, very bounteous
 
 ---
 
-# Verse undefined.6
+# Verse 12.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -782,7 +782,7 @@ Thus the Vasishthas glorify with praises Indra, the Mighty One, whose arm wields
 
 ---
 
-# Verse undefined.7
+# Verse 12.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -797,7 +797,7 @@ Impetuous, Thunderer, strong, quelling the mighty, King, potent, Vritra-slayer, 
 
 ## Hymn 13: Untitled
 
-# Verse undefined.1
+# Verse 13.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -810,7 +810,7 @@ Lords of great wealth, Brihaspati and Indra, rejoicing at this sacrifice drink S
 
 ---
 
-# Verse undefined.2
+# Verse 13.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -823,7 +823,7 @@ Let your swift-gliding coursers bear you hitherward with their fleet pinions. Co
 
 ---
 
-# Verse undefined.3
+# Verse 13.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -836,7 +836,7 @@ For Jātavedas, worthy of our praise, will we frame with our mind this eulogy as
 
 ---
 
-# Verse undefined.4
+# Verse 13.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -851,7 +851,7 @@ With these, borne on one car, Agni, approach us; or borne on many, for thy steed
 
 ## Hymn 14: Untitled
 
-# Verse undefined.1
+# Verse 14.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -864,7 +864,7 @@ We call on thee, O peerless One. We, seeking help, possessing nothing firm ourse
 
 ---
 
-# Verse undefined.2
+# Verse 14.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -877,7 +877,7 @@ On thee for aid in sacrifice. This youth of ours, the bold, the mighty, hath gon
 
 ---
 
-# Verse undefined.3
+# Verse 14.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -890,7 +890,7 @@ Him who of old hath brought to us this and that blessing, him I magnify for you,
 
 ---
 
-# Verse undefined.4
+# Verse 14.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -905,7 +905,7 @@ Borne by bay steeds, the Lord of heroes, ruling men, for it is he who takes deli
 
 ## Hymn 15: Untitled
 
-# Verse undefined.1
+# Verse 15.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -918,7 +918,7 @@ To him most liberal, lofty Lord of lofty wealth, verily powerful and strong, I b
 
 ---
 
-# Verse undefined.2
+# Verse 15.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -931,7 +931,7 @@ Now all this world, for worship, shall come after thee—the offerer's libations
 
 ---
 
-# Verse undefined.3
+# Verse 15.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -944,7 +944,7 @@ To him the terrible, most worthy of high praise, like radiant Dawn, bring gifts 
 
 ---
 
-# Verse undefined.4
+# Verse 15.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -957,7 +957,7 @@ Thine, Indra, praised by many excellently rich! are we who trusting in thy help 
 
 ---
 
-# Verse undefined.5
+# Verse 15.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -970,7 +970,7 @@ Great is thy power, O Indra, we are thine. Fulfil, O Maghavan, the wish of this 
 
 ---
 
-# Verse undefined.6
+# Verse 15.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -985,7 +985,7 @@ Thou, who hast thunder for thy weapon, with thy bolt hast shattered into pieces 
 
 ## Hymn 16: Untitled
 
-# Verse undefined.1
+# Verse 16.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -998,7 +998,7 @@ Like birds who keep their watch, plashing in water, like the loud voices of the 
 
 ---
 
-# Verse undefined.2
+# Verse 16.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1011,7 +1011,7 @@ The son of Angiras, meeting the cattle, as Bhaga, brought in Aryaman among us. A
 
 ---
 
-# Verse undefined.3
+# Verse 16.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1024,7 +1024,7 @@ Brihaspati, having won them from the mountains, strewed down, like barley out of
 
 ---
 
-# Verse undefined.4
+# Verse 16.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1037,7 +1037,7 @@ As the Sun dews with meath the seat of Order, and casts a flam- ing meteor down 
 
 ---
 
-# Verse undefined.5
+# Verse 16.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1050,7 +1050,7 @@ Forth from mid-air with light he draye the darkness, as the gale blows a lily fr
 
 ---
 
-# Verse undefined.6
+# Verse 16.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1063,7 +1063,7 @@ Brihaspati, when he with fiery lightnings cleft through the weapon of reviling V
 
 ---
 
-# Verse undefined.7
+# Verse 16.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1076,7 +1076,7 @@ That secret name borne by the lowing cattle within the cave Brihaspati discovere
 
 ---
 
-# Verse undefined.8
+# Verse 16.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1089,7 +1089,7 @@ He looked around on rock-imprisoned sweetness as one who eyes a fish in scanty w
 
 ---
 
-# Verse undefined.9
+# Verse 16.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1102,7 +1102,7 @@ He found the light of heaven, and fire, and Morning: with lucid rays he forced a
 
 ---
 
-# Verse undefined.10
+# Verse 16.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1115,7 +1115,7 @@ As trees for foliage robbed by winter, Vala mourned for the cows Brihaspati had 
 
 ---
 
-# Verse undefined.11
+# Verse 16.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1128,7 +1128,7 @@ Like a dark steed adorned with pearl, the Fathers have decorat- ed heaven with c
 
 ---
 
-# Verse undefined.12
+# Verse 16.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1143,7 +1143,7 @@ This homage have we offered to the Cloud-God who thunders out to many in success
 
 ## Hymn 17: Untitled
 
-# Verse undefined.1
+# Verse 17.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1156,7 +1156,7 @@ I. In perfect unison all yearning hymns of mine that find the light of heaven ha
 
 ---
 
-# Verse undefined.2
+# Verse 17.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1169,7 +1169,7 @@ Directed unto thee my spirit never strays, for I have set my hopes on thee, O mu
 
 ---
 
-# Verse undefined.3
+# Verse 17.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1182,7 +1182,7 @@ From indigence and hunger Indra turns away: Maghavan hath dominion over precious
 
 ---
 
-# Verse undefined.4
+# Verse 17.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1195,7 +1195,7 @@ As on the fair-leafed tree rest birds, to Indra flow the gladden- ing Soma juice
 
 ---
 
-# Verse undefined.5
+# Verse 17.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1208,7 +1208,7 @@ As in the game a gambler piles his winnings, so Maghavan, sweeping all together,
 
 ---
 
-# Verse undefined.6
+# Verse 17.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1221,7 +1221,7 @@ Maghavan came by turns to all the tribes of men: the Steer took notice of the pe
 
 ---
 
-# Verse undefined.7
+# Verse 17.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1234,7 +1234,7 @@ As waters flow together to the river, thus Somas to Indra flow, as rivulets to t
 
 ---
 
-# Verse undefined.8
+# Verse 17.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1247,7 +1247,7 @@ He rushes through the region like a furious bull, he who hath made these floods 
 
 ---
 
-# Verse undefined.9
+# Verse 17.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1260,7 +1260,7 @@ Let the keen axe come forth together with the light: here be, as erst, the teemi
 
 ---
 
-# Verse undefined.10
+# Verse 17.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1273,7 +1273,7 @@ O much-invoked, may we subdue all famine and evil want with store of grain and c
 
 ---
 
-# Verse undefined.11
+# Verse 17.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1286,7 +1286,7 @@ Brihaspati protect us from the rearward, and from above, and from below, from si
 
 ---
 
-# Verse undefined.12
+# Verse 17.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1301,7 +1301,7 @@ Ye twain are Lords of wealth in earth and heaven, thou, O Brihaspati, and thou, 
 
 ## Hymn 18: Untitled
 
-# Verse undefined.1
+# Verse 18.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1314,7 +1314,7 @@ This, even this, O Indra, we implore: as thy devoted friends, The Kanvas praise 
 
 ---
 
-# Verse undefined.2
+# Verse 18.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1327,7 +1327,7 @@ Naught else, O Thunderer, have I praised in the skilled singer's eulogy: On thy 
 
 ---
 
-# Verse undefined.3
+# Verse 18.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1340,7 +1340,7 @@ The Gods seek him who presses out the Soma; they desire not sleep: Incessantly t
 
 ---
 
-# Verse undefined.4
+# Verse 18.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1353,7 +1353,7 @@ Faithful to thee we loudly sing, heroic Indra, songs to thee. Mark, gracious Lor
 
 ---
 
-# Verse undefined.5
+# Verse 18.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1366,7 +1366,7 @@ Give us not up to man's reproach, to foeman's hateful calumny: In thee alone is 
 
 ---
 
-# Verse undefined.6
+# Verse 18.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1381,7 +1381,7 @@ Thou art mine ample coat of mail, my champion, Vritra-slayes, thou. With thee fo
 
 ## Hymn 19: Untitled
 
-# Verse undefined.1
+# Verse 19.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1394,7 +1394,7 @@ O Indra, for the strength that slays the foe and conquers in the fight We turn t
 
 ---
 
-# Verse undefined.2
+# Verse 19.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1407,7 +1407,7 @@ O Indra, Lord of Hundred Powers, may those who praise thee hitherward. Direct th
 
 ---
 
-# Verse undefined.3
+# Verse 19.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1420,7 +1420,7 @@ O Indra, Lord of Hundred Powers, with all our songs we invocate. Thy names for t
 
 ---
 
-# Verse undefined.4
+# Verse 19.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1433,7 +1433,7 @@ We strive for glory through the powers immense of him whom many praise, Of Indra
 
 ---
 
-# Verse undefined.5
+# Verse 19.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1446,7 +1446,7 @@ For the foe's slaughter I address Indra whom many invocate, To win us booty in t
 
 ---
 
-# Verse undefined.6
+# Verse 19.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1459,7 +1459,7 @@ In battles be victorious. We seek thee, Lord of Hundred Powers, O Indra, that th
 
 ---
 
-# Verse undefined.7
+# Verse 19.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1474,7 +1474,7 @@ In splendid combats of the hosts, in glories where the fight is won, Indra, be v
 
 ## Hymn 20: Untitled
 
-# Verse undefined.1
+# Verse 20.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1487,7 +1487,7 @@ Drink thou the Soma for our help, bright, vigilant, exceeding strong, O Indra, L
 
 ---
 
-# Verse undefined.2
+# Verse 20.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1500,7 +1500,7 @@ O Satakratu, powers which thou mid the Five Races hast dis- played These, Indra,
 
 ---
 
-# Verse undefined.3
+# Verse 20.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1513,7 +1513,7 @@ Indra, great glory hast thou gained. Win splendid fame which none may mar: We ma
 
 ---
 
-# Verse undefined.4
+# Verse 20.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1526,7 +1526,7 @@ Come to us either from anear, or, Sakra, come from far away. Indra, wherever be 
 
 ---
 
-# Verse undefined.5
+# Verse 20.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1539,7 +1539,7 @@ Verily Indra, conquering all, driveth even mighty fear away; For firm is he and 
 
 ---
 
-# Verse undefined.6
+# Verse 20.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1552,7 +1552,7 @@ Indra be gracious unto us: sin shall not reach us afterward . And good shall be 
 
 ---
 
-# Verse undefined.7
+# Verse 20.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1567,7 +1567,7 @@ From all the regions of the world let Indra send security. The foe-subduer, swif
 
 ## Hymn 21: Untitled
 
-# Verse undefined.1
+# Verse 21.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1580,7 +1580,7 @@ We will present fair praise unto the Mighty One, our hymns to Indra in Vivasvān
 
 ---
 
-# Verse undefined.2
+# Verse 21.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1593,7 +1593,7 @@ Giver of horses, Indra, giver, thou, of kine, giver of barley, thou art Lord and
 
 ---
 
-# Verse undefined.3
+# Verse 21.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1606,7 +1606,7 @@ Indra, most splendid, powerful, rich in mighty deeds, this treasure spread aroun
 
 ---
 
-# Verse undefined.4
+# Verse 21.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1619,7 +1619,7 @@ Well-pleased with these bright flames and with these Soma drops, take thou away 
 
 ---
 
-# Verse undefined.5
+# Verse 21.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1632,7 +1632,7 @@ Let us obtain, O Indra, plenteous wealth and food, with strength exceeding glori
 
 ---
 
-# Verse undefined.6
+# Verse 21.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1645,7 +1645,7 @@ These our libations, strength inspiring Soma draughts, gladdened thee in the fig
 
 ---
 
-# Verse undefined.7
+# Verse 21.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1658,7 +1658,7 @@ Thou goest on from fight to fight intrepidly, destroying castle after castle her
 
 ---
 
-# Verse undefined.8
+# Verse 21.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1671,7 +1671,7 @@ Thou hast stuck down in death Karanja, Parnaya, in Atithigva's very glorious goi
 
 ---
 
-# Verse undefined.9
+# Verse 21.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1684,7 +1684,7 @@ With all-outstripping chariot wheel, O Indra, thou far-famed, hast overthrown th
 
 ---
 
-# Verse undefined.10
+# Verse 21.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1697,7 +1697,7 @@ Thou hast protected Susravas with succour, and Tūrvayāna with thine aid, O Ind
 
 ---
 
-# Verse undefined.11
+# Verse 21.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1712,7 +1712,7 @@ May we protected by the Gods hereafter remain thy very pro- sperous friends, O I
 
 ## Hymn 22: Untitled
 
-# Verse undefined.1
+# Verse 22.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1725,7 +1725,7 @@ Hero, the Soma being pressed I pour the juice for thee to drink Sate thee and fi
 
 ---
 
-# Verse undefined.2
+# Verse 22.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1738,7 +1738,7 @@ Let not the fools, or those who mock, beguile thee when they seek thine aid: Lov
 
 ---
 
-# Verse undefined.3
+# Verse 22.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1751,7 +1751,7 @@ Here let them with rich milky draught cheer thee to great munificence: Drink as 
 
 ---
 
-# Verse undefined.4
+# Verse 22.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1764,7 +1764,7 @@ Praise, even as he is known, with song Indra, the guardian of the kine, The Son 
 
 ---
 
-# Verse undefined.5
+# Verse 22.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1777,7 +1777,7 @@ Hither his bay steeds have been sent, red steeds are on the sacred grass. Where 
 
 ---
 
-# Verse undefined.6
+# Verse 22.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1792,7 +1792,7 @@ For Indra, Thunder-armed, the kine have yielded mingled milk and meath, What tim
 
 ## Hymn 23: Untitled
 
-# Verse undefined.1
+# Verse 23.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1805,7 +1805,7 @@ Invoked to drink the Soma juice come with thy bay steeds, Thunder-armed! Come, I
 
 ---
 
-# Verse undefined.2
+# Verse 23.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1818,7 +1818,7 @@ Our priest is seated true to time; the grass is regularly strewn; The pressing-s
 
 ---
 
-# Verse undefined.3
+# Verse 23.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1831,7 +1831,7 @@ These prayers, O thou who bearest prayer, are offered. Seat thee on the grass. H
 
 ---
 
-# Verse undefined.4
+# Verse 23.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1844,7 +1844,7 @@ O Vritra-slayer, be thou pleased with these libations, with these hymns, Song-lo
 
 ---
 
-# Verse undefined.5
+# Verse 23.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1857,7 +1857,7 @@ Our hymns caress the Lord of Strength, vast, drinker of the Soma's juice, Indra,
 
 ---
 
-# Verse undefined.6
+# Verse 23.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1870,7 +1870,7 @@ Delight thee with the juice we pour for thine own great munificence: Yield not t
 
 ---
 
-# Verse undefined.7
+# Verse 23.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1883,7 +1883,7 @@ We, Indra, dearly loving thee, bearing oblation, sing thee hymns: Thou, Vasu, ne
 
 ---
 
-# Verse undefined.8
+# Verse 23.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1896,7 +1896,7 @@ O thou to whom thy Bays are dear, loose not thy horses far from us: Here glad th
 
 ---
 
-# Verse undefined.9
+# Verse 23.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1911,7 +1911,7 @@ May long-maned courses, dropping oil, bring thee on swift car hitherward. Indra,
 
 ## Hymn 24: Untitled
 
-# Verse undefined.1
+# Verse 24.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1924,7 +1924,7 @@ Come to the juice that we have pressed, to Soma, Indra! blent with milk: Come, f
 
 ---
 
-# Verse undefined.2
+# Verse 24.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1937,7 +1937,7 @@ Come, Indra, to this gladdening drink, placed on the grass, pressed out with sto
 
 ---
 
-# Verse undefined.3
+# Verse 24.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1950,7 +1950,7 @@ To Indra have my songs of praise gone forth, thus rapidly sent hence, To turn hi
 
 ---
 
-# Verse undefined.4
+# Verse 24.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1963,7 +1963,7 @@ Hither with songs of praise we call Indra to drink the Soma. juice: Will he not 
 
 ---
 
-# Verse undefined.5
+# Verse 24.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1976,7 +1976,7 @@ Indra, these Somas are expressed, Take them within thy belly, Lord Of Hundred Po
 
 ---
 
-# Verse undefined.6
+# Verse 24.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1989,7 +1989,7 @@ We know thee winner of the spoil and resolute in battles, Sage! Therefore thy bl
 
 ---
 
-# Verse undefined.7
+# Verse 24.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2002,7 +2002,7 @@ Borne hither by thy stallions, drink, Indra, this juice which we have pressed, M
 
 ---
 
-# Verse undefined.8
+# Verse 24.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2015,7 +2015,7 @@ Indra, for thee in thine own place I urge the Soma for thy draught: Deep in thy 
 
 ---
 
-# Verse undefined.9
+# Verse 24.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2030,7 +2030,7 @@ We call on thee, the Ancient One, Indra, to drink the Soma juice, We Kusikas who
 
 ## Hymn 25: Untitled
 
-# Verse undefined.1
+# Verse 25.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2043,7 +2043,7 @@ Indra, the mortal man well guarded by thine aid goes foremost in the wealth of h
 
 ---
 
-# Verse undefined.2
+# Verse 25.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2056,7 +2056,7 @@ The heavenly waters come not nigh the priestly bowl: they but look down and see 
 
 ---
 
-# Verse undefined.3
+# Verse 25.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2069,7 +2069,7 @@ Praiseworthy blessing hast thou laid upon the pair who with uplifted ladle serve
 
 ---
 
-# Verse undefined.4
+# Verse 25.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2082,7 +2082,7 @@ First the Angirases won themselves vital power, whose fires were kindled through
 
 ---
 
-# Verse undefined.5
+# Verse 25.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2095,7 +2095,7 @@ Atharvan first by sacrifices laid the path; then, guardian of the Law, sprang up
 
 ---
 
-# Verse undefined.6
+# Verse 25.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2108,7 +2108,7 @@ When sacred grass is trimmed to aid the auspicious work, or the hymn makes its v
 
 ---
 
-# Verse undefined.7
+# Verse 25.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2123,7 +2123,7 @@ To make thee start, a strong true draught I offer to thee the Bull, O thou whom 
 
 ## Hymn 26: Untitled
 
-# Verse undefined.1
+# Verse 26.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2136,7 +2136,7 @@ In every need, in every fray we call, as friends, to succour us Indra the mighti
 
 ---
 
-# Verse undefined.2
+# Verse 26.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2149,7 +2149,7 @@ If he will hear us let him come with succour of a thousand kinds, And all that s
 
 ---
 
-# Verse undefined.3
+# Verse 26.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2162,7 +2162,7 @@ I call him, mighty to resist, the Hero of our ancient home, Thee whom my sire in
 
 ---
 
-# Verse undefined.4
+# Verse 26.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2175,7 +2175,7 @@ They who stand round him as he moves harness the bright, the ruddy steed: The li
 
 ---
 
-# Verse undefined.5
+# Verse 26.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2188,7 +2188,7 @@ On both sides of the car they yoke the two bay coursers dear to him, Bold, tawny
 
 ---
 
-# Verse undefined.6
+# Verse 26.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2203,7 +2203,7 @@ Thou, making light where no light was, and form, O Men! where form was not, Wast
 
 ## Hymn 27: Untitled
 
-# Verse undefined.1
+# Verse 27.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2216,7 +2216,7 @@ If I, O Indra, were, like thee, the single sovran of all wealth. My worshipper s
 
 ---
 
-# Verse undefined.2
+# Verse 27.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2229,7 +2229,7 @@ I should be fain, O Lord of Might, to strengthen and enrich the sage, Were I the
 
 ---
 
-# Verse undefined.3
+# Verse 27.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2242,7 +2242,7 @@ To worshippers who press the juice thy goodness, Indra, is a cow. Yielding in pl
 
 ---
 
-# Verse undefined.4
+# Verse 27.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2255,7 +2255,7 @@ None is there, Indra, God or man, to hinder thy munificence, The wealth which, l
 
 ---
 
-# Verse undefined.5
+# Verse 27.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2268,7 +2268,7 @@ The sacrifice made Indra strong when he unrolled the earth and made Himself a di
 
 ---
 
-# Verse undefined.6
+# Verse 27.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2283,7 +2283,7 @@ Thine aid we claim, O Indra, thine who after thou hast waxen great. Hast won all
 
 ## Hymn 28: Untitled
 
-# Verse undefined.1
+# Verse 28.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2296,7 +2296,7 @@ In Soma's ecstasy Indra spread the firmament and realms of light. When he cleft 
 
 ---
 
-# Verse undefined.2
+# Verse 28.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2309,7 +2309,7 @@ Showing the hidden he draye forth the cows for the Angirases, And Vala he cast h
 
 ---
 
-# Verse undefined.3
+# Verse 28.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2322,7 +2322,7 @@ By Indra were the luminous realms of heaven established and secured. Firm and im
 
 ---
 
-# Verse undefined.4
+# Verse 28.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2337,7 +2337,7 @@ Indra, thy laud moves quickly like a joyous wave of water-floods. Bright shine t
 
 ## Hymn 29: Untitled
 
-# Verse undefined.1
+# Verse 29.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2350,7 +2350,7 @@ I. For thou, O Indra, art the God whom hymns and praises magnify: Thou blessest 
 
 ---
 
-# Verse undefined.2
+# Verse 29.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2363,7 +2363,7 @@ Bay horses with their long manes bring Indra to drink the Soma juice, The Bounti
 
 ---
 
-# Verse undefined.3
+# Verse 29.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2376,7 +2376,7 @@ With waters' foam thou torest off, Indra, the head of Namuchi, Subduing all cont
 
 ---
 
-# Verse undefined.4
+# Verse 29.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2389,7 +2389,7 @@ The Dasyus, when they fain would climb by magic arts and mount to heaven, Thou, 
 
 ---
 
-# Verse undefined.5
+# Verse 29.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2404,7 +2404,7 @@ As Soma-drinker conquering all, thou scatteredst to every side Their band who po
 
 ## Hymn 30: Untitled
 
-# Verse undefined.1
+# Verse 30.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2417,7 +2417,7 @@ In the great synod will I laud thy two bay steeds: I prize the sweet strong drin
 
 ---
 
-# Verse undefined.2
+# Verse 30.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2430,7 +2430,7 @@ Ye who—in concert sing unto the gold-hued place, like bay steeds driving onwar
 
 ---
 
-# Verse undefined.3
+# Verse 30.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2443,7 +2443,7 @@ His is that thunderbolt, of iron, golden-hued, gold-coloured, very dear, and yel
 
 ---
 
-# Verse undefined.4
+# Verse 30.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2456,7 +2456,7 @@ As if a lovely ray were laid upon the sky, the golden thunder- bolt spread out a
 
 ---
 
-# Verse undefined.5
+# Verse 30.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2471,7 +2471,7 @@ Thou, thou, when praised by men who sacrificed of old, hadst pleasure in their l
 
 ## Hymn 31: Untitled
 
-# Verse undefined.1
+# Verse 31.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2484,7 +2484,7 @@ These two dear Bays bring hither Indra on his car, thunder- armed, joyous, meet 
 
 ---
 
-# Verse undefined.2
+# Verse 31.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2497,7 +2497,7 @@ The gold-hued drops have flowed to gratify his wish: the yellow. drops have urge
 
 ---
 
-# Verse undefined.3
+# Verse 31.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2510,7 +2510,7 @@ At the swift draught the Soma-drinker waxed in might, the iron. One with yellow 
 
 ---
 
-# Verse undefined.4
+# Verse 31.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2523,7 +2523,7 @@ His yellow-coloured jaws, like ladles, move apart, what time,. for strength, he 
 
 ---
 
-# Verse undefined.5
+# Verse 31.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2538,7 +2538,7 @@ Yea, to the dear one's seat in homes of heaven and earth the- bay steeds' Lord h
 
 ## Hymn 32: Untitled
 
-# Verse undefined.1
+# Verse 32.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2551,7 +2551,7 @@ Thou, comprehending with thy might the earth and heaven, acceptest the dear hymn
 
 ---
 
-# Verse undefined.2
+# Verse 32.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2564,7 +2564,7 @@ O Indra, let the eager wishes of the folk bring thee the golden- jawed, delightf
 
 ---
 
-# Verse undefined.3
+# Verse 32.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2579,7 +2579,7 @@ Juices aforetime, Lord of Bays, thou drankest, and thine, and only thine, is thi
 
 ## Hymn 33: Untitled
 
-# Verse undefined.1
+# Verse 33.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2592,7 +2592,7 @@ Drink of the juice which men have washed in waters and fill the- full, O Lord of
 
 ---
 
-# Verse undefined.2
+# Verse 33.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2605,7 +2605,7 @@ To make thee start, a strong true draught I offer to thee the Bull, O thou whom 
 
 ---
 
-# Verse undefined.3
+# Verse 33.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2620,7 +2620,7 @@ O mighty Indra, through thine aid, thy prowess, obtaining life, zealous, and ski
 
 ## Hymn 34: Untitled
 
-# Verse undefined.1
+# Verse 34.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2633,7 +2633,7 @@ He who just born, chief God of lofty spirit, by power and might became the God's
 
 ---
 
-# Verse undefined.2
+# Verse 34.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2646,7 +2646,7 @@ He who fixed fast and firm the earth that staggered, and set at rest the agitate
 
 ---
 
-# Verse undefined.3
+# Verse 34.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2659,7 +2659,7 @@ Who slew the Dragon, freed the Seven Rivers, and draye the kine forth from the c
 
 ---
 
-# Verse undefined.4
+# Verse 34.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2672,7 +2672,7 @@ By whom this universe was made to tremble, who chased away the humbled brood of 
 
 ---
 
-# Verse undefined.5
+# Verse 34.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2685,7 +2685,7 @@ Of whom, the terrible, they ask, Where is He? or verily they say of him, He is n
 
 ---
 
-# Verse undefined.6
+# Verse 34.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2698,7 +2698,7 @@ Stirrer to action of the poor and lowly, of priest, of suppliant who sings his p
 
 ---
 
-# Verse undefined.7
+# Verse 34.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2711,7 +2711,7 @@ He under whose supreme control are horses, all chariots, and the hamlets, and th
 
 ---
 
-# Verse undefined.8
+# Verse 34.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2724,7 +2724,7 @@ To whom both armies cry in close encounter, foe against foe, the stronger and th
 
 ---
 
-# Verse undefined.9
+# Verse 34.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2737,7 +2737,7 @@ He, without whom men conquer not in battle, whom, warring, they invoke for help 
 
 ---
 
-# Verse undefined.10
+# Verse 34.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2750,7 +2750,7 @@ He who hath smitten, ere they know their danger, with his hurl- ed weapon many g
 
 ---
 
-# Verse undefined.11
+# Verse 34.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2763,7 +2763,7 @@ He who discovered in the fortieth autumn Sambara dwelling in the midst of mounta
 
 ---
 
-# Verse undefined.12
+# Verse 34.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2776,7 +2776,7 @@ Who drank the juice poured at the seas of Order, subduing Sambara by superior pr
 
 ---
 
-# Verse undefined.13
+# Verse 34.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2789,7 +2789,7 @@ Who, with seven guiding reins, the Bull, the mighty, set the Seven Rivers free t
 
 ---
 
-# Verse undefined.14
+# Verse 34.14
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2802,7 +2802,7 @@ Heaven, even, and the earth bow down before him, before his very breath the moun
 
 ---
 
-# Verse undefined.15
+# Verse 34.15
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2815,7 +2815,7 @@ Who aids with favour him who pours the Soma, and him who brews it, sacrificer, s
 
 ---
 
-# Verse undefined.16
+# Verse 34.16
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2828,7 +2828,7 @@ Born, manifested in his Parents' bosom, He knoweth as a son the Highest Father. 
 
 ---
 
-# Verse undefined.17
+# Verse 34.17
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2841,7 +2841,7 @@ Lord of Bay steeds, who loves the flowing Soma, He before whom all living creatu
 
 ---
 
-# Verse undefined.18
+# Verse 34.18
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2856,7 +2856,7 @@ Thou verily art true strong God who sendest wealth to the man who brews and pour
 
 ## Hymn 35: Untitled
 
-# Verse undefined.1
+# Verse 35.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2869,7 +2869,7 @@ To him, to him swift, strong, and high-exalted, I bring my song of praise as dai
 
 ---
 
-# Verse undefined.2
+# Verse 35.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2882,7 +2882,7 @@ To him I offer praise as choice refreshment, bring forth my song, with seemly la
 
 ---
 
-# Verse undefined.3
+# Verse 35.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2895,7 +2895,7 @@ To him then with my lips my song of praises, excellent, winning heavenly light, 
 
 ---
 
-# Verse undefined.4
+# Verse 35.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2908,7 +2908,7 @@ Even for him I frame a laud—so fashions the wright a chariot for the man who n
 
 ---
 
-# Verse undefined.5
+# Verse 35.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2921,7 +2921,7 @@ So with my tongue I deck, to please that Indra, my hymn as't- were a horse, thro
 
 ---
 
-# Verse undefined.6
+# Verse 35.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2934,7 +2934,7 @@ Even for him hath Tvashtar forged the thunder, most deftly wrought, celestial, f
 
 ---
 
-# Verse undefined.7
+# Verse 35.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2947,7 +2947,7 @@ As soon as, at libations of his mother, great Vishnu had drunk up the draught, h
 
 ---
 
-# Verse undefined.8
+# Verse 35.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2960,7 +2960,7 @@ To him, to Indra when he slew the Dragon, the Dames too, Consorts of the Gods, w
 
 ---
 
-# Verse undefined.9
+# Verse 35.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2973,7 +2973,7 @@ Yea, of a truth, his magnitude surpasseth the magnitude of earth, mid-air and he
 
 ---
 
-# Verse undefined.10
+# Verse 35.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2986,7 +2986,7 @@ Through his own strength with bolt of thunder Indra smote piece-meal Vritra, dri
 
 ---
 
-# Verse undefined.11
+# Verse 35.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2999,7 +2999,7 @@ Through his resplendent power still stood the rivers when with his bolt on every
 
 ---
 
-# Verse undefined.12
+# Verse 35.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3012,7 +3012,7 @@ Vast, with thine ample power, with eager movement against this Vritra cast thy b
 
 ---
 
-# Verse undefined.13
+# Verse 35.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3025,7 +3025,7 @@ Sing with new lauds his exploits wrought aforetime, the deeds of him, yea, him w
 
 ---
 
-# Verse undefined.14
+# Verse 35.14
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3038,7 +3038,7 @@ When he, yea, he is born the firm-set mountains and the whole heaven and earth t
 
 ---
 
-# Verse undefined.15
+# Verse 35.15
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3051,7 +3051,7 @@ Now unto him of these things hath been given what he, who rules alone o'er much,
 
 ---
 
-# Verse undefined.16
+# Verse 35.16
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3066,7 +3066,7 @@ Thus to thee, Indra, yoker of bay coursers, the Gotamas have brought their praye
 
 ## Hymn 36: Untitled
 
-# Verse undefined.1
+# Verse 36.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3079,7 +3079,7 @@ With these my hymns I glorify that Indra who is alone to be invoked by mortals. 
 
 ---
 
-# Verse undefined.2
+# Verse 36.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3092,7 +3092,7 @@ Our ancient sires, Navagvas, sages seven, while urging him to show his might, ex
 
 ---
 
-# Verse undefined.3
+# Verse 36.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3105,7 +3105,7 @@ We seek that Indra to obtain his riches that yield much food, and men, and store
 
 ---
 
-# Verse undefined.4
+# Verse 36.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3118,7 +3118,7 @@ Declare to us—if at thy hand aforetime the earlier singers have obtained good 
 
 ---
 
-# Verse undefined.5
+# Verse 36.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3131,7 +3131,7 @@ He who for car-borne, thunder-wielding Indra, hath a hymn, craving deeply-pierci
 
 ---
 
-# Verse undefined.6
+# Verse 36.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3144,7 +3144,7 @@ Strong of thyself! thou with this art hast shattered with thought- swift Parvata
 
 ---
 
-# Verse undefined.7
+# Verse 36.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3157,7 +3157,7 @@ Him will we fit for you with new devotion, the strongest, Ancient One, in ancien
 
 ---
 
-# Verse undefined.8
+# Verse 36.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3170,7 +3170,7 @@ Thou for the people who oppress hast kindled the earthly firma- ment and that of
 
 ---
 
-# Verse undefined.9
+# Verse 36.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3183,7 +3183,7 @@ Of all the heavenly folk, of earthly creatures, thou art the King, O God of sple
 
 ---
 
-# Verse undefined.10
+# Verse 36.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3196,7 +3196,7 @@ Give us confirmed prosperity, O Indra, vast and exhaustless for the foes' subdui
 
 ---
 
-# Verse undefined.11
+# Verse 36.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3211,7 +3211,7 @@ Come with thy teams which bring all blessings, hither, disposer, much-invoked, e
 
 ## Hymn 37: Untitled
 
-# Verse undefined.1
+# Verse 37.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3224,7 +3224,7 @@ He, like a bull with sharpened horns, terrific, singly excites and agitates all 
 
 ---
 
-# Verse undefined.2
+# Verse 37.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3237,7 +3237,7 @@ Thou verily, Indra, gavest help to Kutsa, willingly lending ear to him in battle
 
 ---
 
-# Verse undefined.3
+# Verse 37.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3250,7 +3250,7 @@ O Bold One, thou with all thine aids hast boldly helped Sudās whose offerings w
 
 ---
 
-# Verse undefined.4
+# Verse 37.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3263,7 +3263,7 @@ At the Gods' banquet, Hero-souled! with heroes, Lord of Bay Steeds, thou slewest
 
 ---
 
-# Verse undefined.5
+# Verse 37.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3276,7 +3276,7 @@ These were thy mighty powers that, Thunder-wielder! then swiftly crushedst nine-
 
 ---
 
-# Verse undefined.6
+# Verse 37.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3289,7 +3289,7 @@ Old are the blessings, Indra, which thou gavest Sudās the wor- shipperwho broug
 
 ---
 
-# Verse undefined.7
+# Verse 37.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3302,7 +3302,7 @@ Give us not up, Lord of Bay Horses, victor, in this our time of- trouble, to the
 
 ---
 
-# Verse undefined.8
+# Verse 37.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3315,7 +3315,7 @@ May we men, Bounteous Lord, the friends thou lovest, near i thee be joyful under
 
 ---
 
-# Verse undefined.9
+# Verse 37.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3328,7 +3328,7 @@ Swiftly, in truth, O Bounteous Lord, about thee men skilled im hymning sing thei
 
 ---
 
-# Verse undefined.10
+# Verse 37.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3341,7 +3341,7 @@ Thine are these Lauds, O manliest of heroes, Lauds which revert to us and give u
 
 ---
 
-# Verse undefined.11
+# Verse 37.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3356,7 +3356,7 @@ Now, lauded for thine aid, heroic Indra, sped by our prayer,, wax mighty in thy 
 
 ## Hymn 38: Untitled
 
-# Verse undefined.1
+# Verse 38.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3369,7 +3369,7 @@ Come, we have pressed the juice for thee. O Indra, drink the Soma here. Sit thou
 
 ---
 
-# Verse undefined.2
+# Verse 38.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3382,7 +3382,7 @@ O Indra, let thy long-maned Bays, yoked by prayer, bring thee hitherward. Give e
 
 ---
 
-# Verse undefined.3
+# Verse 38.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3395,7 +3395,7 @@ We, Soma-bearing Brāhmans, call thee, Soma-drinker, with thy friend, We, Indra,
 
 ---
 
-# Verse undefined.4
+# Verse 38.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3408,7 +3408,7 @@ Indra the singers with high praise, Indra reciters with their lauds, Indra the c
 
 ---
 
-# Verse undefined.5
+# Verse 38.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3421,7 +3421,7 @@ Indra hath ever close to him his two bay steeds and word-yoked: car, Indra, the 
 
 ---
 
-# Verse undefined.6
+# Verse 38.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3436,7 +3436,7 @@ Indra hath raised the Sun aloft in heaven that he may see afar. He burst the mou
 
 ## Hymn 39: Untitled
 
-# Verse undefined.1
+# Verse 39.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3449,7 +3449,7 @@ For you, from every side, we call Indra away from other men: Ours, and none othe
 
 ---
 
-# Verse undefined.2
+# Verse 39.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3462,7 +3462,7 @@ In Soma's ecstasy Indra spread the firmament and realms of light. When he cleft 
 
 ---
 
-# Verse undefined.3
+# Verse 39.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3475,7 +3475,7 @@ Showing the hidden cows he draye them forth for the Angirases, And Vala he cast 
 
 ---
 
-# Verse undefined.4
+# Verse 39.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3488,7 +3488,7 @@ By Indra were the luminous realms of heaven established and secured, Firm and im
 
 ---
 
-# Verse undefined.5
+# Verse 39.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3503,7 +3503,7 @@ By Indra were the luminous realms of heaven established and secured, Firm and im
 
 ## Hymn 40: Untitled
 
-# Verse undefined.1
+# Verse 40.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3516,7 +3516,7 @@ Mayest thou verily be seen coming by fearless Indra's side: Both joyous: equal i
 
 ---
 
-# Verse undefined.2
+# Verse 40.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3529,7 +3529,7 @@ With Indra's well-beloved hosts, the blameless, hastening to heaven, The sacrifi
 
 ---
 
-# Verse undefined.3
+# Verse 40.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3544,7 +3544,7 @@ Thereafter they, as is their wont, threw off the state of babes unborn, Assuming
 
 ## Hymn 41: Untitled
 
-# Verse undefined.1
+# Verse 41.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3557,7 +3557,7 @@ With bones of Dadhyach for his arms, Indra, resistless in attack, Struck nine-an
 
 ---
 
-# Verse undefined.2
+# Verse 41.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3570,7 +3570,7 @@ He, searching for the horse's head, removed among the moun- tains, found At Sary
 
 ---
 
-# Verse undefined.3
+# Verse 41.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3585,7 +3585,7 @@ Then verily they recognized the essential form of Tvashtar's Bull. Here in the m
 
 ## Hymn 42: Untitled
 
-# Verse undefined.1
+# Verse 42.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3598,7 +3598,7 @@ From Indra have I measured an eight-footed and nine-cornered. song, Delicate, fa
 
 ---
 
-# Verse undefined.2
+# Verse 42.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3611,7 +3611,7 @@ Indra, both worlds complained to thee when uttering thy fearful roar, What time 
 
 ---
 
-# Verse undefined.3
+# Verse 42.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3626,7 +3626,7 @@ Arising in thy might thy jaws thou shookest, Indra, having quaffed The Soma pour
 
 ## Hymn 43: Untitled
 
-# Verse undefined.1
+# Verse 43.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3639,7 +3639,7 @@ Drive all our enemies away, smite down the foes who press around, And bring the 
 
 ---
 
-# Verse undefined.2
+# Verse 43.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3652,7 +3652,7 @@ O Indra, that which is concealed in firm strong place precipitous: Bring us the 
 
 ---
 
-# Verse undefined.3
+# Verse 43.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3667,7 +3667,7 @@ Great riches which the world of men shall recognize as sent by thee: Bring us th
 
 ## Hymn 44: Untitled
 
-# Verse undefined.1
+# Verse 44.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3680,7 +3680,7 @@ Praise Indra whom our songs must laud, great Sovran of man- kind, the Chief Most
 
 ---
 
-# Verse undefined.2
+# Verse 44.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3693,7 +3693,7 @@ In whom the hymns of praise delight, and all the glory-giving songs, Like the fl
 
 ---
 
-# Verse undefined.3
+# Verse 44.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3708,7 +3708,7 @@ Him I invite with eulogy, best King, effective in the fight, Strong for the gain
 
 ## Hymn 45: Untitled
 
-# Verse undefined.1
+# Verse 45.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3721,7 +3721,7 @@ This is thine own. Thou drawest near, as the dove turneth to his mate. Thou care
 
 ---
 
-# Verse undefined.2
+# Verse 45.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3734,7 +3734,7 @@ O Hero, Lord of Bounties, praised in hymns, may power and pleasantness Be his wh
 
 ---
 
-# Verse undefined.3
+# Verse 45.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3749,7 +3749,7 @@ Lord of a Hundred Powers, stand up to lend us succour in this fight: In others t
 
 ## Hymn 46: Untitled
 
-# Verse undefined.1
+# Verse 46.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3762,7 +3762,7 @@ Him who advances men to wealth, sends light to lead them in their wars, And quel
 
 ---
 
-# Verse undefined.2
+# Verse 46.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3775,7 +3775,7 @@ May he, the saviour much-invoked, may Indra bear us in a ship Safely beyond all 
 
 ---
 
-# Verse undefined.3
+# Verse 46.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3790,7 +3790,7 @@ As such, O Indra, honour us with wealth and treasure: further us, And lead us to
 
 ## Hymn 47: Untitled
 
-# Verse undefined.1
+# Verse 47.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3803,7 +3803,7 @@ We make this Indra show his strength, to strike the mighty Vritra dead: A vigoro
 
 ---
 
-# Verse undefined.2
+# Verse 47.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3816,7 +3816,7 @@ Indra was made for giving, most powerful, friendly in carouse, Bright, meet for 
 
 ---
 
-# Verse undefined.3
+# Verse 47.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3829,7 +3829,7 @@ By song, as 'twere, the mighty bolt, which none may parry, was prepared: Lofty, 
 
 ---
 
-# Verse undefined.4
+# Verse 47.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3842,7 +3842,7 @@ They who stand round him as he moves harness the bright, the ruddy Steed: The li
 
 ---
 
-# Verse undefined.5
+# Verse 47.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3855,7 +3855,7 @@ They yoke on both sides to the car the two bay coursers dear to him, Bold, tawny
 
 ---
 
-# Verse undefined.6
+# Verse 47.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3868,7 +3868,7 @@ Thou, making light where no light was, and form, O Men r where no form was, Wast
 
 ---
 
-# Verse undefined.7
+# Verse 47.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3881,7 +3881,7 @@ His bright rays bear him up aloft, the God who knoweth all that= is, Sūrya, tha
 
 ---
 
-# Verse undefined.8
+# Verse 47.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3894,7 +3894,7 @@ The constellations pass away, like thieves, together with their- beams, Before t
 
 ---
 
-# Verse undefined.9
+# Verse 47.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3907,7 +3907,7 @@ His herald rays are seen afar refulgent o'er the world of men, Like fiery flames
 
 ---
 
-# Verse undefined.10
+# Verse 47.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3920,7 +3920,7 @@ Swift and all-beautiful art thou, O Sūrya, maker of the light. Illuming all the
 
 ---
 
-# Verse undefined.11
+# Verse 47.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3933,7 +3933,7 @@ Thou guest to the troops of Gods, thou comest hither to man- kind, Hither, all l
 
 ---
 
-# Verse undefined.12
+# Verse 47.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3946,7 +3946,7 @@ Thou with that eye of thine wherewith thou seest, brilliant. Varuna, The active 
 
 ---
 
-# Verse undefined.13
+# Verse 47.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3959,7 +3959,7 @@ Pervadest heaven and wide mid-air, melting the days out with. thy beams, Sun, se
 
 ---
 
-# Verse undefined.14
+# Verse 47.14
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3972,7 +3972,7 @@ Seven bay steeds, harnessed to thy car, bear thee, O.thou far- seeing One, God, 
 
 ---
 
-# Verse undefined.15
+# Verse 47.15
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3987,7 +3987,7 @@ Sūrya hath yoked the seven bright mares, the daughters of the car: With these, 
 
 ## Hymn 48: Untitled
 
-# Verse undefined.1
+# Verse 48.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4000,7 +4000,7 @@ The swiftly-moving songs of praise pour on thee streams of vital strength As mot
 
 ---
 
-# Verse undefined.2
+# Verse 48.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4013,7 +4013,7 @@ Swift move the bright ones while they blend the Milk with vital vigour, as A dam
 
 ---
 
-# Verse undefined.3
+# Verse 48.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4026,7 +4026,7 @@ Fair hymns bring glory to the Strong, and Indra-vigour; unto, me Fatness and mil
 
 ---
 
-# Verse undefined.4
+# Verse 48.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4039,7 +4039,7 @@ This brindled Bull hath come and sat before the Mother in the east, Advancing to
 
 ---
 
-# Verse undefined.5
+# Verse 48.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4052,7 +4052,7 @@ As expiration from breath she moves along the lucid spheres: The Bull shines for
 
 ---
 
-# Verse undefined.6
+# Verse 48.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4067,7 +4067,7 @@ Song is bestowed upon the Bird. It reigns supreme throughout thirty realms Throu
 
 ## Hymn 49: Untitled
 
-# Verse undefined.1
+# Verse 49.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4080,7 +4080,7 @@ When voices, fain to win mid-air, ascended to the Mighty One, The vigorous God w
 
 ---
 
-# Verse undefined.2
+# Verse 49.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4093,7 +4093,7 @@ Praise with the voice the Mighty, praise the awful with the voice: in heaven He,
 
 ---
 
-# Verse undefined.3
+# Verse 49.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4106,7 +4106,7 @@ Praise with the voice the Mighty: he rules in each realm. In transport he Hath s
 
 ---
 
-# Verse undefined.4
+# Verse 49.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4119,7 +4119,7 @@ As cows low to their calf in stalls, so with our songs we glorify This Indra, ev
 
 ---
 
-# Verse undefined.5
+# Verse 49.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4132,7 +4132,7 @@ Celestial, bounteous Giver, God, with power and might, rich, mountain-like, in p
 
 ---
 
-# Verse undefined.6
+# Verse 49.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4145,7 +4145,7 @@ I crave of thee that hero strength—that thou mayst first regard this prayer Wh
 
 ---
 
-# Verse undefined.7
+# Verse 49.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4160,7 +4160,7 @@ Wherewith thou sentest mighty waters to the sea—Indra, that manly strength of 
 
 ## Hymn 50: Untitled
 
-# Verse undefined.1
+# Verse 50.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4173,7 +4173,7 @@ What newest of imploring hymns shall, then, the zealous mortal sing? For have no
 
 ---
 
-# Verse undefined.2
+# Verse 50.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4188,7 +4188,7 @@ When shall they keep the Law and praise thee mid the Gods? Who counts as Rishi a
 
 ## Hymn 51: Untitled
 
-# Verse undefined.1
+# Verse 51.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4201,7 +4201,7 @@ For you will I sing Indra's praise who gives good gifts as well we know; Praise 
 
 ---
 
-# Verse undefined.2
+# Verse 51.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4214,7 +4214,7 @@ As with a hundred hosts he rushes boldly on, and for the offerer slays his foes.
 
 ---
 
-# Verse undefined.3
+# Verse 51.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4227,7 +4227,7 @@ Sakra I praise, for victory, far-famed, exceeding bountiful. Who gives, as 'twer
 
 ---
 
-# Verse undefined.4
+# Verse 51.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4242,7 +4242,7 @@ Arrows with hundred points, unconquerable, are this Indra's mighty arms in war. 
 
 ## Hymn 52: Untitled
 
-# Verse undefined.1
+# Verse 52.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4255,7 +4255,7 @@ We compass thee like waters, we whose grass is trimmed and Soma pressed. Here wh
 
 ---
 
-# Verse undefined.2
+# Verse 52.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4270,7 +4270,7 @@ Men, Vasu! by the Soma, with lauds call thee to the foremost place. When comest 
 
 ## Hymn 53: Untitled
 
-# Verse undefined.1
+# Verse 53.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4283,7 +4283,7 @@ Who knows what vital power he wins, drinking beside the flowing juice? This is t
 
 ---
 
-# Verse undefined.2
+# Verse 53.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4296,7 +4296,7 @@ As a wild elephant rushes on, this way and that way, mad with heat. None may res
 
 ---
 
-# Verse undefined.3
+# Verse 53.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4311,7 +4311,7 @@ When he, the mighty, ne'er o'erthrown, stedfast, made ready for the fight. When 
 
 ## Hymn 54: Untitled
 
-# Verse undefined.1
+# Verse 54.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4324,7 +4324,7 @@ Of one accord they made and formed for kingship Indra, the Hero who in all encou
 
 ---
 
-# Verse undefined.2
+# Verse 54.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4337,7 +4337,7 @@ Bards joined in song to Indra so that he might drink the Soma juice, The Lord of
 
 ---
 
-# Verse undefined.3
+# Verse 54.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4352,7 +4352,7 @@ The holy sages form a ring, looking and singing to the Ram. Your very bright inc
 
 ## Hymn 55: Untitled
 
-# Verse undefined.1
+# Verse 55.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4365,7 +4365,7 @@ Oft, oft I call that Indra, Maghavan the mighty, who evermore possesses power, e
 
 ---
 
-# Verse undefined.2
+# Verse 55.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4378,7 +4378,7 @@ Indra, what joys as Lord of Light thou broughtest from the Asuras, Prosper there
 
 ---
 
-# Verse undefined.3
+# Verse 55.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4393,7 +4393,7 @@ The wasteless share of steeds and kine which, Indra, thou hast fast secured. Gra
 
 ## Hymn 56: Untitled
 
-# Verse undefined.1
+# Verse 56.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4406,7 +4406,7 @@ Indra, foe-slayer, hath been raised to joy and power by the men. Him, verily, we
 
 ---
 
-# Verse undefined.2
+# Verse 56.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4419,7 +4419,7 @@ For, Hero, thou art like a host, art giver of abundant prey. Strengthening even 
 
 ---
 
-# Verse undefined.3
+# Verse 56.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4432,7 +4432,7 @@ When war and battles are on foot, booty is laid before the bold. Yoke thou thy w
 
 ---
 
-# Verse undefined.4
+# Verse 56.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4445,7 +4445,7 @@ He, righteous-hearted, at each time of rapture gives us herds of kine. Gather in
 
 ---
 
-# Verse undefined.5
+# Verse 56.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4458,7 +4458,7 @@ Refresh thee, Hero, with the juice outpoured for bounty and for strength. We kno
 
 ---
 
-# Verse undefined.6
+# Verse 56.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4473,7 +4473,7 @@ These people, Indra, keep for thee all that is worthy of thy choice. Discover th
 
 ## Hymn 57: Untitled
 
-# Verse undefined.1
+# Verse 57.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4486,7 +4486,7 @@ As a good cow to him who milks, we call the doer of fair deeds. To our assistanc
 
 ---
 
-# Verse undefined.2
+# Verse 57.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4499,7 +4499,7 @@ Come thou to our libations, drink of Soma, Soma-drinker thou! The rich One's rap
 
 ---
 
-# Verse undefined.3
+# Verse 57.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4512,7 +4512,7 @@ So may we be acquainted with thine innermost benevolence: Neglect us not, come h
 
 ---
 
-# Verse undefined.4
+# Verse 57.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4525,7 +4525,7 @@ Drink for our help the Soma bright, vigilant, and exceeding strong, O Indra, Lor
 
 ---
 
-# Verse undefined.5
+# Verse 57.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4538,7 +4538,7 @@ O Satakratu, powers which thou mid the Five Races hast dis- played, These, Indra
 
 ---
 
-# Verse undefined.6
+# Verse 57.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4551,7 +4551,7 @@ Indra, great glory hast thou gained. Win splendid fame which none may mar. We ma
 
 ---
 
-# Verse undefined.7
+# Verse 57.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4564,7 +4564,7 @@ Come to us either from anear, or, Sakra, come from far away. Indra, wherever be 
 
 ---
 
-# Verse undefined.8
+# Verse 57.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4577,7 +4577,7 @@ Verily Indra, conquering all, driveth even mighty fear away. For firm is he and 
 
 ---
 
-# Verse undefined.9
+# Verse 57.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4590,7 +4590,7 @@ Indra be gracious unto us: sin shall not reach us afterward, And good shall be b
 
 ---
 
-# Verse undefined.10
+# Verse 57.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4603,7 +4603,7 @@ From all the regions of the world let Indra send security. The foe-subduer, swif
 
 ---
 
-# Verse undefined.11
+# Verse 57.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4616,7 +4616,7 @@ We compass thee like waters, we whose grass in trimmed and Soma pressed. Here wh
 
 ---
 
-# Verse undefined.12
+# Verse 57.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4629,7 +4629,7 @@ Men, Vasu, by the Soma with lauds call thee to the foremost place. When comest t
 
 ---
 
-# Verse undefined.13
+# Verse 57.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4644,7 +4644,7 @@ Boldly, bold Hero, bring us spoil in thousands for the Kanvas' sake. O active Ma
 
 ## Hymn 58: Untitled
 
-# Verse undefined.1
+# Verse 58.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4657,7 +4657,7 @@ Turning, as 'twere, to meet the Sun, enjoy from Indra all good things. When he w
 
 ---
 
-# Verse undefined.2
+# Verse 58.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4670,7 +4670,7 @@ Praise him who sends us wealth, whose bounties injure none. Good are the gifts w
 
 ---
 
-# Verse undefined.3
+# Verse 58.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4683,7 +4683,7 @@ Verily, Sūrya, thou art great; truly, Āditya, thou art great. As thou art grea
 
 ---
 
-# Verse undefined.4
+# Verse 58.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4698,7 +4698,7 @@ Yea, Sūrya, thou art great in fame: thou evermore, O God, art great. By greatne
 
 ## Hymn 59: Untitled
 
-# Verse undefined.1
+# Verse 59.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4711,7 +4711,7 @@ His portion is exceeding great, like a victorious soldier's spoil. Him who is In
 
 ---
 
-# Verse undefined.2
+# Verse 59.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4726,7 +4726,7 @@ Make for the holy Gods a hymn that is not mean, but well arranged and fair in fo
 
 ## Hymn 60: Untitled
 
-# Verse undefined.1
+# Verse 60.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4739,7 +4739,7 @@ For so thou art the hero's Friend, a Warrior too art thou, and strong: So may th
 
 ---
 
-# Verse undefined.2
+# Verse 60.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4752,7 +4752,7 @@ So hath the offering; wealthiest Lord, been paid by all the worshippers: So dwel
 
 ---
 
-# Verse undefined.3
+# Verse 60.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4765,7 +4765,7 @@ Be not thou, like a slothful priest, O Lord of wealth and spoil: rejoice. In the
 
 ---
 
-# Verse undefined.4
+# Verse 60.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4778,7 +4778,7 @@ So also is his excellence, great copious, rich in cattle, like A ripe branch to 
 
 ---
 
-# Verse undefined.5
+# Verse 60.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4791,7 +4791,7 @@ For verily thy mighty powers, Indra, are saving helps at once Unto a worshipper 
 
 ---
 
-# Verse undefined.6
+# Verse 60.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4806,7 +4806,7 @@ So are his lovely gifts: let laud be said and praise to Indra sung. That he may 
 
 ## Hymn 61: Untitled
 
-# Verse undefined.1
+# Verse 61.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4819,7 +4819,7 @@ We sing this strong and wild delight of thine which conquers in the fray, Which,
 
 ---
 
-# Verse undefined.2
+# Verse 61.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4832,7 +4832,7 @@ Wherewith thou also foundest lights for Āyu and for Manu's sake: Now joying in!
 
 ---
 
-# Verse undefined.3
+# Verse 61.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4845,7 +4845,7 @@ This day to singers of the hymn praise, as of old, this, might of thine. Win tho
 
 ---
 
-# Verse undefined.4
+# Verse 61.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4858,7 +4858,7 @@ Sing forth to him whom many men invoke, to him whom many laud: Invite the potent
 
 ---
 
-# Verse undefined.5
+# Verse 61.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4871,7 +4871,7 @@ Whose lofty might—for doubly strong is he—supports the heaven and earth. And
 
 ---
 
-# Verse undefined.6
+# Verse 61.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4886,7 +4886,7 @@ Such, praised by many! thou art King: alone thou smitest foe- men dead, To gain,
 
 ## Hymn 62: Untitled
 
-# Verse undefined.1
+# Verse 62.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4899,7 +4899,7 @@ To Indra sing a Sāman, sing to the high Sage a lofty song, To him who keeps the
 
 ---
 
-# Verse undefined.2
+# Verse 62.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4912,7 +4912,7 @@ Thou, Indra, art preeminent: thou gavest splendour to the Sun. Maker of all thin
 
 ---
 
-# Verse undefined.3
+# Verse 62.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4925,7 +4925,7 @@ Radiant with light thou wentest to the sky, the luminous realms: of heaven. The 
 
 ---
 
-# Verse undefined.4
+# Verse 62.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4938,7 +4938,7 @@ Sing forth to him whom many men invoke, to him whom many laud: Invite the potent
 
 ---
 
-# Verse undefined.5
+# Verse 62.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4951,7 +4951,7 @@ Whose lofty might—for doubly strong is he—supports the heaven and earth, And
 
 ---
 
-# Verse undefined.6
+# Verse 62.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4966,7 +4966,7 @@ Such, praised by many! thou art King. Alone thou smitest foe- men dead, To gain,
 
 ## Hymn 63: Untitled
 
-# Verse undefined.1
+# Verse 63.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4979,7 +4979,7 @@ We will, with Indra, and all Gods to aid us, bring these existing. worlds into s
 
 ---
 
-# Verse undefined.2
+# Verse 63.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -4992,7 +4992,7 @@ With the Ādityas with the band of Maruts, may Indra be pro- tector of our bodie
 
 ---
 
-# Verse undefined.3
+# Verse 63.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5005,7 +5005,7 @@ Brought the Sun hitherward with mighty powers, and looked! about them on their v
 
 ---
 
-# Verse undefined.4
+# Verse 63.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5018,7 +5018,7 @@ He who alone bestoweth might on mortal man who offereth gifts, The ruler of resi
 
 ---
 
-# Verse undefined.5
+# Verse 63.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5031,7 +5031,7 @@ When will he trample like a weed the man who hath no gift for him? When verily w
 
 ---
 
-# Verse undefined.6
+# Verse 63.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5044,7 +5044,7 @@ He who with Soma juice prepared among the many harbours. thee, Verily Indra gain
 
 ---
 
-# Verse undefined.7
+# Verse 63.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5057,7 +5057,7 @@ Joy, mightiest Indra, known and marked, sprung most from Soma draughts, wherewit
 
 ---
 
-# Verse undefined.8
+# Verse 63.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5070,7 +5070,7 @@ Wherewith thou helpest Adhrigu, the great Dasagva, and the God Who stirs the sun
 
 ---
 
-# Verse undefined.9
+# Verse 63.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5085,7 +5085,7 @@ Wherewith thou dravest forth like cars Sindhu and all the mighty floods. To go t
 
 ## Hymn 64: Untitled
 
-# Verse undefined.1
+# Verse 64.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5098,7 +5098,7 @@ Come unto us, O Indra, dear, still conquering, unconcealable, Vast as a mountain
 
 ---
 
-# Verse undefined.2
+# Verse 64.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5111,7 +5111,7 @@ O truthful Soma-drinker, thou art mightier than both the worlds. Thou strengthen
 
 ---
 
-# Verse undefined.3
+# Verse 64.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5124,7 +5124,7 @@ For thou art, he, O Indra, who stormest all castles of the foe, Slayer of Dasyus
 
 ---
 
-# Verse undefined.4
+# Verse 64.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5137,7 +5137,7 @@ O ministering priest, pour out of the sweet juice what gladdens most. So is the 
 
 ---
 
-# Verse undefined.5
+# Verse 64.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5150,7 +5150,7 @@ Indra whom tawny coursers bear, praise such a thine,. preeminent None by his pow
 
 ---
 
-# Verse undefined.6
+# Verse 64.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5165,7 +5165,7 @@ We seeking glory, have invoked this Master of all power and' might. Who must be 
 
 ## Hymn 65: Untitled
 
-# Verse undefined.1
+# Verse 65.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5178,7 +5178,7 @@ Come, sing we praise to Indra, friends! the Hero who deserves the laud, Him who 
 
 ---
 
-# Verse undefined.2
+# Verse 65.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5191,7 +5191,7 @@ To him who wins the kine, who keeps no cattle back, celestial God, Speak wondrou
 
 ---
 
-# Verse undefined.3
+# Verse 65.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5206,7 +5206,7 @@ Whose hero powers are measureless, whose bounty ne'er may be surpassed, Whose li
 
 ## Hymn 66: Untitled
 
-# Verse undefined.1
+# Verse 66.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5219,7 +5219,7 @@ As Vyasva did, praise Indra, praise the strong unfluctuating guide. Who gives th
 
 ---
 
-# Verse undefined.2
+# Verse 66.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5232,7 +5232,7 @@ Now, son of Vyasva, praise thou him who to the tenth time still is new. The very
 
 ---
 
-# Verse undefined.3
+# Verse 66.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5247,7 +5247,7 @@ Thou knowest, Indra, thunder-armed, how to avoid destructive Powers, As one secu
 
 ## Hymn 67: Untitled
 
-# Verse undefined.1
+# Verse 67.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5260,7 +5260,7 @@ The pourer of oblations gains the home of wealth pouring his gift conciliates ho
 
 ---
 
-# Verse undefined.2
+# Verse 67.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5273,7 +5273,7 @@ Ne'er may those manly deeds of yours for us grow old, never may your bright glor
 
 ---
 
-# Verse undefined.3
+# Verse 67.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5286,7 +5286,7 @@ I think on Agni, Hotar, the munificent, the gracious Son of strength, who knowet
 
 ---
 
-# Verse undefined.4
+# Verse 67.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5299,7 +5299,7 @@ Busied with sacrifice, with spotted deer and spears, gleaming. upon your way wit
 
 ---
 
-# Verse undefined.5
+# Verse 67.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5312,7 +5312,7 @@ Bring the Gods hither, Sage, and offer sacrifice. At the three altars seat thee 
 
 ---
 
-# Verse undefined.6
+# Verse 67.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5325,7 +5325,7 @@ This is the strengthener of thy body's manly might: strength,. victory for all t
 
 ---
 
-# Verse undefined.7
+# Verse 67.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5340,7 +5340,7 @@ Him whom of old I called on, him I call on now. He is to be invoked: his name is
 
 ## Hymn 68: Untitled
 
-# Verse undefined.1
+# Verse 68.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5353,7 +5353,7 @@ Go to the wise unconquered One, ask thou of Indra, skilled in song, Him who is b
 
 ---
 
-# Verse undefined.2
+# Verse 68.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5366,7 +5366,7 @@ Whether the men who mock us say, Depart unto another place, Ye who serve Indra a
 
 ---
 
-# Verse undefined.3
+# Verse 68.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5379,7 +5379,7 @@ Or whether, God of wondrous deeds, all our true people call us blest, Still may 
 
 ---
 
-# Verse undefined.4
+# Verse 68.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5392,7 +5392,7 @@ Unto the swift One bring the swift, man-cheering, grace of sacrifice. That to th
 
 ---
 
-# Verse undefined.5
+# Verse 68.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5405,7 +5405,7 @@ Thou, Satakratu, drankest this and wast the Vritras' slayer; thou. Helpest the w
 
 ---
 
-# Verse undefined.6
+# Verse 68.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5418,7 +5418,7 @@ We strengthen, Satakratu, thee, yea, thee the powerfull in fight, That, Indra, w
 
 ---
 
-# Verse undefined.7
+# Verse 68.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5431,7 +5431,7 @@ To him the mighty stream of wealth, prompt Friend of him who pours the juice, Ye
 
 ---
 
-# Verse undefined.8
+# Verse 68.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5444,7 +5444,7 @@ O come ye hither, sit ye down: to Indra sing ye forth your song, Companions, bri
 
 ---
 
-# Verse undefined.9
+# Verse 68.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5459,7 +5459,7 @@ To him the richest of the rich, the Lord of treasures excellent, Indra, with Som
 
 ## Hymn 69: Untitled
 
-# Verse undefined.1
+# Verse 69.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5472,7 +5472,7 @@ May he stand by us in our need and in abundance for our wealth: With riches may 
 
 ---
 
-# Verse undefined.2
+# Verse 69.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5485,7 +5485,7 @@ Whose pair of tawny horses yoked in battles foemen challenge not: To him, to Ind
 
 ---
 
-# Verse undefined.3
+# Verse 69.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5498,7 +5498,7 @@ Nigh to the Soma-drinker come, for his enjoyment, these bright drops, The Somas 
 
 ---
 
-# Verse undefined.4
+# Verse 69.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5511,7 +5511,7 @@ Thou, grown at once to perfect strength, wast born to drink the Soma juice, stro
 
 ---
 
-# Verse undefined.5
+# Verse 69.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5524,7 +5524,7 @@ O Indra, lover of the song, may these quick Somas enter thee: May they bring bli
 
 ---
 
-# Verse undefined.6
+# Verse 69.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5537,7 +5537,7 @@ O Indra, lover of the song, may these quick Somas enter thee: May they bring bli
 
 ---
 
-# Verse undefined.7
+# Verse 69.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5550,7 +5550,7 @@ Indra, whose succour never fails, accept this treasure thousand- fold, Wherein a
 
 ---
 
-# Verse undefined.8
+# Verse 69.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5563,7 +5563,7 @@ O Indra, thou who lovest song, let no man hurt our bodies, keep. Slaughter far f
 
 ---
 
-# Verse undefined.9
+# Verse 69.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5578,7 +5578,7 @@ Thereafter they, as is their wont, threw off the state of babes urborn, Taking t
 
 ## Hymn 70: Untitled
 
-# Verse undefined.1
+# Verse 70.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5591,7 +5591,7 @@ Thou, Indra, with the Tempest-Gods, the breakers down of what is firm, Foundest 
 
 ---
 
-# Verse undefined.2
+# Verse 70.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5604,7 +5604,7 @@ Worshipping even as they list, singers laud him who findeth wealth, The far-reno
 
 ---
 
-# Verse undefined.3
+# Verse 70.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5617,7 +5617,7 @@ Then, faring on by Indra's side, the fearless, let thyself be seen,. Both gracio
 
 ---
 
-# Verse undefined.4
+# Verse 70.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5630,7 +5630,7 @@ With Indra's well-beloved hosts, the blameless, tending heaven- ward, The sacrif
 
 ---
 
-# Verse undefined.5
+# Verse 70.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5643,7 +5643,7 @@ Come from this place, O wanderer, or downward from the light of heaven! Our song
 
 ---
 
-# Verse undefined.6
+# Verse 70.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5656,7 +5656,7 @@ Or Indra we implore for help from here, from heaven above the earth, Or from the
 
 ---
 
-# Verse undefined.7
+# Verse 70.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5669,7 +5669,7 @@ Indra the singers with high praise, Indra reciters with their lauds, Indra the c
 
 ---
 
-# Verse undefined.8
+# Verse 70.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5682,7 +5682,7 @@ Indra hath ever close to him his two bay steeds and word-yoked car, Indra the go
 
 ---
 
-# Verse undefined.9
+# Verse 70.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5695,7 +5695,7 @@ Indra hath raisedjthe Sun on high in heaven, that he may see afar: He burst the 
 
 ---
 
-# Verse undefined.10
+# Verse 70.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5708,7 +5708,7 @@ Help us, O Indra, in the frays, yea, frays where thousand spoils are gained, Wit
 
 ---
 
-# Verse undefined.11
+# Verse 70.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5721,7 +5721,7 @@ In mighty battle we invoke, Indra, Indra in lesser fight, The friend who bends h
 
 ---
 
-# Verse undefined.12
+# Verse 70.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5734,7 +5734,7 @@ Unclose, our manly Hero, thou for ever bounteous, yonder cloud, For us, thou irr
 
 ---
 
-# Verse undefined.13
+# Verse 70.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5747,7 +5747,7 @@ Still higher, at each strain of mine, thunder-armed Indra's, praises rise: I fin
 
 ---
 
-# Verse undefined.14
+# Verse 70.14
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5760,7 +5760,7 @@ Even as the bull drives on the herds, he drives the people with his might, The r
 
 ---
 
-# Verse undefined.15
+# Verse 70.15
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5773,7 +5773,7 @@ Indra who rules with single sway men, riches, and the fivefold race. Of those wh
 
 ---
 
-# Verse undefined.16
+# Verse 70.16
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5786,7 +5786,7 @@ For your sake from each side we call Indra away from other men: Ours, and none o
 
 ---
 
-# Verse undefined.17
+# Verse 70.17
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5799,7 +5799,7 @@ Indra, bring wealth that gives delight, the victor's ever-conquer- ing wealth, M
 
 ---
 
-# Verse undefined.18
+# Verse 70.18
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5812,7 +5812,7 @@ By means of which we may repel our foes in battle hand to hand. By thee assisted
 
 ---
 
-# Verse undefined.19
+# Verse 70.19
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5825,7 +5825,7 @@ Aided by thee, the Thunder-armed, Indra; may we lit up the bolt, And conquer all
 
 ---
 
-# Verse undefined.20
+# Verse 70.20
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5840,7 +5840,7 @@ With thee, O Indra, for ally, with missile-darting heroes may We conquer our emb
 
 ## Hymn 71: Untitled
 
-# Verse undefined.1
+# Verse 71.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5853,7 +5853,7 @@ Mighty is Indra, yea, supreme; greatness becomes the Thunderer! Wide as the heav
 
 ---
 
-# Verse undefined.2
+# Verse 71.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5866,7 +5866,7 @@ Which aideth those to win them sons who come as heroes to the fight, Or singers 
 
 ---
 
-# Verse undefined.3
+# Verse 71.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5879,7 +5879,7 @@ His belly drinking deepest draughts of Soma like an ocean swells, Like wide stre
 
 ---
 
-# Verse undefined.4
+# Verse 71.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5892,7 +5892,7 @@ Come, Indra, and delight thee with the juice at all the Soma feasts, Protector, 
 
 ---
 
-# Verse undefined.5
+# Verse 71.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5905,7 +5905,7 @@ To Indra pour ye forth the juice, the active gladdening juice, to him The gladde
 
 ---
 
-# Verse undefined.6
+# Verse 71.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5918,7 +5918,7 @@ O Lord of all men, fair of cheek, rejoice thee in the gladdening buds, Present a
 
 ---
 
-# Verse undefined.7
+# Verse 71.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5931,7 +5931,7 @@ Songs have outpoured themselves to thee, Indra, the strong, the guardian Lord. A
 
 ---
 
-# Verse undefined.8
+# Verse 71.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5944,7 +5944,7 @@ Send to us bounty manifold, O Indra, worthy of our wish, For power supreme is on
 
 ---
 
-# Verse undefined.9
+# Verse 71.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5957,7 +5957,7 @@ O Indra, stimulate thereto us emulously fain for wealth. And glorious, O most sp
 
 ---
 
-# Verse undefined.10
+# Verse 71.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5970,7 +5970,7 @@ Give, Indra, wide and lofty fame, wealthy in cattle and in strength, Lasting our
 
 ---
 
-# Verse undefined.11
+# Verse 71.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5983,7 +5983,7 @@ Grant us high fame, O Indra, grant riches bestowing thousands, those Fair fruits
 
 ---
 
-# Verse undefined.12
+# Verse 71.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -5996,7 +5996,7 @@ Praising with songs the praise-worthy who cometh to our aid, we call Indra, the 
 
 ---
 
-# Verse undefined.13
+# Verse 71.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6011,7 +6011,7 @@ To lofty Indra, dweller by each libation, the pious man Sings forth aloud a stre
 
 ## Hymn 72: Untitled
 
-# Verse undefined.1
+# Verse 72.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6024,7 +6024,7 @@ In all libations men with hero spirit urge thee, Universal, One, each seeking se
 
 ---
 
-# Verse undefined.2
+# Verse 72.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6037,7 +6037,7 @@ Couples desirous of thine aid are storming thee, pouring their presents forth to
 
 ---
 
-# Verse undefined.3
+# Verse 72.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6052,7 +6052,7 @@ Also this morn may he be well inclined to us, mark at our call our offerings and
 
 ## Hymn 73: Untitled
 
-# Verse undefined.1
+# Verse 73.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6065,7 +6065,7 @@ All these libations are for thee, O Hero: to thee I offer these my prayers that 
 
 ---
 
-# Verse undefined.2
+# Verse 73.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6078,7 +6078,7 @@ Never do men attain, O Wonder-worker, thy greatness, Mighty One who must be laud
 
 ---
 
-# Verse undefined.3
+# Verse 73.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6091,7 +6091,7 @@ Bring to the Wise, the Great who waxeth mighty your offerings and make ready you
 
 ---
 
-# Verse undefined.4
+# Verse 73.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6104,7 +6104,7 @@ When, with the Princes, Maghavan, famed of old, comes nigh the thunderbolt of go
 
 ---
 
-# Verse undefined.5
+# Verse 73.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6117,7 +6117,7 @@ With him too is this rain of his that comes like herds: Indra throws drops of mo
 
 ---
 
-# Verse undefined.6
+# Verse 73.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6132,7 +6132,7 @@ We laud and praise his several deeds of valour who, fatherlike,. with power hath
 
 ## Hymn 74: Untitled
 
-# Verse undefined.1
+# Verse 74.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6145,7 +6145,7 @@ O Soma-drinker, ever true, utterly hopeless though we be, Do thou, O Indra, give
 
 ---
 
-# Verse undefined.2
+# Verse 74.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6158,7 +6158,7 @@ O Lord of strength, whose jaws are strong, great deeds are thine, the powerful: 
 
 ---
 
-# Verse undefined.3
+# Verse 74.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6171,7 +6171,7 @@ Lull thou asleep, to wake no more, the pair who on each other look: Do thou, O I
 
 ---
 
-# Verse undefined.4
+# Verse 74.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6184,7 +6184,7 @@ Hero, let hostile spirits sleep, and every gentler Genius wake: Do thou, O Indra
 
 ---
 
-# Verse undefined.5
+# Verse 74.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6197,7 +6197,7 @@ Destroy this ass, O Indra, who in tones discordant brays to thee: Do thou, O Ind
 
 ---
 
-# Verse undefined.6
+# Verse 74.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6210,7 +6210,7 @@ Far distant on the forest fall the tempest in a circling course; Do thou, O Indr
 
 ---
 
-# Verse undefined.7
+# Verse 74.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6225,7 +6225,7 @@ Slay each reviler and destroy him who in secret injures us: Do thou, O Indra, gi
 
 ## Hymn 75: Untitled
 
-# Verse undefined.1
+# Verse 75.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6238,7 +6238,7 @@ Couples desirous of thine aid are storming thee, pouring their presents forth to
 
 ---
 
-# Verse undefined.2
+# Verse 75.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6251,7 +6251,7 @@ This thine heroic power full well the people knew, wherewith thou brakest down, 
 
 ---
 
-# Verse undefined.3
+# Verse 75.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6266,7 +6266,7 @@ And they have bruited far this hero might, when thou, O Strong One, in thy joy h
 
 ## Hymn 76: Untitled
 
-# Verse undefined.1
+# Verse 76.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6279,7 +6279,7 @@ As sits the young bird on the tree rejoicing, ye, swift pair, have been roused b
 
 ---
 
-# Verse undefined.2
+# Verse 76.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6292,7 +6292,7 @@ May we, when this Dawn and the next dance hither, be thy best servants, most her
 
 ---
 
-# Verse undefined.3
+# Verse 76.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6305,7 +6305,7 @@ What was the gladdening draught that pleased thee, Indra? Speed to our doors, ou
 
 ---
 
-# Verse undefined.4
+# Verse 76.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6318,7 +6318,7 @@ Indra, what fame hath one like thee mid heroes? With what plan wilt thou act? Wh
 
 ---
 
-# Verse undefined.5
+# Verse 76.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6331,7 +6331,7 @@ Speed happily those, as Sūrya ends his journey, who meet his wish as bridegroom
 
 ---
 
-# Verse undefined.6
+# Verse 76.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6344,7 +6344,7 @@ Thine are two measures, Indra, wide, well-meted, heaven for thy majesty, earth f
 
 ---
 
-# Verse undefined.7
+# Verse 76.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6357,7 +6357,7 @@ They have poured out a bowl to him, to Indra, full of sweet juice, for faithful 
 
 ---
 
-# Verse undefined.8
+# Verse 76.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6372,7 +6372,7 @@ Indra hath conquered in his wars the mighty: men strive in multitudes to win his
 
 ## Hymn 77: Untitled
 
-# Verse undefined.1
+# Verse 77.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6385,7 +6385,7 @@ Impetuous, true, let Maghavan come hither, and let his tawny coursers speed to r
 
 ---
 
-# Verse undefined.2
+# Verse 77.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6398,7 +6398,7 @@ Unyoke, as at thy journey's end, O Hero, to gladden thee to-day at this libation
 
 ---
 
-# Verse undefined.3
+# Verse 77.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6411,7 +6411,7 @@ When the Bull quaffing praises our libation, as a sage paying holy rites in secr
 
 ---
 
-# Verse undefined.4
+# Verse 77.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6424,7 +6424,7 @@ When heaven's fair light by hymns was made apparent. (they made great splendour 
 
 ---
 
-# Verse undefined.5
+# Verse 77.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6437,7 +6437,7 @@ Indra, impetuous One, hath waxed immensely: he with his vastness hath filled ear
 
 ---
 
-# Verse undefined.6
+# Verse 77.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6450,7 +6450,7 @@ Sakra who knoweth well all human actions hath with his eager friends let loose t
 
 ---
 
-# Verse undefined.7
+# Verse 77.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6463,7 +6463,7 @@ He smote away the flood's obstructer Vritra: Earth conscious lent her aid to spe
 
 ---
 
-# Verse undefined.8
+# Verse 77.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6478,7 +6478,7 @@ When, Much-invoked! the waters' rock thou deftest, Saramā showed herself and we
 
 ## Hymn 78: Untitled
 
-# Verse undefined.1
+# Verse 78.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6491,7 +6491,7 @@ Sing this, what time the juice is pressed, to him your Hero much-invoked, To ple
 
 ---
 
-# Verse undefined.2
+# Verse 78.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6504,7 +6504,7 @@ He, excellent, withholdeth not his gift of power and wealth in kine, When he hat
 
 ---
 
-# Verse undefined.3
+# Verse 78.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6519,7 +6519,7 @@ May he with might disclose for us the cows' stall, whosesoe'er it be, To which t
 
 ## Hymn 79: Untitled
 
-# Verse undefined.1
+# Verse 79.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6532,7 +6532,7 @@ O Indra, give us wisdom as a sire gives wisdom to his sons. Guide us, O Much-inv
 
 ---
 
-# Verse undefined.2
+# Verse 79.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6547,7 +6547,7 @@ Grant that no mighty foes, unknown, malevolent, unhallowed, tread us to the grou
 
 ## Hymn 80: Untitled
 
-# Verse undefined.1
+# Verse 80.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6560,7 +6560,7 @@ Bring us, O Indra, name and fame, enriching, mightiest, excellent, Wherewith, O 
 
 ---
 
-# Verse undefined.2
+# Verse 80.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6575,7 +6575,7 @@ We call on thee, O King, mighty among the Gods, ruler of men, to succour us, All
 
 ## Hymn 81: Untitled
 
-# Verse undefined.1
+# Verse 81.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6588,7 +6588,7 @@ O Indra, if a hundred heavens and if a hundred earths were: thine No, not a hund
 
 ---
 
-# Verse undefined.2
+# Verse 81.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6603,7 +6603,7 @@ Thou, Hero, hast performed thy hero needs with might, yea, all+ with strength, O
 
 ## Hymn 82: Untitled
 
-# Verse undefined.1
+# Verse 82.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6616,7 +6616,7 @@ If I, O Indra, were the lord of riches ample as thine own, I should support the 
 
 ---
 
-# Verse undefined.2
+# Verse 82.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6631,7 +6631,7 @@ Each day would I enrich the man who sang my praise, in what- soever place he wer
 
 ## Hymn 83: Untitled
 
-# Verse undefined.1
+# Verse 83.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6644,7 +6644,7 @@ O Indra, grant a happy home, a triple refuge, triply strong. Bestow a dwelling-p
 
 ---
 
-# Verse undefined.2
+# Verse 83.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6659,7 +6659,7 @@ They who with minds intent on spoil subdue the foe, boldly attack and smite him 
 
 ## Hymn 84: Untitled
 
-# Verse undefined.1
+# Verse 84.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6672,7 +6672,7 @@ O Indra marvellously bright, come, these libations long for thee, Thus by fine f
 
 ---
 
-# Verse undefined.2
+# Verse 84.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6685,7 +6685,7 @@ Urged by the holy singer, sped by song, come, Indra, to the prayers. Of the liba
 
 ---
 
-# Verse undefined.3
+# Verse 84.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6700,7 +6700,7 @@ Approach, O Indra, hasting thee, Lord of Bay Horses, to the prayers: Take pleasu
 
 ## Hymn 85: Untitled
 
-# Verse undefined.1
+# Verse 85.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6713,7 +6713,7 @@ Glorify naught besides, O friends; so shall no sorrow trouble you. Praise only m
 
 ---
 
-# Verse undefined.2
+# Verse 85.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6726,7 +6726,7 @@ Even him, eternal, like a bull who rushes down, men's con- queror, bounteous lik
 
 ---
 
-# Verse undefined.3
+# Verse 85.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6739,7 +6739,7 @@ Although these men in sundry ways invoke thee to obtain thine aid. Be this our p
 
 ---
 
-# Verse undefined.4
+# Verse 85.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6754,7 +6754,7 @@ Those skilled in song, O Maghavan, among these men o'ercome with might the foema
 
 ## Hymn 86: Untitled
 
-# Verse undefined.1
+# Verse 86.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6769,7 +6769,7 @@ Those who are yoked by prayer with prayer I harness, the two. fleet friendly Bay
 
 ## Hymn 87: Untitled
 
-# Verse undefined.1
+# Verse 87.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6782,7 +6782,7 @@ Priests, offer to the Lord of all the people the milked-out stalk of Soma, radia
 
 ---
 
-# Verse undefined.2
+# Verse 87.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6795,7 +6795,7 @@ Thou dost desire to drink, each day that passes, the pleasant food which thou ha
 
 ---
 
-# Verse undefined.3
+# Verse 87.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6808,7 +6808,7 @@ Thou, newly-born, for strength didst drink the Soma; thy mother told thee of thy
 
 ---
 
-# Verse undefined.4
+# Verse 87.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6821,7 +6821,7 @@ When thou hast urged the arrogant to combat, proud in their strength of arm, we 
 
 ---
 
-# Verse undefined.5
+# Verse 87.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6834,7 +6834,7 @@ I will declare the earliest deeds of Indra, and recent acts which Maghavan hath 
 
 ---
 
-# Verse undefined.6
+# Verse 87.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6847,7 +6847,7 @@ Thine is this world of flocks and herds around thee, which with the eye of Surya
 
 ---
 
-# Verse undefined.7
+# Verse 87.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6862,7 +6862,7 @@ Ye twain are Lords of wealth in earth and heaven, thou, O Brihaspati, and thou, 
 
 ## Hymn 88: Untitled
 
-# Verse undefined.1
+# Verse 88.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6875,7 +6875,7 @@ Him who with might hath propped earth's ends, who sitteth in threefold seat, Bri
 
 ---
 
-# Verse undefined.2
+# Verse 88.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6888,7 +6888,7 @@ Wild in their course, in well-marked wise rejoicing were they,. Brihaspati, who 
 
 ---
 
-# Verse undefined.3
+# Verse 88.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6901,7 +6901,7 @@ Brihaspati, from thy remotest distance have they sat down who love the law etern
 
 ---
 
-# Verse undefined.4
+# Verse 88.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6914,7 +6914,7 @@ Brihaspati, when first he had his being from mighty splendour in supremest heave
 
 ---
 
-# Verse undefined.5
+# Verse 88.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6927,7 +6927,7 @@ With the loud-shouting band who sang his praises, with thunder, he destroyed mal
 
 ---
 
-# Verse undefined.6
+# Verse 88.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6942,7 +6942,7 @@ Serve we with sacrifices, gifts, and homage even thus the Steer of all the Gods,
 
 ## Hymn 89: Untitled
 
-# Verse undefined.1
+# Verse 89.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6955,7 +6955,7 @@ Even as an archer shoots afar his arrow, offer the laud to him with meet adornme
 
 ---
 
-# Verse undefined.2
+# Verse 89.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6968,7 +6968,7 @@ Draw thy Friend to thee like a cow at milking: O singer, wake up Indra as a love
 
 ---
 
-# Verse undefined.3
+# Verse 89.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6981,7 +6981,7 @@ Why, Maghavan, do they call thee bounteous Giver? Quicken me: thou, I hear, art 
 
 ---
 
-# Verse undefined.4
+# Verse 89.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -6994,7 +6994,7 @@ Standing, in battle for their rights, together, the people, Indra, in the fray i
 
 ---
 
-# Verse undefined.5
+# Verse 89.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7007,7 +7007,7 @@ Whoso with plenteous juice for him expresses strong Somas as much quickly-coming
 
 ---
 
-# Verse undefined.6
+# Verse 89.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7020,7 +7020,7 @@ He unto whom we offer praises, Indra, Maghavan, who hath joined to ours his wish
 
 ---
 
-# Verse undefined.7
+# Verse 89.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7033,7 +7033,7 @@ With thy fierce bolt, O God invoked of many, drive to a distance from afar the f
 
 ---
 
-# Verse undefined.8
+# Verse 89.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7046,7 +7046,7 @@ Indra the swallower of strong libations with their thick residue, the potent Som
 
 ---
 
-# Verse undefined.9
+# Verse 89.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7059,7 +7059,7 @@ Yea, by superior play he wins advantage when he, a gambler, piles his gains in s
 
 ---
 
-# Verse undefined.10
+# Verse 89.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7072,7 +7072,7 @@ O much-invoked, may we subdue all famine and evil want with store of grain and c
 
 ---
 
-# Verse undefined.11
+# Verse 89.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7087,7 +7087,7 @@ Brihaspati protect us from the rearward, and from above and from below, from sin
 
 ## Hymn 90: Untitled
 
-# Verse undefined.1
+# Verse 90.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7100,7 +7100,7 @@ Served with oblations, first-born, mountain-render, Angiras' Son, Brihaspati the
 
 ---
 
-# Verse undefined.2
+# Verse 90.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7113,7 +7113,7 @@ Brihaspati who made for such a people wide room and verge when Gods were invocat
 
 ---
 
-# Verse undefined.3
+# Verse 90.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7128,7 +7128,7 @@ Brihaspati in war hath won rich treasures, hath won, this God, the great stalls 
 
 ## Hymn 91: Untitled
 
-# Verse undefined.1
+# Verse 91.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7141,7 +7141,7 @@ This holy hymn sublime and seven-headed, sprung from eternal Law, our sire disco
 
 ---
 
-# Verse undefined.2
+# Verse 91.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7154,7 +7154,7 @@ Thinking aright, praising eternal Order, the sons of Dyaus the Asura, those hero
 
 ---
 
-# Verse undefined.3
+# Verse 91.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7167,7 +7167,7 @@ Girt by his friends who cried with swanlike voices, bursting the stoney barriers
 
 ---
 
-# Verse undefined.4
+# Verse 91.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7180,7 +7180,7 @@ Apart from one, away from two above him, he draye the kine that stood in bonds o
 
 ---
 
-# Verse undefined.5
+# Verse 91.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7193,7 +7193,7 @@ When he had cleft the lairs and western castle, he cut off three from him who he
 
 ---
 
-# Verse undefined.6
+# Verse 91.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7206,7 +7206,7 @@ As with a hand, so with his roaring Indra cleft Vala through,. the guardian of t
 
 ---
 
-# Verse undefined.7
+# Verse 91.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7219,7 +7219,7 @@ He with bright faithful friends, winners of booty, hath rent the milker of the c
 
 ---
 
-# Verse undefined.8
+# Verse 91.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7232,7 +7232,7 @@ They, longing for the kine, with faithful spirit incited with their hymns the Lo
 
 ---
 
-# Verse undefined.9
+# Verse 91.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7245,7 +7245,7 @@ In our assembly with auspicious praises exalting him who roareth. like a lion. M
 
 ---
 
-# Verse undefined.10
+# Verse 91.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7258,7 +7258,7 @@ When he had won him strength of every nature and gone to heaven and its most lof
 
 ---
 
-# Verse undefined.11
+# Verse 91.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7271,7 +7271,7 @@ Fulfil the prayer that begs for vital vigor: aid in your wonted manner e'en the 
 
 ---
 
-# Verse undefined.12
+# Verse 91.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7286,7 +7286,7 @@ Indra with mighty strength hath cleft asunder the head of Arbuda the watery mons
 
 ## Hymn 92: Untitled
 
-# Verse undefined.1
+# Verse 92.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7299,7 +7299,7 @@ Praise, even as he is known, with song Indra the guardian of the kine, The Son o
 
 ---
 
-# Verse undefined.2
+# Verse 92.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7312,7 +7312,7 @@ Hither his bay steeds have been sent, red steeds are on the sacred grass. Where 
 
 ---
 
-# Verse undefined.3
+# Verse 92.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7325,7 +7325,7 @@ For Indra thunder-armed the kine have yielded mingled milk and meath. What time 
 
 ---
 
-# Verse undefined.4
+# Verse 92.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7338,7 +7338,7 @@ When I and Indra amount on high up to the bright One's place and home, We, havin
 
 ---
 
-# Verse undefined.5
+# Verse 92.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7351,7 +7351,7 @@ Sing, sing ye forth your songs of praise, ye Priyamedhas, sing your songs: Yea, 
 
 ---
 
-# Verse undefined.6
+# Verse 92.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7364,7 +7364,7 @@ Now loudly let the viol sound, the lute send out its voice with might, Shrill be
 
 ---
 
-# Verse undefined.7
+# Verse 92.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7377,7 +7377,7 @@ When hither speed the dappled cows, unflinching, easy to be milked, Seize quickl
 
 ---
 
-# Verse undefined.8
+# Verse 92.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7390,7 +7390,7 @@ Indra hath drunk; Agni hath drunk all Deities have drunk their fill. Here Varuna
 
 ---
 
-# Verse undefined.9
+# Verse 92.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7403,7 +7403,7 @@ Thou, Varuna, to whom belong the Seven Streams, art a glorious God. The waters f
 
 ---
 
-# Verse undefined.10
+# Verse 92.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7416,7 +7416,7 @@ He who hath made the fleet steeds spring, well-harnessed, to the worshipper, He,
 
 ---
 
-# Verse undefined.11
+# Verse 92.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7429,7 +7429,7 @@ Indra, the very mighty, holds his enemies in utter scorn. He, far away, and yet 
 
 ---
 
-# Verse undefined.12
+# Verse 92.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7442,7 +7442,7 @@ He, yet a boy exceeding small, mounted his newly-fashioned car. He for his Mothe
 
 ---
 
-# Verse undefined.13
+# Verse 92.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7455,7 +7455,7 @@ Lord of the Home, with beauteous cheeks, ascend thy chariot wrought of gold. We 
 
 ---
 
-# Verse undefined.14
+# Verse 92.14
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7468,7 +7468,7 @@ With reverence they come hitherward to him as to a sovran lord, That they may br
 
 ---
 
-# Verse undefined.15
+# Verse 92.15
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7481,7 +7481,7 @@ The Priyamedhas have observed the offering of the men of old, Of ancient custom,
 
 ---
 
-# Verse undefined.16
+# Verse 92.16
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7494,7 +7494,7 @@ He who as sovran Lord of men moves with his chariots unrestrained, The Vritra-sl
 
 ---
 
-# Verse undefined.17
+# Verse 92.17
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7507,7 +7507,7 @@ Honour that Indra, Puruhanman! for his aid, in whose sustain- ing hand of old. T
 
 ---
 
-# Verse undefined.18
+# Verse 92.18
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7520,7 +7520,7 @@ No one by deed attains to him who works and strengthens evermore: No, not by sac
 
 ---
 
-# Verse undefined.19
+# Verse 92.19
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7533,7 +7533,7 @@ The potent Conqueror, invincible in war, him at whose birth the mighty ones, The
 
 ---
 
-# Verse undefined.20
+# Verse 92.20
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7546,7 +7546,7 @@ O Indra, if a hundred heavens and if a hundred earths were thine No, not a thous
 
 ---
 
-# Verse undefined.21
+# Verse 92.21
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7561,7 +7561,7 @@ Thou, Hero, hast performed thy hero deeds with might, yea, all with strength, O 
 
 ## Hymn 93: Untitled
 
-# Verse undefined.1
+# Verse 93.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7574,7 +7574,7 @@ May our hymns give thee great delight. Display thy bounty, Thunderer. Drive off 
 
 ---
 
-# Verse undefined.2
+# Verse 93.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7587,7 +7587,7 @@ Crush with thy foot the niggard churls who bring no gifts. Might art thou: There
 
 ---
 
-# Verse undefined.3
+# Verse 93.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7600,7 +7600,7 @@ Thou art the Lord of Soma pressed, Soma unpressed is also thine, Thou art the So
 
 ---
 
-# Verse undefined.4
+# Verse 93.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7613,7 +7613,7 @@ Swaying about the active Ones came nigh to Indra at his birth, And shared his gr
 
 ---
 
-# Verse undefined.5
+# Verse 93.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7626,7 +7626,7 @@ Based upon strength and victory and power, O Indra is thy birth. Thou, Mighty On
 
 ---
 
-# Verse undefined.6
+# Verse 93.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7639,7 +7639,7 @@ Thou art the Vritra-slayer, thou, Indra, hast spread the firmament: Thou hast wi
 
 ---
 
-# Verse undefined.7
+# Verse 93.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7652,7 +7652,7 @@ Thou, Indra, bearest in thine arms the lightning that accords with thee, Whettin
 
 ---
 
-# Verse undefined.8
+# Verse 93.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7667,7 +7667,7 @@ Thou, Indra, art pre-eminent over all creatures in thy strength: Thou hast perva
 
 ## Hymn 94: Untitled
 
-# Verse undefined.1
+# Verse 94.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7680,7 +7680,7 @@ May Sovran Indra come to the carousal, he who by holy Law is strong and active. 
 
 ---
 
-# Verse undefined.2
+# Verse 94.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7693,7 +7693,7 @@ Firm-seated is thy car, thy steeds are docile: thy hand, O King, holds, firmly g
 
 ---
 
-# Verse undefined.3
+# Verse 94.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7706,7 +7706,7 @@ Let strong and mighty steeds who bear this mighty Indra, the Lord of men, whose 
 
 ---
 
-# Verse undefined.4
+# Verse 94.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7719,7 +7719,7 @@ So like a bull thou rushest to the Lord who loves the trough, the Sage, the prop
 
 ---
 
-# Verse undefined.5
+# Verse 94.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7732,7 +7732,7 @@ May precious treasures come to us,— so will I pray. Come to the votary's gift 
 
 ---
 
-# Verse undefined.6
+# Verse 94.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7745,7 +7745,7 @@ Far went our earliest invocations of the Gods, and won us glories that can never
 
 ---
 
-# Verse undefined.7
+# Verse 94.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7758,7 +7758,7 @@ So be the others, evil-hearted, far away, whose horses difficult to harness have
 
 ---
 
-# Verse undefined.8
+# Verse 94.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7771,7 +7771,7 @@ He firmly fixed the plains and mountains as they shook. Dyaus thundered forth an
 
 ---
 
-# Verse undefined.9
+# Verse 94.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7784,7 +7784,7 @@ I bear this deftly-fashioned goad of thine wherewith thou, Maghavan, shalt break
 
 ---
 
-# Verse undefined.10
+# Verse 94.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7797,7 +7797,7 @@ O Much-invoked, may we subdue all famine and evil want with store of grain and c
 
 ---
 
-# Verse undefined.11
+# Verse 94.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7812,7 +7812,7 @@ Brihaspati protect us from the rearward, and from above, and from below, from si
 
 ## Hymn 95: Untitled
 
-# Verse undefined.1
+# Verse 95.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7825,7 +7825,7 @@ From the three jars the Great and Strong hath drunk drink blent with meal. With 
 
 ---
 
-# Verse undefined.2
+# Verse 95.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7838,7 +7838,7 @@ Sing strength to Indra that shall set his chariot in the foremost place. Giver o
 
 ---
 
-# Verse undefined.3
+# Verse 95.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7851,7 +7851,7 @@ Thou didst destroy the Dragon: thou sentest the rivers down to earth. Foeless, O
 
 ---
 
-# Verse undefined.4
+# Verse 95.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7866,7 +7866,7 @@ Destroyed be all malignities and all our enemy's designs. Thy bolt thou castest 
 
 ## Hymn 96: Untitled
 
-# Verse undefined.1
+# Verse 96.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7879,7 +7879,7 @@ Taste this strong draught that gives thee vital vigour: with all thy chariot her
 
 ---
 
-# Verse undefined.2
+# Verse 96.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7892,7 +7892,7 @@ Thine is the juice effused, thine are the juices yet to be pressed: our resonant
 
 ---
 
-# Verse undefined.3
+# Verse 96.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7905,7 +7905,7 @@ Whoso, devoted to the God, effuses Soma for him with yearning heart and spirit, 
 
 ---
 
-# Verse undefined.4
+# Verse 96.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7918,7 +7918,7 @@ He looks with loving favour on the mortal who, like a rich man, pours for him th
 
 ---
 
-# Verse undefined.5
+# Verse 96.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7931,7 +7931,7 @@ We call on thee to come to us, desirous of booty, and of cattle, and of horses. 
 
 ---
 
-# Verse undefined.6
+# Verse 96.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7944,7 +7944,7 @@ For life I set thee free by this oblation from the unknown decline and from cons
 
 ---
 
-# Verse undefined.7
+# Verse 96.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7957,7 +7957,7 @@ Be his days ended, be he how departed, be he brought very near to death already,
 
 ---
 
-# Verse undefined.8
+# Verse 96.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7970,7 +7970,7 @@ With thousand-eyed oblation, hundred-autumned, bringing a hundred lives, have 1 
 
 ---
 
-# Verse undefined.9
+# Verse 96.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7983,7 +7983,7 @@ Live waxing in thy strength a hundred autumns, live through a hundred springs, a
 
 ---
 
-# Verse undefined.10
+# Verse 96.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -7996,7 +7996,7 @@ So have I found and rescued thee: thou hast returned with youth renewed. Whole i
 
 ---
 
-# Verse undefined.11
+# Verse 96.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8009,7 +8009,7 @@ May Agni yielding to our prayer, the Rakshas-killer, drive away. The malady of e
 
 ---
 
-# Verse undefined.12
+# Verse 96.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8022,7 +8022,7 @@ Agni, concurring in the prayer, drive off the eater of thy flesh, The malady of 
 
 ---
 
-# Verse undefined.13
+# Verse 96.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8035,7 +8035,7 @@ That which destroys the sinking germ, the settled, moving embryo, That which wou
 
 ---
 
-# Verse undefined.14
+# Verse 96.14
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8048,7 +8048,7 @@ That which divides thy legs that it may lie between the married pair, That penet
 
 ---
 
-# Verse undefined.15
+# Verse 96.15
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8061,7 +8061,7 @@ What rests by thee in borrowed form of brother, lover, or of lord, And would des
 
 ---
 
-# Verse undefined.16
+# Verse 96.16
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8074,7 +8074,7 @@ That which through sleep or darkness hath deceived thee and lies down by thee, A
 
 ---
 
-# Verse undefined.17
+# Verse 96.17
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8087,7 +8087,7 @@ From both thy nostrils, from thine eyes, from both thine ears and from thy chin,
 
 ---
 
-# Verse undefined.18
+# Verse 96.18
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8100,7 +8100,7 @@ From the neck-tendons and the neck, from the breast-bones and from the spine, Fr
 
 ---
 
-# Verse undefined.19
+# Verse 96.19
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8113,7 +8113,7 @@ From viscera and all within, forth from the rectum, from the heart, From kidneys
 
 ---
 
-# Verse undefined.20
+# Verse 96.20
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8126,7 +8126,7 @@ From thighs, from knee-caps, and from heels, and from the forepart of the feet, 
 
 ---
 
-# Verse undefined.21
+# Verse 96.21
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8139,7 +8139,7 @@ From what is voided from within, and from thy hair, and from thy nails, From all
 
 ---
 
-# Verse undefined.22
+# Verse 96.22
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8152,7 +8152,7 @@ From every member, every hair, disease that comes in every joint, From all thyse
 
 ---
 
-# Verse undefined.23
+# Verse 96.23
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8167,7 +8167,7 @@ Avaunt, thou Master of the Mind, I Depart and vanish far away. Look on Destructi
 
 ## Hymn 97: Untitled
 
-# Verse undefined.1
+# Verse 97.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8180,7 +8180,7 @@ Here verily yesterday we let the Thunder-wielder drink his fill. So in like mann
 
 ---
 
-# Verse undefined.2
+# Verse 97.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8193,7 +8193,7 @@ Even the wolf, the savage beast that rends the sheep, follows the path of his de
 
 ---
 
-# Verse undefined.3
+# Verse 97.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8208,7 +8208,7 @@ What manly deed of vigour now remains that Indra hath not done? Who hath not hea
 
 ## Hymn 98: Untitled
 
-# Verse undefined.1
+# Verse 98.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8221,7 +8221,7 @@ That we may win us wealth and spoil we poets verily call on thee. In war men cal
 
 ---
 
-# Verse undefined.2
+# Verse 98.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8236,7 +8236,7 @@ As such, O Wonderful whose hand holds thunder, praised as mighty, Caster of the 
 
 ## Hymn 99: Untitled
 
-# Verse undefined.1
+# Verse 99.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8249,7 +8249,7 @@ Men with their lauds are urging thee, Indra, to drink the Soma first. The Ribhus
 
 ---
 
-# Verse undefined.2
+# Verse 99.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8264,7 +8264,7 @@ Indra increased his manly strength at sacrifice, in the wild rapture of this jui
 
 ## Hymn 100: Untitled
 
-# Verse undefined.1
+# Verse 100.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8277,7 +8277,7 @@ Now have we, Indra, Friend of Song, sent our great wishes forth to thee. Coming 
 
 ---
 
-# Verse undefined.2
+# Verse 100.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8290,7 +8290,7 @@ As rivers swell the ocean, so, Hero, our prayers increase thy might, Though of t
 
 ---
 
-# Verse undefined.3
+# Verse 100.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8305,7 +8305,7 @@ With holy song they bind to the broad wide-yoked car the bay steeds of the rapid
 
 ## Hymn 101: Untitled
 
-# Verse undefined.1
+# Verse 101.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8318,7 +8318,7 @@ Agni we choose, the messenger, the herald, master of all wealth,. Well skilled i
 
 ---
 
-# Verse undefined.2
+# Verse 101.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8331,7 +8331,7 @@ With calls they ever invocate Agni, Agni, Lord of the House, Oblation-bearer, mu
 
 ---
 
-# Verse undefined.3
+# Verse 101.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8346,7 +8346,7 @@ Bring the Gods hither, Agni, born for him who strews the sacred grass. Thou art 
 
 ## Hymn 102: Untitled
 
-# Verse undefined.1
+# Verse 102.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8359,7 +8359,7 @@ Meet to be lauded and adored, showing in beauty through the= dark, Agni the Bull
 
 ---
 
-# Verse undefined.2
+# Verse 102.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8372,7 +8372,7 @@ Agni is kindled as a Bull, like a horse bearer of the Gods; Men with oblations w
 
 ---
 
-# Verse undefined.3
+# Verse 102.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8387,7 +8387,7 @@ Thee will we kindle as a Bull, we who are bulls ourselves, O Bull, Thee, Agni, s
 
 ## Hymn 103: Untitled
 
-# Verse undefined.1
+# Verse 103.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8400,7 +8400,7 @@ Solicit with your hymns, for aid, Agni the God with piercing flame, For riches f
 
 ---
 
-# Verse undefined.2
+# Verse 103.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8413,7 +8413,7 @@ Agni, come hither with thy fires: we choose thee as our Hotai- priest. Let the e
 
 ---
 
-# Verse undefined.3
+# Verse 103.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8428,7 +8428,7 @@ For unto thee, O Angiras, O Son of Strength, move ladles in the sacrifice, To Ag
 
 ## Hymn 104: Untitled
 
-# Verse undefined.1
+# Verse 104.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8441,7 +8441,7 @@ May these my songs of praise exalt thee, Lord who hast abun- dant wealth. Men sk
 
 ---
 
-# Verse undefined.2
+# Verse 104.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8454,7 +8454,7 @@ He with his might enhanced by Rishis thousand-fold, hath like an ocean spread hi
 
 ---
 
-# Verse undefined.3
+# Verse 104.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8467,7 +8467,7 @@ May Indra, who in every fight must be invoked, be near to us. May the most might
 
 ---
 
-# Verse undefined.4
+# Verse 104.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8482,7 +8482,7 @@ Thou art the best of all in sending bounteous gifts, true art thou,. lordly in t
 
 ## Hymn 105: Untitled
 
-# Verse undefined.1
+# Verse 105.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8495,7 +8495,7 @@ Thou in the battles, Indra, art subduer of all hostile bands. Father art thou, a
 
 ---
 
-# Verse undefined.2
+# Verse 105.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8508,7 +8508,7 @@ The earth, and heaven cling close to thy victorious might, as sire and mother to
 
 ---
 
-# Verse undefined.3
+# Verse 105.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8523,7 +8523,7 @@ Bring to your aid the Eternal One, who shoots and none may shoot at him, Inciter
 
 ## Hymn 106: Untitled
 
-# Verse undefined.1
+# Verse 106.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8536,7 +8536,7 @@ That lofty energy of thine, thy strength and thine intelligence, Thy thunderbolt
 
 ---
 
-# Verse undefined.2
+# Verse 106.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8549,7 +8549,7 @@ O Indra, heaven and earth augment thy manly power and thy renown, The waters and
 
 ---
 
-# Verse undefined.3
+# Verse 106.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8564,7 +8564,7 @@ Vishnu, the lofty Ruling Power, Varuna, Mitra sing thy praise: In thee the Marut
 
 ## Hymn 107: Untitled
 
-# Verse undefined.1
+# Verse 107.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8577,7 +8577,7 @@ Before his hot displeasure all the peoples, all the men bow down, As rivers bend
 
 ---
 
-# Verse undefined.2
+# Verse 107.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8590,7 +8590,7 @@ This power of his shone brightly forth when Indra brought to- gether like A skin
 
 ---
 
-# Verse undefined.3
+# Verse 107.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8603,7 +8603,7 @@ The fiercely-moving Vritra's head he severed with his thunder- bolt, His hundred
 
 ---
 
-# Verse undefined.4
+# Verse 107.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8616,7 +8616,7 @@ In all the worlds That was the best and highest whence sprang the mighty God, of
 
 ---
 
-# Verse undefined.5
+# Verse 107.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8629,7 +8629,7 @@ Grown mighty in his strength, with ample vigour, he as a foe strikes fear into t
 
 ---
 
-# Verse undefined.6
+# Verse 107.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8642,7 +8642,7 @@ All concentrate on thee their mental vigour, what time these, twice or thrice, a
 
 ---
 
-# Verse undefined.7
+# Verse 107.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8655,7 +8655,7 @@ Therefore in thee too, thou who winnest riches, at every banquet are the sages j
 
 ---
 
-# Verse undefined.8
+# Verse 107.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8668,7 +8668,7 @@ Proudly we put our trust in thee in battles, when we behold great wealth the pri
 
 ---
 
-# Verse undefined.9
+# Verse 107.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8681,7 +8681,7 @@ Worthy of praises many-shaped, most skilful, most energetic, Āptya of the Aptya
 
 ---
 
-# Verse undefined.10
+# Verse 107.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8694,7 +8694,7 @@ Thou in that house which thy protection guardedh bestowest- wealth, the higher a
 
 ---
 
-# Verse undefined.11
+# Verse 107.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8707,7 +8707,7 @@ Brihaddiva, the foremost of light-winners, repeasts these holy prayers, this str
 
 ---
 
-# Verse undefined.12
+# Verse 107.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8720,7 +8720,7 @@ Thou hath Brihaddiva the great Atharvan, spoken to Indra as himself in person. T
 
 ---
 
-# Verse undefined.13
+# Verse 107.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8733,7 +8733,7 @@ Bright, Presence of the Gods, the luminous herald, Siirya hath mounted the celes
 
 ---
 
-# Verse undefined.14
+# Verse 107.14
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8746,7 +8746,7 @@ The brilliant Presence of the Gods hath risen, the eye of Mitra, Varuna, and Agn
 
 ---
 
-# Verse undefined.15
+# Verse 107.15
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8761,7 +8761,7 @@ Even as a lover followeth a maiden, so doth the Sun the Dawn, refulgent Goddess:
 
 ## Hymn 108: Untitled
 
-# Verse undefined.1
+# Verse 108.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8774,7 +8774,7 @@ O Indra, bring great strength to us, bring valour, Satakratu, thou most active, 
 
 ---
 
-# Verse undefined.2
+# Verse 108.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8787,7 +8787,7 @@ For, gracious Satakratu, thou hast ever been a mother and a sire to us, So now f
 
 ---
 
-# Verse undefined.3
+# Verse 108.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8802,7 +8802,7 @@ To thee, Strong, Much-invoked who showest forth thy strength, O Satakratu, do I 
 
 ## Hymn 109: Untitled
 
-# Verse undefined.1
+# Verse 109.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8815,7 +8815,7 @@ The juice of Soma thus diffused, sweet to the taste, the bright Cows drink Who f
 
 ---
 
-# Verse undefined.2
+# Verse 109.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8828,7 +8828,7 @@ Craving his touch the dappled Kine mingle the Soma with their milk. The milch-ki
 
 ---
 
-# Verse undefined.3
+# Verse 109.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8843,7 +8843,7 @@ With veneration, passing wise, honouring his victorious might, They follow close
 
 ## Hymn 110: Untitled
 
-# Verse undefined.1
+# Verse 110.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8856,7 +8856,7 @@ For Indra, lover of carouse, loud be our songs about the juice: Let poets sing t
 
 ---
 
-# Verse undefined.2
+# Verse 110.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8869,7 +8869,7 @@ We summon Indra to the draught, in whom all glories rest, in whom The seven comm
 
 ---
 
-# Verse undefined.3
+# Verse 110.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8884,7 +8884,7 @@ By the three Soma jars the Gods span sacrifice that stirs the mind: Let our song
 
 ## Hymn 111: Untitled
 
-# Verse undefined.1
+# Verse 111.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8897,7 +8897,7 @@ If, Indra, thou drink Soma by Vishnu's or Trita Āptya's side, Or with the Marut
 
 ---
 
-# Verse undefined.2
+# Verse 111.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8910,7 +8910,7 @@ Or, Sakra, if thou gladden thee afar or in the sea of air, Rejoice thee in this 
 
 ---
 
-# Verse undefined.3
+# Verse 111.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8925,7 +8925,7 @@ Or, Lord of Heroes, if thou aid the worshipper who sheds the juice, Or him whose
 
 ## Hymn 112: Untitled
 
-# Verse undefined.1
+# Verse 112.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8938,7 +8938,7 @@ Whatever, Vritra-slayer! thou Sūrya, hast risen upon to-day, That, Indra, all i
 
 ---
 
-# Verse undefined.2
+# Verse 112.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8951,7 +8951,7 @@ When, Mighty One, Lord of the Brave, thou thinkest, I shall never die, That thou
 
 ---
 
-# Verse undefined.3
+# Verse 112.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8966,7 +8966,7 @@ Thou, Indra, goest unto all Soma libations shed for thee, Both far away and near
 
 ## Hymn 113: Untitled
 
-# Verse undefined.1
+# Verse 113.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8979,7 +8979,7 @@ Both boons—may Indra hitherward turned, listen to this, prayer of ours, And, m
 
 ---
 
-# Verse undefined.2
+# Verse 113.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -8994,7 +8994,7 @@ For him, strong independent Ruler, Heaven and Earth have fashioned forth for pow
 
 ## Hymn 114: Untitled
 
-# Verse undefined.1
+# Verse 114.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9007,7 +9007,7 @@ O Indra, from all ancient time rivalless ever and companionless art thou: In war
 
 ---
 
-# Verse undefined.2
+# Verse 114.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9022,7 +9022,7 @@ Thou findest not the wealthy man to be thy friend: those scorn thee who are flow
 
 ## Hymn 115: Untitled
 
-# Verse undefined.1
+# Verse 115.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9035,7 +9035,7 @@ I from my Father have received deep knowledge of the holy Law: I was born like u
 
 ---
 
-# Verse undefined.2
+# Verse 115.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9048,7 +9048,7 @@ After the lore of ancient time I make, like Kanva, beauteous songs, And Indra's 
 
 ---
 
-# Verse undefined.3
+# Verse 115.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9063,7 +9063,7 @@ Whatever Rishis have not praised thee, Indra, or have lauded thee, By me exalted
 
 ## Hymn 116: Untitled
 
-# Verse undefined.1
+# Verse 116.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9076,7 +9076,7 @@ Never may we be cast aside and strangers, as it were to thee. We, Thunder-wieldi
 
 ---
 
-# Verse undefined.2
+# Verse 116.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9091,7 +9091,7 @@ O Vritra slayer, we were thought slow and unready for the fray: Yet once in thy 
 
 ## Hymn 117: Untitled
 
-# Verse undefined.1
+# Verse 117.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9104,7 +9104,7 @@ Drink Soma, Lord of Bays, and let it cheer thee: Indra, the stone, like a well-g
 
 ---
 
-# Verse undefined.2
+# Verse 117.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9117,7 +9117,7 @@ So let the draught of joy, thy dear companion, by which, O Lord of Bays, thou sl
 
 ---
 
-# Verse undefined.3
+# Verse 117.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9132,7 +9132,7 @@ Mark closely, Maghavan; the words I utter, this eulogy recited by Vasishtha: Acc
 
 ## Hymn 118: Untitled
 
-# Verse undefined.1
+# Verse 118.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9145,7 +9145,7 @@ Indra with all thy saving helps give us assistance, Lord of Power For after thee
 
 ---
 
-# Verse undefined.2
+# Verse 118.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9158,7 +9158,7 @@ Increaser of our steeds and multiplying kine, a golden well, O God, art thou; Fo
 
 ---
 
-# Verse undefined.3
+# Verse 118.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9171,7 +9171,7 @@ Indra for worship of the Gods, Indra while sacrifice proceeds, Indra as warriors
 
 ---
 
-# Verse undefined.4
+# Verse 118.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9186,7 +9186,7 @@ With might hath Indra spread out heaven and earth, with power hath Indra lighted
 
 ## Hymn 119: Untitled
 
-# Verse undefined.1
+# Verse 119.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9199,7 +9199,7 @@ An ancient praise-song hath been sung: to Indra have ye said the prayer. They ha
 
 ---
 
-# Verse undefined.2
+# Verse 119.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9214,7 +9214,7 @@ In zealous haste the singers have sung forth a song distilling oil and rich in s
 
 ## Hymn 120: Untitled
 
-# Verse undefined.1
+# Verse 120.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9227,7 +9227,7 @@ Though, Indra, thou art called by men eastward and westward, north and south, Th
 
 ---
 
-# Verse undefined.2
+# Verse 120.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9242,7 +9242,7 @@ Or, Indra, when with Ruma, Rusama, Syāvaka, and Kripa thou rejoicest thee, Stil
 
 ## Hymn 121: Untitled
 
-# Verse undefined.1
+# Verse 121.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9255,7 +9255,7 @@ Over the three great distances, past the Five Peoples go thy way, O Indra, notic
 
 ---
 
-# Verse undefined.2
+# Verse 121.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9270,7 +9270,7 @@ Send forth thy ray like Sūrya: let my songs attract thee hither- ward. Like wat
 
 ## Hymn 122: Untitled
 
-# Verse undefined.1
+# Verse 122.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9283,7 +9283,7 @@ With Indra splendid feasts be ours enriched with ample spoil, wherewith, Wealthy
 
 ---
 
-# Verse undefined.2
+# Verse 122.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9296,7 +9296,7 @@ Like thee, thyself, the singers' friend, thou movest as it were, besought, Bold 
 
 ---
 
-# Verse undefined.3
+# Verse 122.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9311,7 +9311,7 @@ That, Satakratu, thou to grace and please thy praisers, as it were, Stirrest the
 
 ## Hymn 123: Untitled
 
-# Verse undefined.1
+# Verse 123.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9324,7 +9324,7 @@ This is the Godhead, this the might of Sūrya: he hath with- drawn what spread o
 
 ---
 
-# Verse undefined.2
+# Verse 123.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9339,7 +9339,7 @@ In the sky's lap the Sun this form assumeth for Mitra and for Vāruna to look on
 
 ## Hymn 124: Untitled
 
-# Verse undefined.1
+# Verse 124.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9352,7 +9352,7 @@ With what help will he come to us, wonderful, ever-waxing Friend, With what most
 
 ---
 
-# Verse undefined.2
+# Verse 124.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9365,7 +9365,7 @@ What genuine and most liberal draught will spirit thee with juice to burst. Open
 
 ---
 
-# Verse undefined.3
+# Verse 124.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9378,7 +9378,7 @@ Do thou who art protector us thy friends who praise thee With hundred aids appro
 
 ---
 
-# Verse undefined.4
+# Verse 124.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9391,7 +9391,7 @@ We will, with Indra and all Gods to help us, bring these existing worlds into su
 
 ---
 
-# Verse undefined.5
+# Verse 124.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9404,7 +9404,7 @@ With the Ādityas, with the band of Maruts, may Indra be pro- tector of our bodi
 
 ---
 
-# Verse undefined.6
+# Verse 124.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9419,7 +9419,7 @@ Brought the Sun hitherward with mighty powers, and looked about them on their vi
 
 ## Hymn 125: Untitled
 
-# Verse undefined.1
+# Verse 125.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9432,7 +9432,7 @@ Drive all our enemies away, O Indra, the western, mighty Con- queror, and the ea
 
 ---
 
-# Verse undefined.2
+# Verse 125.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9445,7 +9445,7 @@ What then? As men whose fields are full of barley reap the ripe corn removing it
 
 ---
 
-# Verse undefined.3
+# Verse 125.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9458,7 +9458,7 @@ Men come not with one horse at sacred seasons; thus they obtain no honour in ass
 
 ---
 
-# Verse undefined.4
+# Verse 125.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9471,7 +9471,7 @@ Ye, Asvins, Lords of Splendour, drank full draughts of grateful Soma juice, And 
 
 ---
 
-# Verse undefined.5
+# Verse 125.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9484,7 +9484,7 @@ As parents aid a son, both Asvins, Indra, aided thee with their wondrous powers 
 
 ---
 
-# Verse undefined.6
+# Verse 125.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9497,7 +9497,7 @@ Indra is strong to save, rich in assistance: may he, possessing all, be kind and
 
 ---
 
-# Verse undefined.7
+# Verse 125.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9512,7 +9512,7 @@ May we enjoy his favour, his the holy: may we enjoy his blessed loving-kindness.
 
 ## Hymn 126: Untitled
 
-# Verse undefined.1
+# Verse 126.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9525,7 +9525,7 @@ Men have abstained from pouring juice; nor counted Indra as a God. Where at the 
 
 ---
 
-# Verse undefined.2
+# Verse 126.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9538,7 +9538,7 @@ Thou, Indra, heedless passest by the ill Vrishākapi hath wrought; Yet nowhere e
 
 ---
 
-# Verse undefined.3
+# Verse 126.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9551,7 +9551,7 @@ What hath he done to injure thee, this tawny beast Vrishākapi, With whom thou a
 
 ---
 
-# Verse undefined.4
+# Verse 126.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9564,7 +9564,7 @@ Soon may the hound who hunts the boar seize him and bite him in the ear, O Indra
 
 ---
 
-# Verse undefined.5
+# Verse 126.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9577,7 +9577,7 @@ Kapi hath marred the beauteous things, all deftly wrought, that were my joy. In 
 
 ---
 
-# Verse undefined.6
+# Verse 126.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9590,7 +9590,7 @@ No dame hath ampler charms than I, or greater wealth of love's delights. None wi
 
 ---
 
-# Verse undefined.7
+# Verse 126.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9603,7 +9603,7 @@ Mother whose love is quickly won,I say what verily will be, My breast, O mother,
 
 ---
 
-# Verse undefined.8
+# Verse 126.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9616,7 +9616,7 @@ Dame with the lovely hands and arms, with broad hair-plaits and ample hips, Why,
 
 ---
 
-# Verse undefined.9
+# Verse 126.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9629,7 +9629,7 @@ This noxious creature looks on me as one bereft of hero's love. Yet heroes for m
 
 ---
 
-# Verse undefined.10
+# Verse 126.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9642,7 +9642,7 @@ From olden time the matron goes to feast and general sacrifice. Mother of heroes
 
 ---
 
-# Verse undefined.11
+# Verse 126.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9655,7 +9655,7 @@ So have I heard Indrāni called most fortunate among these dames, For never shal
 
 ---
 
-# Verse undefined.12
+# Verse 126.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9668,7 +9668,7 @@ Never, Indrāni have I joyed without my friend Vrishākapi, Whose welcome offeri
 
 ---
 
-# Verse undefined.13
+# Verse 126.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9681,7 +9681,7 @@ Wealthy Vrishākapāyi, blest with sons and consorts of thy sons, Indra will eat
 
 ---
 
-# Verse undefined.14
+# Verse 126.14
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9694,7 +9694,7 @@ Fifteen in number, then, for me a score of bullocks they prepare. And I devour t
 
 ---
 
-# Verse undefined.15
+# Verse 126.15
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9707,7 +9707,7 @@ Like as a bull with pointed horn, loud bellowing amid the herds, Sweet to thine 
 
 ---
 
-# Verse undefined.16
+# Verse 126.16
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9720,7 +9720,7 @@ Indrāni speaks. Non ille fortis (ad Venerem) est cujus mentula laxe inter femor
 
 ---
 
-# Verse undefined.17
+# Verse 126.17
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9733,7 +9733,7 @@ Indra speaks. Non fortis est ille cujus, quum sederit, membrum pilosum se extend
 
 ---
 
-# Verse undefined.18
+# Verse 126.18
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9746,7 +9746,7 @@ O Indra, this Vrishākapi hath found a slain wild animal, Dresser, and new-made 
 
 ---
 
-# Verse undefined.19
+# Verse 126.19
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9759,7 +9759,7 @@ Distinguishing the Dāsa and the Arya, viewing all, I go. I look upon the wise, 
 
 ---
 
-# Verse undefined.20
+# Verse 126.20
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9772,7 +9772,7 @@ The desert plains and steep descents, how many leagues in length they spread! Go
 
 ---
 
-# Verse undefined.21
+# Verse 126.21
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9785,7 +9785,7 @@ Turn thee again Vrishākapi; we twain will bring thee happiness. Thou goest home
 
 ---
 
-# Verse undefined.22
+# Verse 126.22
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9798,7 +9798,7 @@ When, Indra and Vrishākapi, ye travelled upward to your home, Where was that no
 
 ---
 
-# Verse undefined.23
+# Verse 126.23
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9813,7 +9813,7 @@ Daughter of Manu, Parsu bare a score of children at a birth. Her portion verily 
 
 ## Hymn 127: A hymn in praise of the good Government of King Kaurama
 
-# Verse undefined.1
+# Verse 127.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9826,7 +9826,7 @@ Listen to this, ye men, a laud of glorious bounty shall be sung. Thousands sixty
 
 ---
 
-# Verse undefined.2
+# Verse 127.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9839,7 +9839,7 @@ Camels twice-ten that draw the car, with females by their side, he gave. Fain wo
 
 ---
 
-# Verse undefined.3
+# Verse 127.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9852,7 +9852,7 @@ A hundred chains of gold, ten wreaths, upon thee Rishi he bestowed, And thrice-a
 
 ---
 
-# Verse undefined.4
+# Verse 127.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9865,7 +9865,7 @@ Glut thee, O Singer, glut thee like a bird on a ripe-fruited tree. Thy lips and 
 
 ---
 
-# Verse undefined.5
+# Verse 127.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9878,7 +9878,7 @@ Quickly and willingly like kine forth come the singers and their hymns: Their li
 
 ---
 
-# Verse undefined.6
+# Verse 127.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9891,7 +9891,7 @@ O Singer, bring thou forth the hymn that findeth cattle, findeth: wealth. Even a
 
 ---
 
-# Verse undefined.7
+# Verse 127.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9904,7 +9904,7 @@ List to Parikshit's eulogy, the sovran whom all people love, The King who ruleth
 
 ---
 
-# Verse undefined.8
+# Verse 127.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9917,7 +9917,7 @@ List to Parikshit's eulogy, the sovran whom all people love, The King who ruleth
 
 ---
 
-# Verse undefined.9
+# Verse 127.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9930,7 +9930,7 @@ List to Parikshit's eulogy, the sovran whom all people love, The King who ruleth
 
 ---
 
-# Verse undefined.10
+# Verse 127.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9943,7 +9943,7 @@ Up as it were to heavenly light springs the ripe corn above the cleft. Happily t
 
 ---
 
-# Verse undefined.11
+# Verse 127.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9956,7 +9956,7 @@ Indra hath waked the bard and said, Rise, wander singing here and there. Praise 
 
 ---
 
-# Verse undefined.12
+# Verse 127.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9969,7 +9969,7 @@ Here, cows! increase and multiply, here ye, O horses, here, O men. Here, with a 
 
 ---
 
-# Verse undefined.13
+# Verse 127.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9982,7 +9982,7 @@ O Indra, let these cows be safe, their master free from injury. Let not the host
 
 ---
 
-# Verse undefined.14
+# Verse 127.14
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -9997,7 +9997,7 @@ Oft and again we glorify the hero with our hymn of praise, with prayer, with our
 
 ## Hymn 128: Sacrificial formulas
 
-# Verse undefined.1
+# Verse 128.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10010,7 +10010,7 @@ The worshipper who pours the juice, for gathering and assembly fit, And yonder f
 
 ---
 
-# Verse undefined.2
+# Verse 128.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10023,7 +10023,7 @@ He who defiles a sister, he who willingly would harm a friend, The fool who slig
 
 ---
 
-# Verse undefined.3
+# Verse 128.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10036,7 +10036,7 @@ Whenever any good man's son becometh bold and spirited, Then hath the wise Gandh
 
 ---
 
-# Verse undefined.4
+# Verse 128.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10049,7 +10049,7 @@ The most unprofitable churl, the wealthy men who brings no. gift, These, verily,
 
 ---
 
-# Verse undefined.5
+# Verse 128.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10062,7 +10062,7 @@ But they who have adored the Gods, and they who have best- owed their gifts, Tho
 
 ---
 
-# Verse undefined.6
+# Verse 128.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10075,7 +10075,7 @@ With unanointed eyes and limbs, wearing no gem or ring of gold. No priest, no Br
 
 ---
 
-# Verse undefined.7
+# Verse 128.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10088,7 +10088,7 @@ With well-anointed limbs and eyes, wearing fair gem and golden, ring, Good pries
 
 ---
 
-# Verse undefined.8
+# Verse 128.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10101,7 +10101,7 @@ Pools with no place for drinking, and the wealthy man who. giveth naught, The pr
 
 ---
 
-# Verse undefined.9
+# Verse 128.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10114,7 +10114,7 @@ Pools with good drinking places, and the wealthy man who freely gives, The prett
 
 ---
 
-# Verse undefined.10
+# Verse 128.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10127,7 +10127,7 @@ The favourite wife neglected, and the man who safely shuns the fight, A sluggish
 
 ---
 
-# Verse undefined.11
+# Verse 128.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10140,7 +10140,7 @@ The favourite wife most dearly loved, the man who safely goes to war, The fleet 
 
 ---
 
-# Verse undefined.12
+# Verse 128.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10153,7 +10153,7 @@ When, Indra, thou, as no man could, didst plunge into the Ten Kings' fight, That
 
 ---
 
-# Verse undefined.13
+# Verse 128.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10166,7 +10166,7 @@ Easily conquering Maghavan, thou, Hero, bentest Raji down, Rentest asunder Rauhi
 
 ---
 
-# Verse undefined.14
+# Verse 128.14
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10179,7 +10179,7 @@ Thou who didst separate the clouds and penetrate the water- floods, To thee, gre
 
 ---
 
-# Verse undefined.15
+# Verse 128.15
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10192,7 +10192,7 @@ They said to Auchchaihsravasa running as side-horse of the Bays, Safely to victo
 
 ---
 
-# Verse undefined.16
+# Verse 128.16
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10207,7 +10207,7 @@ They yoke the white mares, on the Bay's right harness Auchchai- hsravasa. He joy
 
 ## Hymn 129: Untitled
 
-# Verse undefined.1
+# Verse 129.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10220,7 +10220,7 @@ These mares come springing forward to Pratipa Prātisutvana.
 
 ---
 
-# Verse undefined.2
+# Verse 129.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10233,7 +10233,7 @@ These mares come springing forward to Pratipa Prātisutvana.
 
 ---
 
-# Verse undefined.3
+# Verse 129.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10246,7 +10246,7 @@ These mares come springing forward to Pratipa Prātisutvana.
 
 ---
 
-# Verse undefined.4
+# Verse 129.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10259,7 +10259,7 @@ These mares come springing forward to Pratipa Prātisutvana.
 
 ---
 
-# Verse undefined.5
+# Verse 129.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10272,7 +10272,7 @@ These mares come springing forward to Pratipa Prātisutvana.
 
 ---
 
-# Verse undefined.6
+# Verse 129.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10285,7 +10285,7 @@ These mares come springing forward to Pratipa Prātisutvana.
 
 ---
 
-# Verse undefined.7
+# Verse 129.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10298,7 +10298,7 @@ These mares come springing forward to Pratipa Prātisutvana.
 
 ---
 
-# Verse undefined.8
+# Verse 129.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10311,7 +10311,7 @@ These mares come springing forward to Pratipa Prātisutvana.
 
 ---
 
-# Verse undefined.9
+# Verse 129.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10324,7 +10324,7 @@ These mares come springing forward to Pratipa Prātisutvana.
 
 ---
 
-# Verse undefined.10
+# Verse 129.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10339,7 +10339,7 @@ These mares come springing forward to Pratipa Prātisutvana.
 
 ## Hymn 130: Untitled
 
-# Verse undefined.1
+# Verse 130.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10354,7 +10354,7 @@ These mares come springing forward to Pratipa Prātisutvana.
 
 ## Hymn 131: Untitled
 
-# Verse undefined.1
+# Verse 131.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10367,7 +10367,7 @@ He minishes, he splits in twain: crush it and let it be destroyed.
 
 ---
 
-# Verse undefined.2
+# Verse 131.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10382,7 +10382,7 @@ And two hides of an elephant.
 
 ## Hymn 132: Untitled
 
-# Verse undefined.1
+# Verse 132.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10397,7 +10397,7 @@ And two hides of an elephant.
 
 ## Hymn 133: The Enigmatical Verses
 
-# Verse undefined.1
+# Verse 133.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10412,7 +10412,7 @@ Two rays of light are lengthened out, and the man gently touches them with the t
 
 ## Hymn 134: The Ajijnasenya Verses
 
-# Verse undefined.1
+# Verse 134.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10425,7 +10425,7 @@ Here are we sitting east and west and north and south, with waters. Bottle-gourd
 
 ---
 
-# Verse undefined.2
+# Verse 134.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10438,7 +10438,7 @@ Here east and west and north and south sit the calves sprinkling Curds and oil.
 
 ---
 
-# Verse undefined.3
+# Verse 134.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10451,7 +10451,7 @@ Here east and west and north and south the offering of rice clings on. The leaf 
 
 ---
 
-# Verse undefined.4
+# Verse 134.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10464,7 +10464,7 @@ Here east and west and north and south adheres when touched. That water-drop.
 
 ---
 
-# Verse undefined.5
+# Verse 134.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10477,7 +10477,7 @@ Here east and west and north and south in iron mayst thou not be caught. The cup
 
 ---
 
-# Verse undefined.6
+# Verse 134.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10492,7 +10492,7 @@ Here east and west and north and south fain would it clasp what would not clasp.
 
 ## Hymn 135: Verses called Frustration, Abuse, the Gods' Offering, and Dazzling Power
 
-# Verse undefined.1
+# Verse 135.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10505,7 +10505,7 @@ Bang! here he is. A dog,
 
 ---
 
-# Verse undefined.2
+# Verse 135.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10518,7 +10518,7 @@ Swish! it is gone. Falling of leaves.
 
 ---
 
-# Verse undefined.3
+# Verse 135.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10531,7 +10531,7 @@ Crunch! it is trodden on. A cow's hoof.
 
 ---
 
-# Verse undefined.4
+# Verse 135.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10544,7 +10544,7 @@ These Gods have gone astray. Do thou, Adhvaryu, quickly do thy work.
 
 ---
 
-# Verse undefined.5
+# Verse 135.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10557,7 +10557,7 @@ There is good resting for the cows. Take thy delight.
 
 ---
 
-# Verse undefined.6
+# Verse 135.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10570,7 +10570,7 @@ O singer, the Ādityas brought rich guerdon to the Angirases. Singer, they went 
 
 ---
 
-# Verse undefined.7
+# Verse 135.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10583,7 +10583,7 @@ Singer, they went not near to that; but, singer, they accepted this: That days m
 
 ---
 
-# Verse undefined.8
+# Verse 135.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10596,7 +10596,7 @@ And quickly Both he fly away, the White Horse swiftest on his feet, And swiftly 
 
 ---
 
-# Verse undefined.9
+# Verse 135.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10609,7 +10609,7 @@ And quickly Both he fly away, the White Horse swiftest on his feet, And swiftly 
 
 ---
 
-# Verse undefined.10
+# Verse 135.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10622,7 +10622,7 @@ The Gods shall give the precious boon: let it be pleasant to your hearts. Let it
 
 ---
 
-# Verse undefined.11
+# Verse 135.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10635,7 +10635,7 @@ Vouchsafe us shelter, Indra, thou to be invoked from far away. Bring treasure hi
 
 ---
 
-# Verse undefined.12
+# Verse 135.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10648,7 +10648,7 @@ Thou, Indra, to the trembling dove whose pinions had been rent and torn. Gayest 
 
 ---
 
-# Verse undefined.13
+# Verse 135.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10663,7 +10663,7 @@ The ready praiser loudly speaks though fastened triply with a strap. Yea, he com
 
 ## Hymn 136: Erotica
 
-# Verse undefined.1
+# Verse 136.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10676,7 +10676,7 @@ Si quis in hujus tenui rima praeditae feminae augustias fascinum intromittit, va
 
 ---
 
-# Verse undefined.2
+# Verse 136.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10689,7 +10689,7 @@ Quum magno pene parvula ejus pudenda vir percutit, huc et illuc ilia increscunt 
 
 ---
 
-# Verse undefined.3
+# Verse 136.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10702,7 +10702,7 @@ Quum parvum, admodum parvum, Ziziphi Jujubae quasi granum in eam incidit, ventri
 
 ---
 
-# Verse undefined.4
+# Verse 136.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10715,7 +10715,7 @@ Si Dii mentulae intumescenti faverunt, cum femoribus suis se: ostentat femina ta
 
 ---
 
-# Verse undefined.5
+# Verse 136.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10728,7 +10728,7 @@ Magnopere delectata est arnica: ut equns solutus adveniens vocem edidit: Vaginam
 
 ---
 
-# Verse undefined.6
+# Verse 136.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10741,7 +10741,7 @@ Arnica, pilam superans, dixit: Ut tua, Arbor, ! (verbera) pinsunt, sic etiam nun
 
 ---
 
-# Verse undefined.7
+# Verse 136.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10754,7 +10754,7 @@ Arnica eum alloquitur: Tum etiam tu defecisti. Ut tua. Arbor! (verbera) Pinsunt,
 
 ---
 
-# Verse undefined.8
+# Verse 136.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10767,7 +10767,7 @@ Arnica eum alloquitur: Tum etiam tu defceisti. Ut silvae ignis. inflammatur, sic
 
 ---
 
-# Verse undefined.9
+# Verse 136.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10780,7 +10780,7 @@ Arnica eum alloquitur: Fauste infixus est penis; arboris fructu celeriter fruamu
 
 ---
 
-# Verse undefined.10
+# Verse 136.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10793,7 +10793,7 @@ Arnica cum fuste gallum circumcurrit. Nos nescimus quae bestia pudendum muliebre
 
 ---
 
-# Verse undefined.11
+# Verse 136.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10806,7 +10806,7 @@ Arnica post currentem amatorem currit: Has ejus boves custodi tu. Me futue: coct
 
 ---
 
-# Verse undefined.12
+# Verse 136.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10819,7 +10819,7 @@ Fortunatus, Arnica, te opprimit. Bona est magni viri fututio, Macrum pinguis. fe
 
 ---
 
-# Verse undefined.13
+# Verse 136.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10832,7 +10832,7 @@ Sine digito mulcta vacca <i>vanankaram</i> producit, Magna et bona est Aegle Mar
 
 ---
 
-# Verse undefined.14
+# Verse 136.14
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10845,7 +10845,7 @@ Infelix, Amice, te opprimit. Bona est magni viri fututio. Flava puollula, opere 
 
 ---
 
-# Verse undefined.15
+# Verse 136.15
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10858,7 +10858,7 @@ Magna certe et bona est Aegle Marmelos. Bona est magna Ficus Glomerata. Magnus v
 
 ---
 
-# Verse undefined.16
+# Verse 136.16
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10873,7 +10873,7 @@ Quem macrum factum puella flava pinguisque capiat sicut pollicem ex olei cado fo
 
 ## Hymn 137: A composite hymn in praise of Indra
 
-# Verse undefined.1
+# Verse 137.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10886,7 +10886,7 @@ When, foul with secret spot and stain, ye hastened onward to the breast. All Ind
 
 ---
 
-# Verse undefined.2
+# Verse 137.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10899,7 +10899,7 @@ Indra is he, O men, who gives us happiness: sport, urge the giver of delight to 
 
 ---
 
-# Verse undefined.3
+# Verse 137.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10912,7 +10912,7 @@ So have I glorified with praise strong Dadhikrāvan, conquering steed. Sweet may
 
 ---
 
-# Verse undefined.4
+# Verse 137.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10925,7 +10925,7 @@ The Somas very rich in sweets, for which the sieve is destined, flow, Effused, t
 
 ---
 
-# Verse undefined.5
+# Verse 137.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10938,7 +10938,7 @@ Indu flows on for Indra's sake—thus have the deities declared. The Lord of Spe
 
 ---
 
-# Verse undefined.6
+# Verse 137.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10951,7 +10951,7 @@ Inciter of the voice of song, with thousand streams the ocean flows, Even Soma, 
 
 ---
 
-# Verse undefined.7
+# Verse 137.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10964,7 +10964,7 @@ The black drop sank in Ansumati's bosom, advancing with ten thousand round about
 
 ---
 
-# Verse undefined.8
+# Verse 137.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10977,7 +10977,7 @@ I saw the drop in the far distance moving, on the slope bank of Ansumati's river
 
 ---
 
-# Verse undefined.9
+# Verse 137.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -10990,7 +10990,7 @@ And then the drop in Ansumati's bosom, splendid with light, assumed its proper b
 
 ---
 
-# Verse undefined.10
+# Verse 137.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11003,7 +11003,7 @@ Then, at thy birth, thou wast the foeman, Indra, of those the seven who ne'er ha
 
 ---
 
-# Verse undefined.11
+# Verse 137.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11016,7 +11016,7 @@ So, Thunder-armed! thou with thy bolt of thunder didst boldly smite that power w
 
 ---
 
-# Verse undefined.12
+# Verse 137.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11029,7 +11029,7 @@ We make this Indra very strong to strike the mighty Vritra dead: A vigorous Hero
 
 ---
 
-# Verse undefined.13
+# Verse 137.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11042,7 +11042,7 @@ Indra was made for giving, set, most mighty, o'er the joyous draught, Bright, me
 
 ---
 
-# Verse undefined.14
+# Verse 137.14
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11057,7 +11057,7 @@ By song, as 'twere, the powerful bolt which none may parry was prepared: Lofty, 
 
 ## Hymn 138: In praise of Indra
 
-# Verse undefined.1
+# Verse 138.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11070,7 +11070,7 @@ Indra, great in his power and might and, like Parjanya, rich in rain, Is magnifi
 
 ---
 
-# Verse undefined.2
+# Verse 138.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11083,7 +11083,7 @@ When the priests, strengthening the Son of holy Law, present their gifts, Singer
 
 ---
 
-# Verse undefined.3
+# Verse 138.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11098,7 +11098,7 @@ Since Kanvas with their lauds have made Indra complete the sacrifice, Words are 
 
 ## Hymn 139: A hymn to the Asvins
 
-# Verse undefined.1
+# Verse 139.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11111,7 +11111,7 @@ To help and favour Vatsa now, O Asvins, come ye hitherward. Bestow on him a dwel
 
 ---
 
-# Verse undefined.2
+# Verse 139.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11124,7 +11124,7 @@ All manliness that is in heaven, with the Five Tribes, or in mid- air, Bestow, y
 
 ---
 
-# Verse undefined.3
+# Verse 139.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11137,7 +11137,7 @@ Remember Kārnva first of all among the singers,, Asvins, who Have thought upon 
 
 ---
 
-# Verse undefined.4
+# Verse 139.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11150,7 +11150,7 @@ Asvins, for you with song of praise this hot oblation is effused, This your swee
 
 ---
 
-# Verse undefined.5
+# Verse 139.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11165,7 +11165,7 @@ Whatever ye have done in floods, in the tree, Wonder-workers, and in growing pla
 
 ## Hymn 140: Continuation of the preceding hymn to the Asvins
 
-# Verse undefined.1
+# Verse 140.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11178,7 +11178,7 @@ What force, Nāsatyas, ye exert, whatever, Gods, ye tend and heal, This your own
 
 ---
 
-# Verse undefined.2
+# Verse 140.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11191,7 +11191,7 @@ Now hath the Rishi splendidly thought out the Asvins' hymn of praise. Let the At
 
 ---
 
-# Verse undefined.3
+# Verse 140.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11204,7 +11204,7 @@ Ye Asvins, now ascend your car that lightly rolls upon its way. May these my pra
 
 ---
 
-# Verse undefined.4
+# Verse 140.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11217,7 +11217,7 @@ When, O Nāsatyas, we this day make you speed hither N ith our hymns, Or, Asvins
 
 ---
 
-# Verse undefined.5
+# Verse 140.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11232,7 +11232,7 @@ As erst Kakshivān and the Rishi Vyasva, as erst Dirghatamas invoked your presen
 
 ## Hymn 141: Hymn to the Asvins
 
-# Verse undefined.1
+# Verse 141.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11245,7 +11245,7 @@ Come as home-guardians, saving us from foemen, guarding our living creatures and
 
 ---
 
-# Verse undefined.2
+# Verse 141.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11258,7 +11258,7 @@ Whatever with Indra ye be faring, Asvins, or resting in one dwelling-place with 
 
 ---
 
-# Verse undefined.3
+# Verse 141.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11271,7 +11271,7 @@ When 1, O Asvins, call on you to-day that I may gather strength, Or as all-conqu
 
 ---
 
-# Verse undefined.4
+# Verse 141.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11284,7 +11284,7 @@ Now come, ye Asvins, hitherward: here are oblations set for you; These Soma drau
 
 ---
 
-# Verse undefined.5
+# Verse 141.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11299,7 +11299,7 @@ Whatever healing balm is yours, Nāsatyas near or far away, Therewith, great Sag
 
 ## Hymn 142: Hymn to Dawn and the Asvins
 
-# Verse undefined.1
+# Verse 142.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11312,7 +11312,7 @@ Together with the Goddess, with the Asvins' Speech have I awoke. Thou, Goddess, 
 
 ---
 
-# Verse undefined.2
+# Verse 142.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11325,7 +11325,7 @@ Awake the Asvins, Goddess Dawn! Up, mighty Lady of Sweet Strains! Rise straightw
 
 ---
 
-# Verse undefined.3
+# Verse 142.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11338,7 +11338,7 @@ Thou, Dawn, approaching with thy light, shinest together with the Sun, And to th
 
 ---
 
-# Verse undefined.4
+# Verse 142.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11351,7 +11351,7 @@ When yellow stalks give forth the juice as cows from udders pour their milk, And
 
 ---
 
-# Verse undefined.5
+# Verse 142.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11364,7 +11364,7 @@ Forward for glory and for strength, protection that shall con- quer men, And pow
 
 ---
 
-# Verse undefined.6
+# Verse 142.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11379,7 +11379,7 @@ When, Asvins worthy of our lauds, ye seat you in the father's house. With wisdom
 
 ## Hymn 143: Hymn to the Asvins
 
-# Verse undefined.1
+# Verse 143.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11392,7 +11392,7 @@ We invocate this day your car, far-spreading, O Asvins, even the gathering of th
 
 ---
 
-# Verse undefined.2
+# Verse 143.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11405,7 +11405,7 @@ Asvins, ye gained that glory by your Godhead, ye Sons of Heaven, by your own mig
 
 ---
 
-# Verse undefined.3
+# Verse 143.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11418,7 +11418,7 @@ Who bringeth you to-day for help with offered oblations, or with hymns to drink 
 
 ---
 
-# Verse undefined.4
+# Verse 143.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11431,7 +11431,7 @@ Borne on your golden car, ye omnipresent! come to this sacrifice of ours, Nāsat
 
 ---
 
-# Verse undefined.5
+# Verse 143.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11444,7 +11444,7 @@ Come hitherward to us from earth, from heaven, borne on your golden chariot roll
 
 ---
 
-# Verse undefined.6
+# Verse 143.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11457,7 +11457,7 @@ Now for us both, mete out, O Wonder-Workers, riches exceed- ing great with store
 
 ---
 
-# Verse undefined.7
+# Verse 143.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11470,7 +11470,7 @@ Whene'er I gratified you here together, your grace was given us, O ye rich in bo
 
 ---
 
-# Verse undefined.8
+# Verse 143.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11483,7 +11483,7 @@ Sweet be the plants for us, the heavens, the waters, and full of sweets for us b
 
 ---
 
-# Verse undefined.9
+# Verse 143.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -11496,7 +11496,7 @@ Asvins, that work of yours deserves our wonder, the Bull of firmament and earth 
 
 ---
 
-# Verse undefined.10
+# Verse 143.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]

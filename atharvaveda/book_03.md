@@ -6,7 +6,7 @@ chapter: "Book 3"
 
 ## Hymn 1: A prayer or charm for the defeat and destruction of enemies in battle
 
-# Verse undefined.1
+# Verse 1.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -19,7 +19,7 @@ Let the wise Agni go against our foemen, burning against ill-will and imprecatio
 
 ---
 
-# Verse undefined.2
+# Verse 1.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -32,7 +32,7 @@ Mighty are ye for such a deed, O Maruts. Go forward, overcome them and destroy t
 
 ---
 
-# Verse undefined.3
+# Verse 1.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -45,7 +45,7 @@ O Maghavan, O Indra, thou who slayest fiends, and, Agni, thou, Burn, both of you
 
 ---
 
-# Verse undefined.4
+# Verse 1.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -58,7 +58,7 @@ Shot down the slope, with thy two tawny coursers, forth go thy bolt, destroying 
 
 ---
 
-# Verse undefined.5
+# Verse 1.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -71,7 +71,7 @@ Indra, bewilder thou the foemen's army. With Agni's, Vāta's furious rush drive 
 
 ---
 
-# Verse undefined.6
+# Verse 1.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -86,7 +86,7 @@ Let Indra daze their army. Let the Maruts slay it with their might. Let Agni tak
 
 ## Hymn 2: A rifaccimento or recension of I
 
-# Verse undefined.1
+# Verse 2.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -99,7 +99,7 @@ May Agni, he who knows, our envoy, meet them, burning against ill-will and impre
 
 ---
 
-# Verse undefined.2
+# Verse 2.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -112,7 +112,7 @@ This Agni hath bewildered all the senses that were in your hearts: Now let him b
 
 ---
 
-# Verse undefined.3
+# Verse 2.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -125,7 +125,7 @@ Dazing their senses, Indra, come hitherward with the wish and will. With Agni's,
 
 ---
 
-# Verse undefined.4
+# Verse 2.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -138,7 +138,7 @@ Vanish, ye hopes and plans of theirs, be ye confounded, all their thoughts! What
 
 ---
 
-# Verse undefined.5
+# Verse 2.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -151,7 +151,7 @@ Bewildering the senses of our foemen, seize on their bodies and depart, O Apvā!
 
 ---
 
-# Verse undefined.6
+# Verse 2.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -166,7 +166,7 @@ That army of our enemies, O Maruts, that comes against us with' its might, conte
 
 ## Hymn 3: A charm for the restoration of an expelled king
 
-# Verse undefined.1
+# Verse 3.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -179,7 +179,7 @@ That army of our enemies, O Maruts, that comes against us with' its might, conte
 
 ---
 
-# Verse undefined.2
+# Verse 3.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -192,7 +192,7 @@ Though he be far away, let the red horses bring Indra, bring the sage to us and 
 
 ---
 
-# Verse undefined.3
+# Verse 3.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -205,7 +205,7 @@ King Varuna call thee hither from the waters! From hills and mountains Soma call
 
 ---
 
-# Verse undefined.4
+# Verse 3.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -218,7 +218,7 @@ May the hawk bring the man who must be summoned, from far away, in alien land, a
 
 ---
 
-# Verse undefined.5
+# Verse 3.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -231,7 +231,7 @@ Let thine opponents call thee back. Thy friends have chosen, thee again. Indra a
 
 ---
 
-# Verse undefined.6
+# Verse 3.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -246,7 +246,7 @@ He who disputes our calling thee, be he a stranger or akin. Drive him, O Indra, 
 
 ## Hymn 4: A benediction at the election of a king
 
-# Verse undefined.1
+# Verse 4.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -259,7 +259,7 @@ To thee hath come the kingship with its splendour: On! shine as lord, sole ruler
 
 ---
 
-# Verse undefined.2
+# Verse 4.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -272,7 +272,7 @@ The tribesmen shall elect thee for the Kingship, these five celestial regions sh
 
 ---
 
-# Verse undefined.3
+# Verse 4.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -285,7 +285,7 @@ Kinsmen, inviting thee, shall go to meet thee, with thee go Agni as an active he
 
 ---
 
-# Verse undefined.4
+# Verse 4.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -298,7 +298,7 @@ First shall the Asvins, Varuna and Mitra, the Universal Gods, and Maruts call th
 
 ---
 
-# Verse undefined.5
+# Verse 4.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -311,7 +311,7 @@ Speed to us hither from the farthest distance. Propitious unto thee be Earth and
 
 ---
 
-# Verse undefined.6
+# Verse 4.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -324,7 +324,7 @@ Pass to the tribes of men. O Indra, Indra. Thou the Varunas hast been found acco
 
 ---
 
-# Verse undefined.7
+# Verse 4.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -339,7 +339,7 @@ The Bounteous Paths in sundry forms and places, all in accord, have given thee r
 
 ## Hymn 5: A King's address to an amulet which is to strengthen his authority
 
-# Verse undefined.1
+# Verse 5.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -352,7 +352,7 @@ This Parna-Amulet hath come, strong and destroying with its strength my rivals. 
 
 ---
 
-# Verse undefined.2
+# Verse 5.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -365,7 +365,7 @@ O Parna-Amulet, in me set firmly might and opulence. Within the compass of my ru
 
 ---
 
-# Verse undefined.3
+# Verse 5.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -378,7 +378,7 @@ That dear mysterious Amulet which Gods have set within the tree, May the Gods gr
 
 ---
 
-# Verse undefined.4
+# Verse 5.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -391,7 +391,7 @@ As Indra's gift, by Varuna instructed, Parna hath come, the mighty strength of S
 
 ---
 
-# Verse undefined.5
+# Verse 5.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -404,7 +404,7 @@ The Parna-Charm hath come to me for great security from ill. That I may be exalt
 
 ---
 
-# Verse undefined.6
+# Verse 5.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -417,7 +417,7 @@ Sagacious builders of the car, cleaver and skilful artisans,— Make all the men
 
 ---
 
-# Verse undefined.7
+# Verse 5.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -430,7 +430,7 @@ The kings and makers of the kings, troop-leaders, masters of the horse, Make all
 
 ---
 
-# Verse undefined.8
+# Verse 5.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -445,7 +445,7 @@ Thou, Parna, art my body's guard, man kin my birth to me a man. With splendour o
 
 ## Hymn 6: Address to an amulet which is to secure the defeat of the wearer's enemies
 
-# Verse undefined.1
+# Verse 6.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -458,7 +458,7 @@ Masculine springs from masculine, Asvattha grows from Kha- dira, May it destroy 
 
 ---
 
-# Verse undefined.2
+# Verse 6.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -471,7 +471,7 @@ Crush down my foes, Asvattha! Rend, O Burster, those who storm and rage, With In
 
 ---
 
-# Verse undefined.3
+# Verse 6.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -484,7 +484,7 @@ As thou hast rent and torn apart, Asvattha! in the mighty sea, So rend asundar a
 
 ---
 
-# Verse undefined.4
+# Verse 6.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -497,7 +497,7 @@ Thou who like some victorious bull displayest thy surpassing might, With thee, w
 
 ---
 
-# Verse undefined.5
+# Verse 6.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -510,7 +510,7 @@ Nirriti bind them with the bonds of Death which never may be loosed. Mine enemie
 
 ---
 
-# Verse undefined.6
+# Verse 6.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -523,7 +523,7 @@ As thou, Asvastha!, mountest on the trees and overthrowest them, So do thou brea
 
 ---
 
-# Verse undefined.7
+# Verse 6.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -536,7 +536,7 @@ Let them drift downward like a boat torn from the rope that fastened it. There i
 
 ---
 
-# Verse undefined.8
+# Verse 6.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -551,7 +551,7 @@ With mental power I drive them forth, drive them with intellect and charm. We ba
 
 ## Hymn 7: A charm with an amulet of buck horn to drive away hereditary disease
 
-# Verse undefined.1
+# Verse 7.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -564,7 +564,7 @@ The fleet-foot Roebuck wears upon his head a healing remedy. Innate disease he d
 
 ---
 
-# Verse undefined.2
+# Verse 7.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -577,7 +577,7 @@ With his four feet the vigorous Buck hath bounded in pursuit of thee. Unbind the
 
 ---
 
-# Verse undefined.3
+# Verse 7.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -590,7 +590,7 @@ That which shines younder, like a roof resting on four walls, down on us,— The
 
 ---
 
-# Verse undefined.4
+# Verse 7.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -603,7 +603,7 @@ May those twin stars, auspicious, named Releasers, up in yonder sky. Loose of th
 
 ---
 
-# Verse undefined.5
+# Verse 7.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -616,7 +616,7 @@ Water, indeed, hath power to heal, Water drives malady away. May water—for it 
 
 ---
 
-# Verse undefined.6
+# Verse 7.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -629,7 +629,7 @@ Hath some prepared decoction brought inveterate disease on thee, I know the balm
 
 ---
 
-# Verse undefined.7
+# Verse 7.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -644,7 +644,7 @@ What time the starlight disappears, what time the gleams of Dawn depart, May evi
 
 ## Hymn 8: A charm to secure the submission, love, and fidelity of kinsmen
 
-# Verse undefined.1
+# Verse 8.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -657,7 +657,7 @@ Let Mitra come, arranging, with the Seasons, lulling the Earth to rest with glea
 
 ---
 
-# Verse undefined.2
+# Verse 8.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -670,7 +670,7 @@ May Indra, Tvashtar hear my word with favour, may Dhātar, Rāti, Savitar accept
 
 ---
 
-# Verse undefined.3
+# Verse 8.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -683,7 +683,7 @@ Soma I call, and Savitar with homage, and all the Ādityas in the time of contes
 
 ---
 
-# Verse undefined.4
+# Verse 8.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -696,7 +696,7 @@ Here, verily, may you stay: go ye no farther. The strong Herd, Lord of Increase,
 
 ---
 
-# Verse undefined.5
+# Verse 8.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -709,7 +709,7 @@ We bend together all your minds, your vows and purposes we bend. We bend togethe
 
 ---
 
-# Verse undefined.6
+# Verse 8.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -724,7 +724,7 @@ I with my spirit seize and hold your spirits. Follow with thought and wish my th
 
 ## Hymn 9: A charm against rheumatism (vishkondha)
 
-# Verse undefined.1
+# Verse 9.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -737,7 +737,7 @@ Heaven is the sire, the mother Earth, of Karsapha and Visapha. As ye have brough
 
 ---
 
-# Verse undefined.2
+# Verse 9.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -750,7 +750,7 @@ The bands hold fast without a knot: this is the way that Manu- used. I make Vish
 
 ---
 
-# Verse undefined.3
+# Verse 9.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -763,7 +763,7 @@ Then to a tawny-coloured string the wise and skilful bind a brush. Let bandages 
 
 ---
 
-# Verse undefined.4
+# Verse 9.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -776,7 +776,7 @@ Ye who move active in your strength like Gods with Asuras' magic powers, Even as
 
 ---
 
-# Verse undefined.5
+# Verse 9.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -789,7 +789,7 @@ Yea, I will chide thee to thy shame, I will disgrace the Kābava. Under our impr
 
 ---
 
-# Verse undefined.6
+# Verse 9.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -804,7 +804,7 @@ One and one hundred over earth are the Vishkandhas spread abroad. Before these h
 
 ## Hymn 10: A new year prayer
 
-# Verse undefined.1
+# Verse 10.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -817,7 +817,7 @@ The First hath dawned. With Yama may it be a cow to pour forth milk. May she be 
 
 ---
 
-# Verse undefined.2
+# Verse 10.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -830,7 +830,7 @@ May she whom Gods accept with joy, Night who approacheth. as a cow, She who is C
 
 ---
 
-# Verse undefined.3
+# Verse 10.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -843,7 +843,7 @@ Thou whom with reverence we approach, O Night, as model of the Year, Vouchsafe. 
 
 ---
 
-# Verse undefined.4
+# Verse 10.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -856,7 +856,7 @@ This same is she whose light first dawned upon us: she moves established in the 
 
 ---
 
-# Verse undefined.5
+# Verse 10.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -869,7 +869,7 @@ Loud was the wooden pass-gear's ring and rattle, as it made annual oblation read
 
 ---
 
-# Verse undefined.6
+# Verse 10.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -882,7 +882,7 @@ The shrine of Ilā flows with oil and fatness: accept, O Jātavedas, our oblatio
 
 ---
 
-# Verse undefined.7
+# Verse 10.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -895,7 +895,7 @@ Come thou to nourish me and make me prosper. Night! may the favour of the Gods a
 
 ---
 
-# Verse undefined.8
+# Verse 10.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -908,7 +908,7 @@ This Year hath come to us, thy lord and consort, O Ekāshtakā. Vouchsafe us chi
 
 ---
 
-# Verse undefined.9
+# Verse 10.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -921,7 +921,7 @@ The Seasons, and the Seasons' Lords I worship, annual parts and groups. Half yea
 
 ---
 
-# Verse undefined.10
+# Verse 10.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -934,7 +934,7 @@ I offer to the Seasons, to their several groups, to Months, to Years. Dhātar, V
 
 ---
 
-# Verse undefined.11
+# Verse 10.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -947,7 +947,7 @@ With fatness and libation we sacrifice and adore the Gods. Wealthy in kine may w
 
 ---
 
-# Verse undefined.12
+# Verse 10.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -960,7 +960,7 @@ Ekāshtakā, burning with zealous fervour, brought forth her babe the great and 
 
 ---
 
-# Verse undefined.13
+# Verse 10.13
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -975,7 +975,7 @@ Indra's and Soma's mother! thou art daughter of Prajāpati. Satisfy thou our hea
 
 ## Hymn 11: A charm for the recovery of a dangerously sick man
 
-# Verse undefined.1
+# Verse 11.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -988,7 +988,7 @@ For life I set thee free by this oblation both from unmarked'. decline and from 
 
 ---
 
-# Verse undefined.2
+# Verse 11.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1001,7 +1001,7 @@ Be his days ended, be he now departed, be he brought very near to death already,
 
 ---
 
-# Verse undefined.3
+# Verse 11.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1014,7 +1014,7 @@ With sacrifice thousand-eyed and hundred-powered, bringing a hundred lives, have
 
 ---
 
-# Verse undefined.4
+# Verse 11.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1027,7 +1027,7 @@ Live, waxing in thy strength a hundred autumns, live through a hundred springs, 
 
 ---
 
-# Verse undefined.5
+# Verse 11.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1040,7 +1040,7 @@ Breath, Respiration, come to him, as two car-oxen to their stall! Let all the ot
 
 ---
 
-# Verse undefined.6
+# Verse 11.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1053,7 +1053,7 @@ Breath, Respiration, stay ye here. Go ye not hence away from him, Bring, so that
 
 ---
 
-# Verse undefined.7
+# Verse 11.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1066,7 +1066,7 @@ I give thee over to old age, make thee the subject of old age. Let kindly old ag
 
 ---
 
-# Verse undefined.8
+# Verse 11.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1081,7 +1081,7 @@ Old age hath girt thee with its bonds even as they bind a bull with rope. The de
 
 ## Hymn 12: A benediction on a newly built house
 
-# Verse undefined.1
+# Verse 12.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1094,7 +1094,7 @@ Here, even here I fix my firm-set dwelling; flowing with fatness may it stand in
 
 ---
 
-# Verse undefined.2
+# Verse 12.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1107,7 +1107,7 @@ Even here, O House, stand thou on firm foundation, wealthy in horses, rich in ki
 
 ---
 
-# Verse undefined.3
+# Verse 12.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1120,7 +1120,7 @@ A spacious store, O House, art thou, full of clean corn and lofty-roofed. Let th
 
 ---
 
-# Verse undefined.4
+# Verse 12.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1133,7 +1133,7 @@ This House may Savitar and Vāyu stablish, Brihaspati who knows the way, and Ind
 
 ---
 
-# Verse undefined.5
+# Verse 12.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1146,7 +1146,7 @@ Queen of the home! thou, sheltering, kindly Goddess, wast sta- blished by the Go
 
 ---
 
-# Verse undefined.6
+# Verse 12.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1159,7 +1159,7 @@ Thou Pole, in ordered fashion mount the pillar. Strong, shining forth afar, keep
 
 ---
 
-# Verse undefined.7
+# Verse 12.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1172,7 +1172,7 @@ To this the tender boy hath come, to this the calf with all the beasts, To this 
 
 ---
 
-# Verse undefined.8
+# Verse 12.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1185,7 +1185,7 @@ Bring hitherward, O dame, the well-filled pitcher, the stream of molten butter b
 
 ---
 
-# Verse undefined.9
+# Verse 12.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1200,7 +1200,7 @@ Water that kills Consumption, free from all Consumption, here I bring. With Agni
 
 ## Hymn 13: A benediction on a newly cut water channel
 
-# Verse undefined.1
+# Verse 13.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1213,7 +1213,7 @@ As ye, when Ahi had been slain, flowed forth together with a roar, So are ye cal
 
 ---
 
-# Verse undefined.2
+# Verse 13.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1226,7 +1226,7 @@ As driven forth by Varuna ye swiftly urged your rolling waves, There Indra reach
 
 ---
 
-# Verse undefined.3
+# Verse 13.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1239,7 +1239,7 @@ Indra restrained you with his might. Goddesses, as ye glided on Not in accordanc
 
 ---
 
-# Verse undefined.4
+# Verse 13.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1252,7 +1252,7 @@ One only God set foot on you flowing according to your will, The mighty ones bre
 
 ---
 
-# Verse undefined.5
+# Verse 13.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1265,7 +1265,7 @@ Water is good, water indeed is fatness. Agni and Soma, truly, both bring water. 
 
 ---
 
-# Verse undefined.6
+# Verse 13.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1278,7 +1278,7 @@ Then verily, I see, yea, also hear them: their sound approaches me, their voice 
 
 ---
 
-# Verse undefined.7
+# Verse 13.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1293,7 +1293,7 @@ Here, O ye Waters, is your heart. Here is your calf, ye holy ones. Flow here, ju
 
 ## Hymn 14: A benediction on a cattle pen
 
-# Verse undefined.1
+# Verse 14.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1306,7 +1306,7 @@ A Pen wherein to dwell at ease, abundance and prosperity, Whate'er is called the
 
 ---
 
-# Verse undefined.2
+# Verse 14.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1319,7 +1319,7 @@ May Aryaman pour gifts on you, and Pūshan, land Brihaspati, And Indra, winner o
 
 ---
 
-# Verse undefined.3
+# Verse 14.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1332,7 +1332,7 @@ Moving together, free from fear, with plenteous droppings in this pen, Bearing s
 
 ---
 
-# Verse undefined.4
+# Verse 14.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1345,7 +1345,7 @@ Come hither, to this place, O Cows: here thrive as though ye were manured. Even 
 
 ---
 
-# Verse undefined.5
+# Verse 14.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1358,7 +1358,7 @@ Auspicious be this stall to you. Prosper like cultivated rice. Even here increas
 
 ---
 
-# Verse undefined.6
+# Verse 14.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1373,7 +1373,7 @@ Follow me, Cows, as master of the cattle. Here may this Cow- pen make you grow a
 
 ## Hymn 15: A merchant's prayer for success in his business
 
-# Verse undefined.1
+# Verse 15.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1386,7 +1386,7 @@ I stir and animate the merchant Indra; may he approach and be our guide and lead
 
 ---
 
-# Verse undefined.2
+# Verse 15.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1399,7 +1399,7 @@ The many paths which Gods are wont to travel, the paths which go between the ear
 
 ---
 
-# Verse undefined.3
+# Verse 15.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1412,7 +1412,7 @@ With fuel. Agni! and with butter, longing, mine offering I present for strength 
 
 ---
 
-# Verse undefined.4
+# Verse 15.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1425,7 +1425,7 @@ Pardon this stubbornness of ours. O Agni, the distant pathway which our feet hav
 
 ---
 
-# Verse undefined.5
+# Verse 15.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1438,7 +1438,7 @@ The wealth wherewith I carry on my traffic, seeking, ye Gods! wealth with the we
 
 ---
 
-# Verse undefined.6
+# Verse 15.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1451,7 +1451,7 @@ The wealth wherewith I carry on my traffic, seeking, ye Gods! wealth with the we
 
 ---
 
-# Verse undefined.7
+# Verse 15.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1464,7 +1464,7 @@ With reverence we sign thy praise, O Hotar-priest Vaisvānara. Over our children
 
 ---
 
-# Verse undefined.8
+# Verse 15.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1479,7 +1479,7 @@ Still to thee ever will we bring oblation, as to a stabled horse, O Jātavedas. 
 
 ## Hymn 16: A Rishi's morning prayer
 
-# Verse undefined.1
+# Verse 16.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1492,7 +1492,7 @@ Agni at dawn, and Indra we invoke at dawn, and Varuna and Mitra, and the Asvins 
 
 ---
 
-# Verse undefined.2
+# Verse 16.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1505,7 +1505,7 @@ We all strong Bhaga, conqueror in the morning, the son of Aditi, the great Dispo
 
 ---
 
-# Verse undefined.3
+# Verse 16.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1518,7 +1518,7 @@ Bhaga, our guide, Bhaga whose gifts are faithful, favour this hymn and give us w
 
 ---
 
-# Verse undefined.4
+# Verse 16.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1531,7 +1531,7 @@ So may felicity be ours at present, and when the Sun advances, and at noontide; 
 
 ---
 
-# Verse undefined.5
+# Verse 16.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1544,7 +1544,7 @@ May Bhaga verily be bliss-bestower, and through him, Gods! may happiness attend 
 
 ---
 
-# Verse undefined.6
+# Verse 16.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1557,7 +1557,7 @@ To this our sacrifice may the Dawns incline them, and come to the pure place lik
 
 ---
 
-# Verse undefined.7
+# Verse 16.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1572,7 +1572,7 @@ May the kind Mornings dawn on us for ever with, wealth of kine, of horses, and o
 
 ## Hymn 17: A farmer's song and prayer to speed the plough
 
-# Verse undefined.1
+# Verse 17.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1585,7 +1585,7 @@ Wise and devoted to the Gods the skilful men bind plough-ropes fast, And lay the
 
 ---
 
-# Verse undefined.2
+# Verse 17.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1598,7 +1598,7 @@ Lay on the yokes and fasten well the traces: formed is the furrow, sow the seed 
 
 ---
 
-# Verse undefined.3
+# Verse 17.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1611,7 +1611,7 @@ The keen-shared plough that bringeth bliss, furnished with traces and with stilt
 
 ---
 
-# Verse undefined.4
+# Verse 17.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1624,7 +1624,7 @@ May Indra press the furrow down, may Pūshan guard and cherish her. May she, wel
 
 ---
 
-# Verse undefined.5
+# Verse 17.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1637,7 +1637,7 @@ Happily let the shares turn up the ploughland, the ploughers happily follow the 
 
 ---
 
-# Verse undefined.6
+# Verse 17.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1650,7 +1650,7 @@ Happily work our steers and men! May the plough furrow happily, Happily be the t
 
 ---
 
-# Verse undefined.7
+# Verse 17.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1663,7 +1663,7 @@ Suna and Sira, welcome ye this laud, and with the milk that ye have made in heav
 
 ---
 
-# Verse undefined.8
+# Verse 17.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1676,7 +1676,7 @@ Auspicious Sitā, come thou near: we venerate and worship thee. That thou mayst 
 
 ---
 
-# Verse undefined.9
+# Verse 17.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1691,7 +1691,7 @@ Loved by the Visvedevas and the Maruts, let Sitā be bedewed. with oil and honey
 
 ## Hymn 18: A jealous wife's incantation against a rival
 
-# Verse undefined.1
+# Verse 18.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1704,7 +1704,7 @@ From out the earth I dig this Plant, and herb of most effectual power, Wherewith
 
 ---
 
-# Verse undefined.2
+# Verse 18.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1717,7 +1717,7 @@ Auspicious, with expanded leaves, sent by the Gods, victorious Plant, Drive thou
 
 ---
 
-# Verse undefined.3
+# Verse 18.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1730,7 +1730,7 @@ Indeed he hath not named her name: thou with this husband dalliest not, Far into
 
 ---
 
-# Verse undefined.4
+# Verse 18.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1743,7 +1743,7 @@ Stronger am I, O stronger one, yea, mightier than the mightier; Beneath me be my
 
 ---
 
-# Verse undefined.5
+# Verse 18.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1756,7 +1756,7 @@ I am the conqueror, and thou, thou also art victorious: As victory attends us bo
 
 ---
 
-# Verse undefined.6
+# Verse 18.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1771,7 +1771,7 @@ I've girt thee with the conquering Plant, beneath thee laid the mightiest one. A
 
 ## Hymn 19: A glorification of the office of a king's household priest
 
-# Verse undefined.1
+# Verse 19.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1784,7 +1784,7 @@ Quickened is this my priest rank, quickened is manly strength and force, Quicken
 
 ---
 
-# Verse undefined.2
+# Verse 19.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1797,7 +1797,7 @@ I quicken these men's princely sway, the might, the manly strength and force; I 
 
 ---
 
-# Verse undefined.3
+# Verse 19.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1810,7 +1810,7 @@ Down fall the men, low let them lie, who fight against our mighty prince, I ruin
 
 ---
 
-# Verse undefined.4
+# Verse 19.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1823,7 +1823,7 @@ Keener than is the axe's edge, keener than Agni's self are they, Keener than Ind
 
 ---
 
-# Verse undefined.5
+# Verse 19.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1836,7 +1836,7 @@ The weapons of these men I whet and sharpen, with valiant heroes I increase thei
 
 ---
 
-# Verse undefined.6
+# Verse 19.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1849,7 +1849,7 @@ Let their fierce powers, O Maghavan, be heightened, and upward go the shout of c
 
 ---
 
-# Verse undefined.7
+# Verse 19.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1862,7 +1862,7 @@ Advance and be victorious, men I Exceeding mighty be your arms! Smite with sharp
 
 ---
 
-# Verse undefined.8
+# Verse 19.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1877,7 +1877,7 @@ Loosed from the bowstring fly away, thou Arrow, sharpened by our prayer. Assail 
 
 ## Hymn 20: A prayer for riches and general prosperity
 
-# Verse undefined.1
+# Verse 20.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1890,7 +1890,7 @@ This is thine ordered place of birth whence sprung to life thou shinest forth. K
 
 ---
 
-# Verse undefined.2
+# Verse 20.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1903,7 +1903,7 @@ Turn hither, Agni, speak to us, come to us with a friendly mind. Enrich us, Sovr
 
 ---
 
-# Verse undefined.3
+# Verse 20.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1916,7 +1916,7 @@ Let Aryaman vouchsafe us, wealth, and Bhaga, and Brihaspati, The Goddesses grant
 
 ---
 
-# Verse undefined.4
+# Verse 20.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1929,7 +1929,7 @@ We call King Soma to our aid, and Agni with our songs and. hymn, The Ādityas, V
 
 ---
 
-# Verse undefined.5
+# Verse 20.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1942,7 +1942,7 @@ Do thou, O Agni, with thy fires strengthen our prayer and. sacrifice. Incite tho
 
 ---
 
-# Verse undefined.6
+# Verse 20.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1955,7 +1955,7 @@ Both Indra here and Vāyu we invoke with an auspicious call, That in assembly al
 
 ---
 
-# Verse undefined.7
+# Verse 20.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1968,7 +1968,7 @@ Urge Aryaman to send us gifts, and Indra, and Brihaspati, Vāta, Vishnu, Sarasva
 
 ---
 
-# Verse undefined.8
+# Verse 20.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1981,7 +1981,7 @@ Now have we reached the ordering of power, and all these worlds of life are held
 
 ---
 
-# Verse undefined.9
+# Verse 20.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1994,7 +1994,7 @@ May heaven's five spacious regions pour their milk for me with all their might. 
 
 ---
 
-# Verse undefined.10
+# Verse 20.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2009,7 +2009,7 @@ May speech that winneth cows be mine. With splendour mount thou over me. May Vā
 
 ## Hymn 21: In honour of fire in all shapes, to appease Agni of the funeral pile and to quench the flames of cremation
 
-# Verse undefined.1
+# Verse 21.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2022,7 +2022,7 @@ All Fires that are in water and in Vritra, all those that man and stones contain
 
 ---
 
-# Verse undefined.2
+# Verse 21.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2035,7 +2035,7 @@ That which abides in Soma and in cattle, that which lies deep in birds and sylva
 
 ---
 
-# Verse undefined.3
+# Verse 21.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2048,7 +2048,7 @@ The Fire that rideth by the side of Indra, the God Vaisvānara,. yea all-consumi
 
 ---
 
-# Verse undefined.4
+# Verse 21.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2061,7 +2061,7 @@ The all-devouring God whom men call Kāma, he whom they call the Giver and Recei
 
 ---
 
-# Verse undefined.5
+# Verse 21.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2074,7 +2074,7 @@ To thee, strength-giver, glorious, rich in pleasant strains, whom. in their mind
 
 ---
 
-# Verse undefined.6
+# Verse 21.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2087,7 +2087,7 @@ To him who feeds on ox and cow, sage, bearing Soma on his back, To all Vaisvāna
 
 ---
 
-# Verse undefined.7
+# Verse 21.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2100,7 +2100,7 @@ All fiery flames that follow after lightning, flashing o'er earth, through firma
 
 ---
 
-# Verse undefined.8
+# Verse 21.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2113,7 +2113,7 @@ The golden-handed Savitar and Indra, Brihaspati, Varuna, Mitra, and Agni, The An
 
 ---
 
-# Verse undefined.9
+# Verse 21.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2126,7 +2126,7 @@ Flesh-eating Agni is appeased, appeased is he who hurteth men. Now him who burne
 
 ---
 
-# Verse undefined.10
+# Verse 21.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2141,7 +2141,7 @@ The mountains where the Soma grows, the waters lying calm and still, Vāta, Parj
 
 ## Hymn 22: The taming and training of an elephant for a king to ride on
 
-# Verse undefined.1
+# Verse 22.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2154,7 +2154,7 @@ Famed be the Elephant's strength, the lofty glory, which out of Aditi's body too
 
 ---
 
-# Verse undefined.2
+# Verse 22.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2167,7 +2167,7 @@ On this have Mitra, Varuna, Indra, and Rudra fixed their thought. May those all-
 
 ---
 
-# Verse undefined.3
+# Verse 22.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2180,7 +2180,7 @@ The strength wherewith the Elephant was dowered, that decks a King among the men
 
 ---
 
-# Verse undefined.4
+# Verse 22.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2193,7 +2193,7 @@ The lofty strength which sacrifice brings, Jātavedas! unto thee, What strength 
 
 ---
 
-# Verse undefined.5
+# Verse 22.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2206,7 +2206,7 @@ Far as the heaven's four regions spread, far as the eye's most distant ken. So w
 
 ---
 
-# Verse undefined.6
+# Verse 22.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2221,7 +2221,7 @@ Now hath the Elephant become chief of all pleasant beasts to ride. With his high
 
 ## Hymn 23: A charm to remove a woman's sterility, and to assure the birth of boys
 
-# Verse undefined.1
+# Verse 23.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2234,7 +2234,7 @@ From thee we banish and expel the cause of thy sterility. This in another place 
 
 ---
 
-# Verse undefined.2
+# Verse 23.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2247,7 +2247,7 @@ As arrow to the quiver, so let a male embryo enter thee. Then from thy side be b
 
 ---
 
-# Verse undefined.3
+# Verse 23.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2260,7 +2260,7 @@ Bring forth a male, bring forth a son. Another male shall follow him. The mother
 
 ---
 
-# Verse undefined.4
+# Verse 23.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2273,7 +2273,7 @@ With that auspicious general flow wherewith steers propagate their kind, Do thou
 
 ---
 
-# Verse undefined.5
+# Verse 23.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2286,7 +2286,7 @@ I give thee power to bear a child: within, thee pass the germ of life! Obtain a 
 
 ---
 
-# Verse undefined.6
+# Verse 23.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2301,7 +2301,7 @@ May those celestial herbs whose sire was Heaven, the Earth their mother, and the
 
 ## Hymn 24: A song of harvest
 
-# Verse undefined.1
+# Verse 24.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2314,7 +2314,7 @@ The plants of earth are rich in milk, and rich in milk is this my word, So from 
 
 ---
 
-# Verse undefined.2
+# Verse 24.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2327,7 +2327,7 @@ Him who is rich in milk I know. Abundant hath he made our corn. The God whose na
 
 ---
 
-# Verse undefined.3
+# Verse 24.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2340,7 +2340,7 @@ All the five regions of the heavens, all the five races of man- kind, As after r
 
 ---
 
-# Verse undefined.4
+# Verse 24.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2353,7 +2353,7 @@ Open the well with hundred streams, exhaustless, with a thousand streams. So cau
 
 ---
 
-# Verse undefined.5
+# Verse 24.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2366,7 +2366,7 @@ O Hundred-handed, gather up. O Thousand-handed, pour thou forth. Bring hither in
 
 ---
 
-# Verse undefined.6
+# Verse 24.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2379,7 +2379,7 @@ Three sheaves are the Gandharvas' claim, the lady of the house hath four. We tou
 
 ---
 
-# Verse undefined.7
+# Verse 24.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2394,7 +2394,7 @@ Adding and Gathering are thy two attendants, O Prajāpati. May they bring hither
 
 ## Hymn 25: A man's love-charm
 
-# Verse undefined.1
+# Verse 25.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2407,7 +2407,7 @@ Let the Impeller goad thee on. Rest not in peace upon thy bed. Terrible is the s
 
 ---
 
-# Verse undefined.2
+# Verse 25.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2420,7 +2420,7 @@ That arrow winged with longing thought, its stem Desire, its neck, Resolve, Let 
 
 ---
 
-# Verse undefined.3
+# Verse 25.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2433,7 +2433,7 @@ The shaft of Kāma, pointed well, that withers and consumes the spleen. With has
 
 ---
 
-# Verse undefined.4
+# Verse 25.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2446,7 +2446,7 @@ Pierced through with fiercely-burning heat, steal to me with thy parching lips, 
 
 ---
 
-# Verse undefined.5
+# Verse 25.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2459,7 +2459,7 @@ Away Lfrom mother and from sire I drive thee hither with a whip, That thou mayst
 
 ---
 
-# Verse undefined.6
+# Verse 25.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2474,7 +2474,7 @@ Mitra and Varuna, expel all thought and purpose from her heart. Deprive her of h
 
 ## Hymn 26: A charm to win the favour of all serpents
 
-# Verse undefined.1
+# Verse 26.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2487,7 +2487,7 @@ Ye Gods who dwell within this eastward region, entitled Weapons, Agni forms your
 
 ---
 
-# Verse undefined.2
+# Verse 26.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2500,7 +2500,7 @@ Ye Gods who dwell within this southward region, entitled Eager, Kāma forms your
 
 ---
 
-# Verse undefined.3
+# Verse 26.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2513,7 +2513,7 @@ Ye Gods who dwell within this westward region, whose name is Radiant, Water form
 
 ---
 
-# Verse undefined.4
+# Verse 26.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2526,7 +2526,7 @@ Ye Gods who dwell within this northward region, whose name is Piercers, Vāta fo
 
 ---
 
-# Verse undefined.5
+# Verse 26.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2539,7 +2539,7 @@ Ye Gods whose home is in this firm-set region—Nilimpas is your name—Plants a
 
 ---
 
-# Verse undefined.6
+# Verse 26.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2554,7 +2554,7 @@ Ye Gods whose home is in this upmost region, Yearners by name, Brihaspati forms 
 
 ## Hymn 27: A charm consigning an enemy to the serpents for punishment
 
-# Verse undefined.1
+# Verse 27.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2567,7 +2567,7 @@ Agni is regent of the East, its warder is Asita, the Ādityas are the arrows. Wo
 
 ---
 
-# Verse undefined.2
+# Verse 27.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2580,7 +2580,7 @@ Indra is regent of the South, its warder Tiraschirāji, and the shafts the Fathe
 
 ---
 
-# Verse undefined.3
+# Verse 27.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2593,7 +2593,7 @@ Of the West region Varuna is ruler, Pridāku warder, Nourish- ment the arrows. W
 
 ---
 
-# Verse undefined.4
+# Verse 27.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2606,7 +2606,7 @@ Soma is ruler of the Northern region, Svaja the warder, lightn- ing's flash the 
 
 ---
 
-# Verse undefined.5
+# Verse 27.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2619,7 +2619,7 @@ Vishnu is ruler of the firm-set region, Kalmāshagriva warder, Plants the arrows
 
 ---
 
-# Verse undefined.6
+# Verse 27.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2634,7 +2634,7 @@ Brihaspati controls the topmost region, Svitra is warder, and the Rain the arrow
 
 ## Hymn 28: A charm to change the ill-omened birth of twin calves into a blessing
 
-# Verse undefined.1
+# Verse 28.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2647,7 +2647,7 @@ This cow was born to bring forth offspring singly, though they created kine of e
 
 ---
 
-# Verse undefined.2
+# Verse 28.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2660,7 +2660,7 @@ She brings destruction on the beasts, turned to a flesh-devouring worm. Yes, giv
 
 ---
 
-# Verse undefined.3
+# Verse 28.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2673,7 +2673,7 @@ Be thou auspicious to our folk, bring luck to horses and to kine. Auspicious unt
 
 ---
 
-# Verse undefined.4
+# Verse 28.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2686,7 +2686,7 @@ Let there be rain and increase here, here be thou most munifi- cient. Mother of 
 
 ---
 
-# Verse undefined.5
+# Verse 28.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2699,7 +2699,7 @@ Where, having left all sickness of their bodies, the pious lead, as friends, the
 
 ---
 
-# Verse undefined.6
+# Verse 28.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2714,7 +2714,7 @@ Where lies the world of those dear friends, the pious, those who have brought du
 
 ## Hymn 29: On the means to obtain immunity from taxation in the next world
 
-# Verse undefined.1
+# Verse 29.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2727,7 +2727,7 @@ When yonder kings who sit beside Yama divide among them- selves the sixteenth pa
 
 ---
 
-# Verse undefined.2
+# Verse 29.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2740,7 +2740,7 @@ He satisfies each hope and want, prevailing, present and pre- pared. The wish-fu
 
 ---
 
-# Verse undefined.3
+# Verse 29.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2753,7 +2753,7 @@ He who bestows a white-hooved ram, adequate to the place he holds. Ascends to th
 
 ---
 
-# Verse undefined.4
+# Verse 29.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2766,7 +2766,7 @@ He who bestows a white-hooved ram, adequate to the place he holds. Offered with 
 
 ---
 
-# Verse undefined.5
+# Verse 29.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2779,7 +2779,7 @@ He who bestows a white-hooved ram, adequate to the place he holds, Offered with 
 
 ---
 
-# Verse undefined.6
+# Verse 29.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2792,7 +2792,7 @@ Like a refreshing draught, like sea, the mighty flood, he faileth not. Like the 
 
 ---
 
-# Verse undefined.7
+# Verse 29.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2805,7 +2805,7 @@ Whose gift was this, and given to whom? Kāma to Kāma gave the gift. Kāma is g
 
 ---
 
-# Verse undefined.8
+# Verse 29.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2820,7 +2820,7 @@ May Earth receive thee as her own, and this great interspace of air. Neither in 
 
 ## Hymn 30: A prayer or charm to secure love and concord in a family
 
-# Verse undefined.1
+# Verse 30.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2833,7 +2833,7 @@ Freedom from hate I bring to you, concord and unanimity. Love one another as the
 
 ---
 
-# Verse undefined.2
+# Verse 30.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2846,7 +2846,7 @@ One-minded with his mother let the son be loyal to his sire. Let the wife, calm 
 
 ---
 
-# Verse undefined.3
+# Verse 30.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2859,7 +2859,7 @@ No brother hate his brother, no sister to sister be unkind. Unanimous, with one 
 
 ---
 
-# Verse undefined.4
+# Verse 30.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2872,7 +2872,7 @@ That spell through which Gods sever not, nor ever bear each other hate, That spe
 
 ---
 
-# Verse undefined.5
+# Verse 30.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2885,7 +2885,7 @@ Intelligent, submissive, rest united, friendly and kind, bearing the yoke togeth
 
 ---
 
-# Verse undefined.6
+# Verse 30.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2898,7 +2898,7 @@ Let what you drink, your share of food be common together, with one common bond 
 
 ---
 
-# Verse undefined.7
+# Verse 30.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2913,7 +2913,7 @@ With binding charm I make you all united, obeying one sole leader and one-minded
 
 ## Hymn 31: A charm for the recovery of one dangerously ill
 
-# Verse undefined.1
+# Verse 31.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2926,7 +2926,7 @@ May Gods release from failing strength, thou Agni, from malignity! I free from e
 
 ---
 
-# Verse undefined.2
+# Verse 31.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2939,7 +2939,7 @@ May Pavamāna free from harm, and Sakra from unrighteous deed. I free from every
 
 ---
 
-# Verse undefined.3
+# Verse 31.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2952,7 +2952,7 @@ Tame beasts have parted from wild beasts, water and thirst have gone apart I fre
 
 ---
 
-# Verse undefined.4
+# Verse 31.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2965,7 +2965,7 @@ Parted are heaven and earth, and paths turned to each quarter of the sky. I free
 
 ---
 
-# Verse undefined.5
+# Verse 31.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2978,7 +2978,7 @@ Tvashtar prepares the bridal of his daughter; then all this world of life depart
 
 ---
 
-# Verse undefined.6
+# Verse 31.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -2991,7 +2991,7 @@ Agni combines the vital airs. The moon is closely joined with breath. I free. et
 
 ---
 
-# Verse undefined.7
+# Verse 31.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3004,7 +3004,7 @@ The Gods have lifted up with breath the Sun whose might is everywhere. I free, e
 
 ---
 
-# Verse undefined.8
+# Verse 31.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3017,7 +3017,7 @@ Die not. Live with the breath of those who make and who enjoy long life. I free,
 
 ---
 
-# Verse undefined.9
+# Verse 31.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3030,7 +3030,7 @@ Die not. Stay here. Breathe with the breath of those who draw the vital air. I f
 
 ---
 
-# Verse undefined.10
+# Verse 31.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -3043,7 +3043,7 @@ Rise up with life, conjoined with life. Up, with the sap of growing plants! I fr
 
 ---
 
-# Verse undefined.11
+# Verse 31.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]

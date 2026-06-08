@@ -6,7 +6,7 @@ chapter: "Book 15"
 
 ## Hymn 1: The hyperbolical glorification of the Vrātya or Aryan Non-conformist
 
-# Verse undefined.1
+# Verse 1.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -19,7 +19,7 @@ There was a roaming Vrātya. He roused Prajāpati to action.
 
 ---
 
-# Verse undefined.2
+# Verse 1.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -32,7 +32,7 @@ Prajāpati beheld gold in himself and engendered it.
 
 ---
 
-# Verse undefined.3
+# Verse 1.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -45,7 +45,7 @@ That became unique, that became distinguished, that became great, that became ex
 
 ---
 
-# Verse undefined.4
+# Verse 1.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -58,7 +58,7 @@ He grew, he became great, he became Mahādeva.
 
 ---
 
-# Verse undefined.5
+# Verse 1.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -71,7 +71,7 @@ He gained the lordship of the Gods. He became Lord.
 
 ---
 
-# Verse undefined.6
+# Verse 1.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -84,7 +84,7 @@ He became Chief Vrātya. He held a bow, even that Bow of Indra.
 
 ---
 
-# Verse undefined.7
+# Verse 1.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -97,7 +97,7 @@ His belly is dark-blue, his back is red.
 
 ---
 
-# Verse undefined.8
+# Verse 1.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -112,7 +112,7 @@ With dark-blue he envelops a detested rival, with red he pierces the man who hat
 
 ## Hymn 2: The same, continued
 
-# Verse undefined.1
+# Verse 2.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -125,7 +125,7 @@ He arose and went his way to the eastern region. The Brihat, the Rathantara, the
 
 ---
 
-# Verse undefined.2
+# Verse 2.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -138,7 +138,7 @@ He arose and went away to the southern region. Yajnāyajniya and Vāmadevya and 
 
 ---
 
-# Verse undefined.3
+# Verse 2.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -151,7 +151,7 @@ He arose and went away to the western region. Vairūpa and Vairāja, the Waters,
 
 ---
 
-# Verse undefined.4
+# Verse 2.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -166,7 +166,7 @@ He arose and went away to the northern region. Syaita and Naudhasa, the Seven Ri
 
 ## Hymn 3: Vrātya
 
-# Verse undefined.1
+# Verse 3.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -179,7 +179,7 @@ For a whole year he stood erect. The Gods said unto him, Why standest thou, O Vr
 
 ---
 
-# Verse undefined.2
+# Verse 3.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -192,7 +192,7 @@ They brought the couch for that Vrātya.
 
 ---
 
-# Verse undefined.3
+# Verse 3.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -205,7 +205,7 @@ Two of its feet were Summer and Spring, and two were Autumn and the Rains.
 
 ---
 
-# Verse undefined.4
+# Verse 3.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -218,7 +218,7 @@ Brihat and Rathantara were the two long boards, Yajnāyajniya and Vāmadevya the
 
 ---
 
-# Verse undefined.5
+# Verse 3.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -231,7 +231,7 @@ Holy verses were the strings lengthwise, and Yajus formulas the cross-tapes.
 
 ---
 
-# Verse undefined.6
+# Verse 3.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -244,7 +244,7 @@ Sacred lore was the blanket, Devotion the coverlet.
 
 ---
 
-# Verse undefined.7
+# Verse 3.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -257,7 +257,7 @@ The Sāman was the Cushion, and chanting the bolster.
 
 ---
 
-# Verse undefined.8
+# Verse 3.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -270,7 +270,7 @@ The Vrātya ascended that couch.
 
 ---
 
-# Verse undefined.9
+# Verse 3.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -283,7 +283,7 @@ The hosts of Gods were his attendants, solemn vows his messengers, and all creat
 
 ---
 
-# Verse undefined.10
+# Verse 3.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -298,7 +298,7 @@ All creatures become the worshippers of him who possesses this knowledge.
 
 ## Hymn 4: The Months
 
-# Verse undefined.1
+# Verse 4.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -311,7 +311,7 @@ For him they made the two Spring months protectors from the eastern region, and 
 
 ---
 
-# Verse undefined.2
+# Verse 4.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -324,7 +324,7 @@ They made the two Rain months, his protectors from the western region, and Vair�
 
 ---
 
-# Verse undefined.3
+# Verse 4.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -337,7 +337,7 @@ They made the two Autumn months his protectors from the northern region, and Sya
 
 ---
 
-# Verse undefined.4
+# Verse 4.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -350,7 +350,7 @@ They made the two Winter months his protectors from the region of the nadir, and
 
 ---
 
-# Verse undefined.5
+# Verse 4.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -365,7 +365,7 @@ They made the two Dewy months his protectors from the region of the zenith, and 
 
 ## Hymn 5: Bhava the archer
 
-# Verse undefined.1
+# Verse 5.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -378,7 +378,7 @@ For him they made the Archer Bhava a deliverer from the inter- mediate space of 
 
 ---
 
-# Verse undefined.2
+# Verse 5.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -391,7 +391,7 @@ They made Sarva the Archer his deliverer from the intermediate space of the sout
 
 ---
 
-# Verse undefined.3
+# Verse 5.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -404,7 +404,7 @@ They made Pasupati the Archer his deliverer from the inter- mediate space of the
 
 ---
 
-# Verse undefined.4
+# Verse 5.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -417,7 +417,7 @@ They made the Awful God, the Archer, his deliverer from the intermediate space o
 
 ---
 
-# Verse undefined.5
+# Verse 5.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -430,7 +430,7 @@ They made Rudra the Archer his deliverer from the intermediate space of the regi
 
 ---
 
-# Verse undefined.6
+# Verse 5.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -443,7 +443,7 @@ They made Mahādeva his deliverer from the intermediate space of the region of t
 
 ---
 
-# Verse undefined.7
+# Verse 5.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -458,7 +458,7 @@ They made Isana the Archer his deliverer from all the inter- mediate regions. Is
 
 ## Hymn 6: Father and the Great Father.
 
-# Verse undefined.1
+# Verse 6.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -471,7 +471,7 @@ He went his way to the region of the nadir. Earth and Agni and herbs and trees a
 
 ---
 
-# Verse undefined.2
+# Verse 6.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -484,7 +484,7 @@ He went his way to the region of the zenith. Right and Truth and Sun and Moon an
 
 ---
 
-# Verse undefined.3
+# Verse 6.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -497,7 +497,7 @@ He went away to the last region. Richas, Sāmans Yajus formulas and Devotion fol
 
 ---
 
-# Verse undefined.4
+# Verse 6.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -510,7 +510,7 @@ He went away to the great region. Itihāsa and Purāna and Gāthās and Nārāsa
 
 ---
 
-# Verse undefined.5
+# Verse 6.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -523,7 +523,7 @@ He went away to the supreme region. The Ēhavaniya, Gārha- patya, and Southern 
 
 ---
 
-# Verse undefined.6
+# Verse 6.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -536,7 +536,7 @@ He went away to the unindicated region. The Seasons, groups of seasons, the worl
 
 ---
 
-# Verse undefined.7
+# Verse 6.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -549,7 +549,7 @@ He went away to the unfrequented region. Thence he thought that he should not re
 
 ---
 
-# Verse undefined.8
+# Verse 6.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -562,7 +562,7 @@ He went away to the regions. Virāj and all the Gods and all the Deities followe
 
 ---
 
-# Verse undefined.9
+# Verse 6.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -577,7 +577,7 @@ He went away to all the intermediate spaces. Prajāpati and Parameshthin and the
 
 ## Hymn 7: Faith, Sacrifice, the world, food
 
-# Verse undefined.1
+# Verse 7.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -590,7 +590,7 @@ He, having become moving majesty, went to the ends of the earth. He became the s
 
 ---
 
-# Verse undefined.2
+# Verse 7.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -603,7 +603,7 @@ Prajāpati and Parameshthin and the Father and the Great Father and the Waters a
 
 ---
 
-# Verse undefined.3
+# Verse 7.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -616,7 +616,7 @@ The Waters, Faith, and rain approach him who possesses this knowledge.
 
 ---
 
-# Verse undefined.4
+# Verse 7.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -629,7 +629,7 @@ Faith, and Sacrifice and the world, having become food and nourishment, turned t
 
 ---
 
-# Verse undefined.5
+# Verse 7.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -644,7 +644,7 @@ Faith Sacrifice, the world, food and nourishment approach him who possesses this
 
 ## Hymn 8: The Rajanya
 
-# Verse undefined.1
+# Verse 8.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -657,7 +657,7 @@ He was filled with passion: from him sprang the Rājanya.
 
 ---
 
-# Verse undefined.2
+# Verse 8.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -670,7 +670,7 @@ He came to the people, to kinsmen, food and nourishment.
 
 ---
 
-# Verse undefined.3
+# Verse 8.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -685,7 +685,7 @@ He who possesses this knowledge becomes the dear home of the people, kinsmen, fo
 
 ## Hymn 9: Assembly, Army, and Wine.
 
-# Verse undefined.1
+# Verse 9.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -698,7 +698,7 @@ He went away to the people.
 
 ---
 
-# Verse undefined.2
+# Verse 9.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -711,7 +711,7 @@ Meeting and Assembly and Army and Wine followed him.
 
 ---
 
-# Verse undefined.3
+# Verse 9.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -726,7 +726,7 @@ He who hath this knowledge becomes the dear home of Meeting, Assembly, Army, and
 
 ## Hymn 10: The Priesthood
 
-# Verse undefined.1
+# Verse 10.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -739,7 +739,7 @@ So let the King, to whose house the Vrātya who possesses this knowledge comes a
 
 ---
 
-# Verse undefined.2
+# Verse 10.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -752,7 +752,7 @@ Honour him as superior to himself. So he Both not act against the interests of h
 
 ---
 
-# Verse undefined.3
+# Verse 10.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -765,7 +765,7 @@ From him, verily, sprang Priesthood and Royalty. They said, Into whom shall we e
 
 ---
 
-# Verse undefined.4
+# Verse 10.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -778,7 +778,7 @@ Let Priesthood enter into Brihaspati, and Royalty into Indra, was the answer.
 
 ---
 
-# Verse undefined.5
+# Verse 10.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -791,7 +791,7 @@ Hence Priesthood entered into Brihaspati and Royalty into Indra.
 
 ---
 
-# Verse undefined.6
+# Verse 10.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -804,7 +804,7 @@ Now this Earth is Brihaspati, and Heaven is Indra.
 
 ---
 
-# Verse undefined.7
+# Verse 10.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -817,7 +817,7 @@ Now this Agni is Priesthood, and yonder Sun is Royalty.
 
 ---
 
-# Verse undefined.8
+# Verse 10.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -830,7 +830,7 @@ Priesthood comes to him, and he becomes endowed with priestly lustre.
 
 ---
 
-# Verse undefined.9
+# Verse 10.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -843,7 +843,7 @@ Who knows that Earth is Brihaspati and Agni Priesthood.
 
 ---
 
-# Verse undefined.10
+# Verse 10.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -856,7 +856,7 @@ Great power comes to him and he becomes endowed with great power.
 
 ---
 
-# Verse undefined.11
+# Verse 10.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -871,7 +871,7 @@ Who knows that Āditya is Royalty and that Heaven is Indra.
 
 ## Hymn 11: The Guest
 
-# Verse undefined.1
+# Verse 11.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -884,7 +884,7 @@ Let him to whose house the Vrātya who possesses this knowledge comes as a guest
 
 ---
 
-# Verse undefined.2
+# Verse 11.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -897,7 +897,7 @@ Rise up of his own accord to meet him, and say, Vrātya, where didst thou pass t
 
 ---
 
-# Verse undefined.3
+# Verse 11.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -910,7 +910,7 @@ When he says to his guest, Where didst thou pass the night? he reserves for hims
 
 ---
 
-# Verse undefined.4
+# Verse 11.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -923,7 +923,7 @@ When he says to him, Here is water, he secures thereby water for himself.
 
 ---
 
-# Verse undefined.5
+# Verse 11.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -936,7 +936,7 @@ When he says to him, Let them refresh thee, he thereby wins vital breath to exce
 
 ---
 
-# Verse undefined.6
+# Verse 11.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -949,7 +949,7 @@ When he says to him, Vrātya, let it be as thou pleasest, he secures to himself 
 
 ---
 
-# Verse undefined.7
+# Verse 11.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -962,7 +962,7 @@ That which is pleasant comes to him, and he is the beloved of the beloved, who i
 
 ---
 
-# Verse undefined.8
+# Verse 11.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -975,7 +975,7 @@ When he says to him, Vrātya, as thy will is so let it be, he secures to himself
 
 ---
 
-# Verse undefined.9
+# Verse 11.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -988,7 +988,7 @@ Authority comes to him who possesses this knowledge, and he becomes the controll
 
 ---
 
-# Verse undefined.10
+# Verse 11.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1001,7 +1001,7 @@ When he says to him, Vrātya, as thy desire is so be it, he secures to himself t
 
 ---
 
-# Verse undefined.11
+# Verse 11.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1016,7 +1016,7 @@ His desire comes to him who possesses this knowledge and he gains the complete s
 
 ## Hymn 12: The Man
 
-# Verse undefined.1
+# Verse 12.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1029,7 +1029,7 @@ The man, to whose house, when the fires have been taken up from the hearth and t
 
 ---
 
-# Verse undefined.2
+# Verse 12.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1042,7 +1042,7 @@ Should of his own accord rise to meet him and say, Vrātya, give me permission. 
 
 ---
 
-# Verse undefined.3
+# Verse 12.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1055,7 +1055,7 @@ And if he gives permission he should sacrifice, if he does not permit him he sho
 
 ---
 
-# Verse undefined.4
+# Verse 12.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1068,7 +1068,7 @@ He who sacrifices when permitted by the Vrātya who possesses this knowledge.
 
 ---
 
-# Verse undefined.5
+# Verse 12.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1081,7 +1081,7 @@ Well knows the path that leads to the Fathers and the way that. leads to the God
 
 ---
 
-# Verse undefined.6
+# Verse 12.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1094,7 +1094,7 @@ He does not act in opposition to the Gods. It becomes his sacrifice.
 
 ---
 
-# Verse undefined.7
+# Verse 12.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1107,7 +1107,7 @@ The abode of the man who sacrifices when permitted by the Vrātya who possesses 
 
 ---
 
-# Verse undefined.8
+# Verse 12.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1120,7 +1120,7 @@ But he who sacrifices without the permission of the Vrātya who- possesses this 
 
 ---
 
-# Verse undefined.9
+# Verse 12.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1133,7 +1133,7 @@ Knows not the path that leads to the Fathers nor the way that leads to the Gods.
 
 ---
 
-# Verse undefined.10
+# Verse 12.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1146,7 +1146,7 @@ He is at variance with the Gods. He hath offered no accepted. sacrifice.
 
 ---
 
-# Verse undefined.11
+# Verse 12.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1161,7 +1161,7 @@ The abode of the man who sacrifices without the permission of the Vrātya who po
 
 ## Hymn 13: The Holy Realms
 
-# Verse undefined.1
+# Verse 13.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1174,7 +1174,7 @@ He in whose house the Vrātya who possesses this knowledge abides one night secu
 
 ---
 
-# Verse undefined.2
+# Verse 13.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1187,7 +1187,7 @@ A second night . . . . the holy realms that are in the firma- ment (the rest as 
 
 ---
 
-# Verse undefined.3
+# Verse 13.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1200,7 +1200,7 @@ A third night . . . the holy realms that are in heaven.
 
 ---
 
-# Verse undefined.4
+# Verse 13.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1213,7 +1213,7 @@ A fourth night . . . . the holy realms of the Holy.
 
 ---
 
-# Verse undefined.5
+# Verse 13.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1226,7 +1226,7 @@ Unlimited nights . . . . unlimited holy realms.
 
 ---
 
-# Verse undefined.6
+# Verse 13.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1239,7 +1239,7 @@ Now he to whose house a non-Vrātya, calling himself a Vrātya, and one in name 
 
 ---
 
-# Verse undefined.7
+# Verse 13.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1252,7 +1252,7 @@ Should punish him and not punish him.
 
 ---
 
-# Verse undefined.8
+# Verse 13.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1265,7 +1265,7 @@ He should serve him with food saying to himself, To this Deity I offer water: I 
 
 ---
 
-# Verse undefined.9
+# Verse 13.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1280,7 +1280,7 @@ To that Deity the sacrifice of him who has this knowledge is acceptable.
 
 ## Hymn 14: The Marut Host
 
-# Verse undefined.1
+# Verse 14.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1293,7 +1293,7 @@ He when he went away to the eastern region, went away having become the Marut ho
 
 ---
 
-# Verse undefined.2
+# Verse 14.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1306,7 +1306,7 @@ He, when he went away to the southern region, went away having become Indra, and
 
 ---
 
-# Verse undefined.3
+# Verse 14.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1319,7 +1319,7 @@ He, when he went away to the western region, went away having become King Varuna
 
 ---
 
-# Verse undefined.4
+# Verse 14.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1332,7 +1332,7 @@ He, when he went away to the northern region, went away having become King Soma 
 
 ---
 
-# Verse undefined.5
+# Verse 14.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1345,7 +1345,7 @@ He, when he went away to the stedfast region, went away having become Vishnu and
 
 ---
 
-# Verse undefined.6
+# Verse 14.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1358,7 +1358,7 @@ He, when he went away to animals, went away having become Rudra and having made 
 
 ---
 
-# Verse undefined.7
+# Verse 14.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1371,7 +1371,7 @@ He, when he went away to the Fathers, went away having be- come King Yama and ha
 
 ---
 
-# Verse undefined.8
+# Verse 14.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1384,7 +1384,7 @@ He, when he went away to men, went away having become Agni and having made the e
 
 ---
 
-# Verse undefined.9
+# Verse 14.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1397,7 +1397,7 @@ He, when he went away to the upper region, went away having become Brihaspati an
 
 ---
 
-# Verse undefined.10
+# Verse 14.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1410,7 +1410,7 @@ He, when he went away to the Gods, went away having become Isana and having made
 
 ---
 
-# Verse undefined.11
+# Verse 14.11
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1423,7 +1423,7 @@ He, when he went away to creatures, went away having become Prajāpati and havin
 
 ---
 
-# Verse undefined.12
+# Verse 14.12
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1438,7 +1438,7 @@ He, when he went away to all the intermediate spaces, went away having become Pa
 
 ## Hymn 15: The Vital Breath
 
-# Verse undefined.1
+# Verse 15.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1451,7 +1451,7 @@ Of that Vrātya.
 
 ---
 
-# Verse undefined.2
+# Verse 15.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1464,7 +1464,7 @@ There are seven vital airs, seven downward breaths, seven diff- used breaths.
 
 ---
 
-# Verse undefined.3
+# Verse 15.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1477,7 +1477,7 @@ His first vital breath, called Upward, is this Agni.
 
 ---
 
-# Verse undefined.4
+# Verse 15.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1490,7 +1490,7 @@ His second vital breath, called Mature, is that Āditya.
 
 ---
 
-# Verse undefined.5
+# Verse 15.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1503,7 +1503,7 @@ His third vital breath, called Approached, is that Moon.
 
 ---
 
-# Verse undefined.6
+# Verse 15.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1516,7 +1516,7 @@ His fourth vital breath, called Pervading is this Pavamāna.
 
 ---
 
-# Verse undefined.7
+# Verse 15.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1529,7 +1529,7 @@ His fifth vital breath, called Source, are these Waters.
 
 ---
 
-# Verse undefined.8
+# Verse 15.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1542,7 +1542,7 @@ His sixth vital breath, called Dear, are these domestic animals.
 
 ---
 
-# Verse undefined.9
+# Verse 15.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1557,7 +1557,7 @@ His seventh vital breath, called Unlimited, are these creatures.
 
 ## Hymn 16: The Downward Breath
 
-# Verse undefined.1
+# Verse 16.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1570,7 +1570,7 @@ His first downward breath is the time of Full Moon.
 
 ---
 
-# Verse undefined.2
+# Verse 16.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1583,7 +1583,7 @@ His second downward breath is the eighth day after Full Moon.
 
 ---
 
-# Verse undefined.3
+# Verse 16.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1596,7 +1596,7 @@ His third downward breath is the night of New Moon.
 
 ---
 
-# Verse undefined.4
+# Verse 16.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1609,7 +1609,7 @@ His fourth downward breath is Faith.
 
 ---
 
-# Verse undefined.5
+# Verse 16.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1622,7 +1622,7 @@ His fifth downward breath is Consecration.
 
 ---
 
-# Verse undefined.6
+# Verse 16.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1635,7 +1635,7 @@ His sixth downward breath is Sacrifice.
 
 ---
 
-# Verse undefined.7
+# Verse 16.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1650,7 +1650,7 @@ His seventh downward breath are these sacrificial fees.
 
 ## Hymn 17: The Diffused Breath
 
-# Verse undefined.1
+# Verse 17.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1663,7 +1663,7 @@ His first diffused breath is this Earth.
 
 ---
 
-# Verse undefined.2
+# Verse 17.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1676,7 +1676,7 @@ His second diffused breath is that Firmament.
 
 ---
 
-# Verse undefined.3
+# Verse 17.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1689,7 +1689,7 @@ His third diffused breath is that Heaven.
 
 ---
 
-# Verse undefined.4
+# Verse 17.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1702,7 +1702,7 @@ His fourth diffused breath are those Constellations.
 
 ---
 
-# Verse undefined.5
+# Verse 17.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1715,7 +1715,7 @@ His fifth diffused breath are the Seasons.
 
 ---
 
-# Verse undefined.6
+# Verse 17.6
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1728,7 +1728,7 @@ His sixth diffused breath are the Season-groups.
 
 ---
 
-# Verse undefined.7
+# Verse 17.7
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1741,7 +1741,7 @@ His seventh diffused breath is the year.
 
 ---
 
-# Verse undefined.8
+# Verse 17.8
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1754,7 +1754,7 @@ With one and the same object the Gods go round the Year and the Seasons follow r
 
 ---
 
-# Verse undefined.9
+# Verse 17.9
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1767,7 +1767,7 @@ When they surround the Sun on the day of New Moon, and that time of Full Moon.
 
 ---
 
-# Verse undefined.10
+# Verse 17.10
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1782,7 +1782,7 @@ That one immortality of theirs is just an oblation.
 
 ## Hymn 18: The Body
 
-# Verse undefined.1
+# Verse 18.1
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1795,7 +1795,7 @@ Of that Vrātya.
 
 ---
 
-# Verse undefined.2
+# Verse 18.2
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1808,7 +1808,7 @@ The right eye is the Sun and the left eye is the Moon.
 
 ---
 
-# Verse undefined.3
+# Verse 18.3
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1821,7 +1821,7 @@ His right ear is Agni and his left ear is Pavamāna.
 
 ---
 
-# Verse undefined.4
+# Verse 18.4
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
@@ -1834,7 +1834,7 @@ Day and Night are his nostrils. Diti and Aditi are his head and skull.
 
 ---
 
-# Verse undefined.5
+# Verse 18.5
 
 ## Sanskrit
 [Add Devanagari Sanskrit]
